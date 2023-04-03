@@ -29,8 +29,7 @@ def get_ap(df, label_column, top_percentile=0.5):
     return average_precision_score(y_true=df[label_column], y_score=df["score"])
 
 def calc_mean_average_precision(df, label_column):
-    precisions = [(topic.capitalize() + " AP", get_ap(group, 'label_strict')) for topic, group in df.groupby(["topic"])]
-    print(precisions)
+    precisions = [(topic.capitalize() + " AP", get_ap(group, label_column)) for topic, group in df.groupby(["topic"])]
     return np.mean(list(dict(precisions).values()))
 
 def evaluate_predictions(merged_df):
@@ -98,13 +97,16 @@ def match_comment_with_keypoints(result, kp_dict, comment_dict):
 
 
 
-def perform_preds(model, comment_df, kp_df, append_topic):
+def perform_preds(model, comment_df, kp_df, isTopic=True):
     comment_keypoints = {}
+    if 'isMultiAspect' in comment_df:
+        isTopic = any(comment_df['isMultiAspect'] == False)
+    
     for topic in comment_df.topic.unique():
         topic_keypoints_ids = kp_df[(kp_df.topic==topic)]['key_point_id'].tolist()
         topic_keypoints = kp_df[(kp_df.topic==topic)]['key_point'].tolist()
 
-        if append_topic:
+        if isTopic:
             topic_keypoints = [topic + ' <SEP> ' + x for x in topic_keypoints]
 
         topic_keypoints_embeddings = model.encode(topic_keypoints, show_progress_bar=False)

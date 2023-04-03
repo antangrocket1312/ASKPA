@@ -18,7 +18,6 @@ import logging
 import os
 import sys
 
-sys.path.insert(0, '../../src-py/')
 import track_1_kp_matching
 from KeyPointEvaluator import KeyPointEvaluator
 

@@ -1,4 +1,8 @@
 /code/training_material/siamese-models/*
+!/code/training_material/siamese-models/*.md
+
+/code/training_material/roberta-large-pretrained-yelp/*
+!/code/training_material/roberta-large-pretrained-yelp/*.md
 
 __pycache__/
 *.py[cod]
