@@ -11,7 +11,7 @@ We released the training and evaluation datasets of ASKPA. Datasets can be acces
 following the [```training/```](/data/training) and [```evaluation/```](/data/evaluation) subdirectories for each dataset
 
 Files in each folder:
-* ```.pkl```: data in .pkl for format, accessible via Pandas library.
+* ```.pkl```: data in .pkl format, accessible via Pandas library.
 * ```.csv```: data in .csv format.
 
 ## Model checkpoints
