@@ -18,14 +18,13 @@ Files in each folder:
 Model checkpoints are saved and accessed under the [```code/model/```](/code/model) folder. We released two models 
 for reproducibility and evaluation.
 
-Model checkpoints can be downloaded from this [Google Drive link](https://drive.google.com/drive/folders/1kIEsac0e819rX63PmENPfTctWWww1mIC?usp=sharing).
+We made the two models available under the Hugggingface Hub as:
+- [```quangantang/roberta-large-pretrained-yelp```](https://huggingface.co/quangantang/roberta-large-pretrained-yelp): The checkpoint for the language model adapted to business reviews domain,
+by pretraining on the Yelp dataset using the Masked LM task.
+- [```quangantang/roberta-large-askpa-matching ```](https://huggingface.co/quangantang/roberta-large-askpa-matching): the checkpoint for the trained KP Matching model of ASKPA 
+used for our evaluation.
 
-The `roberta-large-pretrained-yelp.rar` contains the checkpoint for the language model adapted to business reviews domain,
-by pretraining on the Yelp dataset using the Masked LM task. The checkpoint must be located under the [```code/model/```](/model) folder
-
-The `roberta-large-yelp-pretrained-contrastive-10-epochs-2023-02-15_23-31-51.rar` contains the checkpoint for the trained KP Matching model of ASKPA
-used for our evaluation. The checkpoint must be located under the [```code/model/siamese-models```](code/model/siamese-models). 
-Newly trained models should be found in the under the same folder.
+Newly trained models should be found in the under the [```code/model/siamese-models```](code/model/siamese-models) folder.
 
 
 ## Code
