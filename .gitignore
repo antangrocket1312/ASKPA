@@ -1,6 +1,8 @@
 /code/model/*
 !/code/model/*.md
 
+/data/yelp/*
+
 /code/Model_Upload.ipynb
 
 __pycache__/
