@@ -1,35 +1,20 @@
 key_point_id,key_point,full_key_point,topic,domain
-kp_0_0,did margaritas <SEP> positive,Margaritas did n't disappoint either !  ,drink -> alcohol,restaurant
-kp_0_1,disappointment beer sampler <SEP> negative,Beer sampler a disappointment,drink -> alcohol,restaurant
-kp_0_2,extensive wine list <SEP> positive,The wine list is extensive .,drink -> alcohol,restaurant
-kp_0_3,fantastic beer <SEP> positive,Fantastic beer and whiskey list .,drink -> alcohol,restaurant
-kp_0_4,good bang for your buck <SEP> positive,good bang for your buck .,drink -> alcohol,restaurant
-kp_0_5,good cocktail list <SEP> positive,Good cocktail list,drink -> alcohol,restaurant
-kp_0_6,good variety of tequilas <SEP> positive,Good variety of tequilas .,drink -> alcohol,hotel
-kp_0_7,great bigelow hotel <SEP> positive,Hotel - Great Bigelow amenities .  ,drink -> alcohol,hotel
-kp_0_8,great cocktails <SEP> positive,Great cocktails and wines .,drink -> alcohol,restaurant
-kp_0_9,great selection of beers <SEP> positive,Great selection of Beers .  ,drink -> alcohol,restaurant
-kp_0_10,great well crafted signature cocktails <SEP> positive,Great well crafted signature cocktails .,drink -> alcohol,restaurant
-kp_0_11,great wine list <SEP> positive,Pros : Great wine list,drink -> alcohol,restaurant
-kp_0_12,hidden gem <SEP> positive,What a hidden gem .   ,drink -> alcohol,restaurant
-kp_0_13,impressive wine list <SEP> positive,Wine list is also impressive .  ,drink -> alcohol,restaurant
-kp_0_14,world class golf course <SEP> positive,World Class golf course .,drink -> alcohol,hotel
-kp_1_0,dried out pig wings <SEP> negative,Pig Wings were dried out .,food -> healthiness,restaurant
-kp_1_1,pungent brussel sprouts <SEP> negative,The brussel sprouts were pungent .    ,food -> healthiness,restaurant
-kp_2_0,always fast service <SEP> positive,Service is always FAST !,wait-time,restaurant
-kp_2_1,always on point service <SEP> positive,Service is always on point .,wait-time,restaurant
-kp_2_2,fast & friendly service <SEP> positive,Service is fast & friendly .,wait-time,restaurant
-kp_2_3,fast and efficient service <SEP> positive,Service was fast and efficient .,wait-time,restaurant
-kp_2_4,fast and friendly service <SEP> positive,Service was fast and friendly .,wait-time,restaurant
-kp_2_5,fast and polite service <SEP> positive,Service was fast and polite .   ,wait-time,restaurant
-kp_2_6,great late night stop <SEP> positive,Great late night stop .,wait-time,restaurant
-kp_2_7,great pool side service <SEP> positive,Great pool side service .  ,wait-time,hotel
-kp_2_8,great wait staff <SEP> positive,Great wait staff too .,wait-time,restaurant
-kp_2_9,heavily congested elevators <SEP> negative,Elevators were heavily congested .  ,wait-time,hotel
-kp_2_10,painfully slow service <SEP> negative,Service was painfully slow .  ,wait-time,hotel
-kp_2_11,quick and attentive service <SEP> positive,Service was quick and attentive .,wait-time,restaurant
-kp_2_12,quick and friendly service <SEP> positive,Service was quick and friendly .,wait-time,restaurant
-kp_2_13,slow food <SEP> negative,Food was slow and lukewarm .  ,wait-time,restaurant
-kp_2_14,swift and fast service <SEP> positive,Service is swift and fast .,wait-time,restaurant
-kp_2_15,very poor wifi <SEP> negative,WiFi was very poor also .  ,wait-time,hotel
-kp_2_16,wonderful stay <SEP> positive,Thanks again for a wonderful stay,wait-time,hotel
+kp_0_0,did margaritas <SEP> positive,Margaritas did n't disappoint either !  ,drink -> alcohol,Restaurants
+kp_0_1,good selection of cocktails <SEP> positive,Good selection of cocktails .,drink -> alcohol,Restaurants
+kp_0_2,great apple cider <SEP> positive,Great apple cider and donuts .,drink -> alcohol,Arts & Entertainment
+kp_0_3,great local cocktails <SEP> positive,Great local cocktails,drink -> alcohol,Arts & Entertainment
+kp_0_4,impressive wine list <SEP> positive,Wine list is also impressive .  ,drink -> alcohol,Restaurants
+kp_0_5,overpriced beer <SEP> negative,Beer was overpriced .,drink -> alcohol,Restaurants
+kp_0_6,poor beer selection <SEP> negative,Beer selection is poor .,drink -> alcohol,Restaurants
+kp_1_0,always comfortable beds <SEP> positive,The beds are always comfortable .  ,restaurant -> comfort,Hotels
+kp_1_1,assigned seating <SEP> positive,I love the assigned seating .,restaurant -> comfort,Arts & Entertainment
+kp_1_2,comfortable beds <SEP> positive,Beds were comfortable .,restaurant -> comfort,Hotels
+kp_1_3,comfortable seating <SEP> positive,Seating was comfortable and spacious .,restaurant -> comfort,Restaurants
+kp_1_4,comfy beds <SEP> positive,"beds were comfy ,",restaurant -> comfort,Hotels
+kp_1_5,comfy chairs <SEP> positive,Comfy chairs and couches .,restaurant -> comfort,Hotels
+kp_1_6,comfy recliners <SEP> positive,The recliners are so comfy,restaurant -> comfort,Arts & Entertainment
+kp_1_7,super comfortable beds <SEP> positive,The beds are super comfortable .,restaurant -> comfort,Hotels
+kp_1_8,super comfortable seats <SEP> positive,Super comfortable seats .,restaurant -> comfort,Arts & Entertainment
+kp_1_9,understaffed front desk <SEP> negative,The front desk is understaffed .  ,restaurant -> comfort,Hotels
+kp_1_10,unorganized place <SEP> negative,Very unorganized place .,restaurant -> comfort,Automotive
+kp_1_11,very comfortable seating <SEP> positive,Very comfortable seating .,restaurant -> comfort,Arts & Entertainment

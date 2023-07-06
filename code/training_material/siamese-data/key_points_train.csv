@@ -1,340 +1,349 @@
 key_point_id,key_point,full_key_point,topic,domain
-kp_0_0,broken pool fountains <SEP> negative,The pool fountains are broken .,drink -> quality,hotel
-kp_0_1,chewy filet <SEP> negative,Filet was dry and chewy .  ,drink -> quality,restaurant
-kp_0_2,excellent drinks <SEP> positive,Excellent drinks and wine selection .,drink -> quality,restaurant
-kp_0_3,free sangria <SEP> positive,Free Sangria from 5pm-6pm everyday,drink -> quality,hotel
-kp_0_4,fresh ceviche <SEP> positive,Ceviche was fresh & delicious -,drink -> quality,restaurant
-kp_0_5,great drinks <SEP> positive,Great drinks and desserts .,drink -> quality,restaurant
-kp_0_6,leaked room <SEP> negative,Room leaked water from rain .,drink -> quality,hotel
-kp_0_7,solid wine list <SEP> positive,Solid wine list .,drink -> quality,restaurant
-kp_0_8,unique libations <SEP> positive,Interesting and unique libations .    ,drink -> quality,restaurant
-kp_0_9,unlimited wristbands <SEP> positive,We got unlimited wristbands on Groupon,drink -> quality,hotel
-kp_0_10,well made drinks <SEP> positive,Drinks were well made .,drink -> quality,restaurant
-kp_1_0,a bit overdone burger <SEP> negative,Burger came out a bit overdone,food -> quality,restaurant
-kp_1_1,amazing filet steak <SEP> positive,Amazing Filet Steak for this price  ,food -> quality,hotel
-kp_1_2,amazing food <SEP> positive,Amazing food for a buffet .,food -> quality,restaurant
-kp_1_3,amazing sushi <SEP> positive,Amazing sushi and sashimi .,food -> quality,restaurant
-kp_1_4,authentic chinese desserts <SEP> positive,Authentic chinese desserts were impressive .,food -> quality,restaurant
-kp_1_5,authentic food <SEP> positive,Authentic food done right .,food -> quality,restaurant
-kp_1_6,authentic mexican food <SEP> positive,Authentic Mexican food .,food -> quality,restaurant
-kp_1_7,authentic rustic canadian fare <SEP> positive,Authentic rustic Canadian fare .,food -> quality,restaurant
-kp_1_8,beautifully plated <SEP> positive,All delicious and beautifully plated .,food -> quality,restaurant
-kp_1_9,below average food quality <SEP> negative,Food quality was below average .,food -> quality,restaurant
-kp_1_10,best bolognese <SEP> positive,Bolognese was the best EVR .,food -> quality,restaurant
-kp_1_11,best fish and chips <SEP> positive,Best fish and chips,food -> quality,hotel
-kp_1_12,best sushi <SEP> positive,The BEST sushi in Madison .  ,food -> quality,restaurant
-kp_1_13,best thai <SEP> positive,Best Thai in this area !,food -> quality,restaurant
-kp_1_14,consistently good food <SEP> positive,Food is consistently good .  ,food -> quality,hotel
-kp_1_14,consistently good food <SEP> positive,Food is consistently good .   ,food -> quality,restaurant
-kp_1_15,consistently good sushi <SEP> positive,The sushi is consistently good .,food -> quality,restaurant
-kp_1_16,cooked meat <SEP> positive,Meat was cooked to perfection .,food -> quality,restaurant
-kp_1_17,cooked perfectly filet mignon <SEP> positive,Filet mignon cooked perfectly .  ,food -> quality,restaurant
-kp_1_18,decent food selection <SEP> positive,Food selection was decent .,food -> quality,restaurant
-kp_1_19,delicious carne asada tacos <SEP> positive,Carne Asada tacos were delicious .,food -> quality,restaurant
-kp_1_20,dry food <SEP> negative,Food was dry and bland .   ,food -> quality,restaurant
-kp_1_21,enjoyed appetizers <SEP> positive,Enjoyed a selection of appetizers .,food -> quality,restaurant
-kp_1_22,excellent food <SEP> positive,Excellent food reasonably priced .,food -> quality,hotel
-kp_1_22,excellent food <SEP> positive,Excellent food and service .,food -> quality,restaurant
-kp_1_23,excellent food quality <SEP> positive,: The food quality was excellent,food -> quality,restaurant
-kp_1_24,excellent hamburgers <SEP> positive,Excellent hamburgers and margaritas .,food -> quality,hotel
-kp_1_25,fantastic food <SEP> positive,Fantastic food all around .,food -> quality,hotel
-kp_1_25,fantastic food <SEP> positive,Fantastic food and service !,food -> quality,restaurant
-kp_1_26,fantastic steaks <SEP> positive,Fantastic Steaks .,food -> quality,restaurant
-kp_1_27,fresh bread <SEP> positive,Bread was fresh and warm .,food -> quality,restaurant
-kp_1_28,fresh food <SEP> positive,Food was fresh and flavourful .,food -> quality,restaurant
-kp_1_29,fresh foods <SEP> positive,Foods are fresh and creative .,food -> quality,restaurant
-kp_1_30,fresh ingredients <SEP> positive,Fresh ingredients and it shows .,food -> quality,restaurant
-kp_1_31,fresh salads <SEP> positive,Salads are fresh and tasty .,food -> quality,restaurant
-kp_1_32,fresh sushi <SEP> positive,Sushi was fresh and delicious .  ,food -> quality,restaurant
-kp_1_33,good family fun <SEP> positive,Good family fun for all ages,food -> quality,hotel
-kp_1_34,good food <SEP> positive,Food was good yet overpriced .,food -> quality,restaurant
-kp_1_35,good variety of side dishes <SEP> positive,A good variety of side dishes,food -> quality,restaurant
-kp_1_36,great affordable food <SEP> positive,Great affordable food .,food -> quality,restaurant
-kp_1_37,great asian fusion restaurant <SEP> positive,Great Asian fusion restaurant .,food -> quality,restaurant
-kp_1_38,great authentic indian food <SEP> positive,Great authentic Indian food .,food -> quality,restaurant
-kp_1_39,great bloody mary selection <SEP> positive,Great bloody Mary selection .  ,food -> quality,restaurant
-kp_1_40,great bun <SEP> positive,Great bun and cheese,food -> quality,restaurant
-kp_1_41,great food <SEP> positive,Great food and beer selection .,food -> quality,restaurant
-kp_1_42,great food selection <SEP> positive,Great food selection,food -> quality,hotel
-kp_1_42,great food selection <SEP> positive,Food selection was great .,food -> quality,restaurant
-kp_1_43,great for romantic dinner <SEP> positive,Great for romantic dinner too .,food -> quality,restaurant
-kp_1_44,great high quality steak house <SEP> positive,Great high quality steak house .,food -> quality,restaurant
-kp_1_45,great restaurant <SEP> positive,Great restaurant for a celebration .,food -> quality,restaurant
-kp_1_46,great salads <SEP> positive,"Great salads , service .",food -> quality,restaurant
-kp_1_47,great sushi <SEP> positive,Great sushi and sashimi .,food -> quality,restaurant
-kp_1_48,high - end asian dining <SEP> positive,High - end asian dining .  ,food -> quality,restaurant
-kp_1_49,high quality steak <SEP> positive,High quality steak .,food -> quality,restaurant
-kp_1_50,homemade pastas <SEP> positive,Homemade pastas and pizza .,food -> quality,restaurant
-kp_1_51,impeccable food <SEP> positive,Impeccable Food and Service !  ,food -> quality,restaurant
-kp_1_52,kept clean washrooms <SEP> positive,Washrooms are kept clean .,food -> quality,hotel
-kp_1_53,lacked flavor chicken noodle soup <SEP> negative,Chicken noodle soup lacked flavor .  ,food -> quality,restaurant
-kp_1_54,lacked flavor food <SEP> negative,The food itself lacked flavor .,food -> quality,hotel
-kp_1_55,lukewarm shrimp skewers <SEP> negative,Shrimp skewers lukewarm and oversalted .,food -> quality,restaurant
-kp_1_56,not seasoned rice <SEP> negative,Rice was not seasoned .,food -> quality,restaurant
-kp_1_57,outstanding eating choices <SEP> positive,they have outstanding eating choices,food -> quality,hotel
-kp_1_58,perfect valentine 's day lunch <SEP> positive,Perfect Valentine 's Day lunch !,food -> quality,restaurant
-kp_1_59,perfection cooked <SEP> positive,Both were cooked to perfection .,food -> quality,hotel
-kp_1_60,perfectly seasoned <SEP> positive,Crispy and perfectly seasoned .,food -> quality,restaurant
-kp_1_61,phenomenal food <SEP> positive,Phenomenal food and service .,food -> quality,restaurant
-kp_1_62,plentiful fries <SEP> positive,Fries were plentiful and crisp .  ,food -> quality,hotel
-kp_1_63,poorly cooked food <SEP> negative,Poorly cooked food,food -> quality,restaurant
-kp_1_64,pretty diverse brunch menu <SEP> positive,The brunch menu was pretty diverse,food -> quality,restaurant
-kp_1_65,quintessential steakhouse <SEP> positive,The quintessential steakhouse .,food -> quality,restaurant
-kp_1_66,rather tasteless cod <SEP> negative,The cod was rather tasteless .,food -> quality,restaurant
-kp_1_67,reliable korean cuisine <SEP> positive,Tasty and reliable Korean cuisine .,food -> quality,restaurant
-kp_1_68,sub par food quality <SEP> negative,Food quality is sub par .,food -> quality,restaurant
-kp_1_69,tasty food <SEP> positive,Great selection of tasty food .,food -> quality,restaurant
-kp_1_70,tender brisket <SEP> positive,Brisket was tender and flavorful .   ,food -> quality,restaurant
-kp_1_71,tender meats <SEP> positive,Meats were tender and tasty .,food -> quality,restaurant
-kp_1_72,traditional rolls <SEP> positive,Both special and traditional rolls .  ,food -> quality,restaurant
-kp_1_73,undercooked rice <SEP> negative,Rice undercooked and bland .,food -> quality,restaurant
-kp_1_74,very authentic indian cuisine <SEP> positive,Very authentic Indian cuisine .,food -> quality,restaurant
-kp_1_75,very fresh ingredients <SEP> positive,Very fresh and flavorful ingredients .,food -> quality,restaurant
-kp_1_76,way calamari <SEP> negative,Calamari was way over salted .  ,food -> quality,restaurant
-kp_1_77,way food <SEP> negative,Food is way over priced .,food -> quality,restaurant
-kp_1_78,well breaded wings <SEP> negative,Wings were well breaded .  ,food -> quality,restaurant
-kp_1_79,well prepared meats <SEP> positive,Well prepared meats and vegetables .,food -> quality,restaurant
-kp_1_80,wonderful restaurant <SEP> positive,Wonderful restaurant in Old Montreal .,food -> quality,restaurant
-kp_2_0,awesome selection <SEP> positive,Awesome selection for vegetarians .,food -> variety,hotel
-kp_2_1,convenient for apex convention attendees <SEP> positive,Convenient for APEX convention attendees !,food -> variety,hotel
-kp_2_2,excellent selection <SEP> positive,Selection is excellent and plentiful .,food -> variety,restaurant
-kp_2_3,great selection <SEP> positive,Great selection and,food -> variety,restaurant
-kp_2_4,great selections <SEP> positive,The menu has great selections .,food -> variety,restaurant
-kp_2_5,lacks professionalism hotel <SEP> negative,This hotel totally lacks professionalism !    ,food -> variety,hotel
-kp_2_6,plentiful selections <SEP> positive,The selections were plentiful .,food -> variety,restaurant
-kp_2_7,poor selection <SEP> negative,The selection is so poor .,food -> variety,hotel
-kp_2_8,simple menu <SEP> positive,Menu is simple yet diverse .  ,food -> variety,restaurant
-kp_2_9,unbelievable menu choices <SEP> positive,Unbelievable menu choices .   ,food -> variety,restaurant
-kp_3_0,great vegan choices <SEP> positive,Also great vegan choices !,food -> vegetarian option,restaurant
-kp_4_0,big portions <SEP> positive,Portions are big for take out,food-quantity,restaurant
-kp_4_1,big rooms <SEP> positive,Rooms were big and comfortable .,food-quantity,hotel
-kp_4_2,generous portions <SEP> positive,Portions are generous .,food-quantity,restaurant
-kp_4_3,generous sized portions <SEP> positive,Generous sized portions .,food-quantity,restaurant
-kp_4_4,good portions <SEP> positive,portions are good .,food-quantity,restaurant
-kp_4_5,huge portion sizes <SEP> positive,Portion sizes are huge .,food-quantity,restaurant
-kp_4_6,large bathrooms <SEP> positive,Bathrooms are large and luxurious .,food-quantity,hotel
-kp_4_7,large lodge <SEP> positive,Lodge is large and accommodating .,food-quantity,hotel
-kp_4_8,perfect size portions <SEP> positive,Portions are perfect size .,food-quantity,restaurant
-kp_4_9,small casino <SEP> positive,Casino is small but inviting .,food-quantity,hotel
-kp_4_10,small portion <SEP> negative,charity bread small portion,food-quantity,restaurant
-kp_4_11,smaller portions <SEP> negative,Portions are getting smaller .  ,food-quantity,restaurant
-kp_4_12,too small portions <SEP> negative,Portions are too small .  ,food-quantity,restaurant
-kp_5_0,great date location <SEP> positive,Also a great date location,location,restaurant
-kp_6_0,cute place for <SEP> positive,Cute place for date night,recommendation,restaurant
-kp_6_1,disgusting place <SEP> negative,YOUR PLACE IS DISGUSTING !,recommendation,hotel
-kp_6_2,great place <SEP> positive,great place to chill at night,recommendation,hotel
-kp_6_2,great place <SEP> positive,Great place for special occasion,recommendation,restaurant
-kp_6_3,nice place <SEP> positive,Nice place for special occasions,recommendation,restaurant
-kp_6_4,perfect place for <SEP> positive,Perfect place for date night .,recommendation,restaurant
-kp_6_5,perfect place for a <SEP> positive,Perfect place for a staycation .,recommendation,hotel
-kp_6_6,pretty unacceptable experience overall <SEP> negative,Pretty unacceptable experience overall .,recommendation,restaurant
-kp_6_7,recommend dishes <SEP> positive,I highly recommend both dishes .,recommendation,restaurant
-kp_6_8,spot on recommendations <SEP> positive,Her recommendations were spot on .  ,recommendation,restaurant
-kp_6_9,wrong star rating <SEP> negative,Star rating is WRONG .,recommendation,hotel
-kp_7_0,accessible parking <SEP> positive,Parking was accessible and easy .  ,restaurant -> atmosphere,hotel
-kp_7_1,amazing experience <SEP> positive,Amazing experience and good quality,restaurant -> atmosphere,hotel
-kp_7_2,amazing star watching <SEP> positive,Amazing star watching and views .,restaurant -> atmosphere,hotel
-kp_7_3,astonishing gym / <SEP> positive,Astonishing Gym / Fitness facilities .,restaurant -> atmosphere,hotel
-kp_7_4,beautiful grounds <SEP> positive,"Beautiful grounds , well kept .",restaurant -> atmosphere,hotel
-kp_7_5,beautifully maintained grounds <SEP> positive,The grounds are beautifully maintained .,restaurant -> atmosphere,hotel
-kp_7_6,clean comfortable rooms <SEP> positive,Clean comfortable rooms .,restaurant -> atmosphere,hotel
-kp_7_7,clean hotel <SEP> positive,Hotel was clean and modern .,restaurant -> atmosphere,hotel
-kp_7_8,clean room <SEP> positive,Room was clean and comfortable .,restaurant -> atmosphere,hotel
-kp_7_9,clean well kept rooms <SEP> positive,Clean well kept rooms .,restaurant -> atmosphere,hotel
-kp_7_10,deplorable experience <SEP> negative,The whole experience was deplorable .,restaurant -> atmosphere,hotel
-kp_7_11,disturbing wall paint <SEP> negative,Disturbing green wall paint .,restaurant -> atmosphere,restaurant
-kp_7_12,excellent resort <SEP> positive,Sanctuary is an excellent resort .,restaurant -> atmosphere,hotel
-kp_7_13,fantastic guide <SEP> positive,Danny was a fantastic guide .,restaurant -> atmosphere,hotel
-kp_7_14,flatscreen tvs <SEP> positive,Flatscreen TVs Bluetooth stereo .,restaurant -> atmosphere,hotel
-kp_7_15,fun atmosphere <SEP> positive,Atmosphere is fun yet relaxing .,restaurant -> atmosphere,hotel
-kp_7_16,glendale gem <SEP> positive,Love this Glendale gem .  ,restaurant -> atmosphere,restaurant
-kp_7_17,gorgeous mountain views <SEP> positive,Pool had gorgeous mountain views  ,restaurant -> atmosphere,hotel
-kp_7_18,great amenities <SEP> positive,"Clean , with great amenities .",restaurant -> atmosphere,hotel
-kp_7_19,great and comfortable beds <SEP> positive,Great and comfortable beds .,restaurant -> atmosphere,hotel
-kp_7_20,great bar staff <SEP> positive,Great bar staff .,restaurant -> atmosphere,restaurant
-kp_7_21,great casual date night place <SEP> positive,Great casual date night place !,restaurant -> atmosphere,restaurant
-kp_7_22,great flavor <SEP> positive,Great flavor and texture .,restaurant -> atmosphere,restaurant
-kp_7_23,great furniture <SEP> positive,Great furniture and decor .  ,restaurant -> atmosphere,restaurant
-kp_7_24,great hiking location <SEP> positive,Great hiking location .,restaurant -> atmosphere,hotel
-kp_7_25,great local <SEP> positive,Great local barbecue shop .,restaurant -> atmosphere,restaurant
-kp_7_26,great rooms <SEP> positive,Great rooms and services .  ,restaurant -> atmosphere,hotel
-kp_7_27,great sports pub environment <SEP> positive,Great sports pub environment .,restaurant -> atmosphere,hotel
-kp_7_28,great tour guide <SEP> positive,Esther was a great tour guide,restaurant -> atmosphere,hotel
-kp_7_29,hidden gem <SEP> positive,What a hidden gem .  ,restaurant -> atmosphere,hotel
-kp_7_30,horrible parking <SEP> negative,Parking was horrible .,restaurant -> atmosphere,hotel
-kp_7_31,huge bathtubs <SEP> positive,Huge bathtubs plus shower .,restaurant -> atmosphere,hotel
-kp_7_32,immaculate grounds <SEP> positive,The grounds were immaculate .  ,restaurant -> atmosphere,hotel
-kp_7_33,inadequate meeting room lighting <SEP> negative,Meeting room lighting is inadequate .,restaurant -> atmosphere,hotel
-kp_7_34,ineffective av facilities <SEP> negative,AV facilities are ineffective .,restaurant -> atmosphere,hotel
-kp_7_35,little privacy bathroom <SEP> negative,The bathroom offered little privacy .,restaurant -> atmosphere,hotel
-kp_7_36,mismatched furnishings in room <SEP> negative,Mismatched furnishings in room .,restaurant -> atmosphere,hotel
-kp_7_37,modern bathrooms <SEP> positive,Bathrooms are modern and clean .,restaurant -> atmosphere,hotel
-kp_7_38,nice balance of <SEP> positive,Nice balance of flavours,restaurant -> atmosphere,restaurant
-kp_7_39,nice evening <SEP> positive,Evening is nice and peaceful .,restaurant -> atmosphere,hotel
-kp_7_40,nice pool area <SEP> positive,Pool area nice but outdated .,restaurant -> atmosphere,hotel
-kp_7_41,nicely appointed bathrooms <SEP> positive,Both bathrooms were nicely appointed .,restaurant -> atmosphere,hotel
-kp_7_42,outdated furniture <SEP> negative,Furniture is outdated .,restaurant -> atmosphere,hotel
-kp_7_43,plenty of loungers <SEP> positive,Plenty of loungers and shade .,restaurant -> atmosphere,hotel
-kp_7_44,plenty of outdoor exercise options <SEP> positive,Plenty of outdoor exercise options .   ,restaurant -> atmosphere,hotel
-kp_7_45,poor tv reception <SEP> negative,The TV reception was poor .,restaurant -> atmosphere,hotel
-kp_7_46,pretty views <SEP> positive,Pretty views and relaxing vibes .,restaurant -> atmosphere,hotel
-kp_7_47,scenic vistas <SEP> positive,Scenic vistas and architectural magic .,restaurant -> atmosphere,hotel
-kp_7_48,soothing lighting <SEP> positive,"Lighting , relaxing and soothing .",restaurant -> atmosphere,hotel
-kp_7_49,spacious rooms <SEP> positive,Rooms are spacious and comfortable .,restaurant -> atmosphere,hotel
-kp_7_50,tasteful seating <SEP> positive,Lighting and seating tasteful .,restaurant -> atmosphere,hotel
-kp_7_51,trendy environment <SEP> positive,Laid back yet trendy environment ...,restaurant -> atmosphere,restaurant
-kp_7_52,true local gem <SEP> positive,A true local Gem !,restaurant -> atmosphere,restaurant
-kp_7_53,underwhelming sides <SEP> negative,Sides were underwhelming .,restaurant -> atmosphere,restaurant
-kp_7_54,upscale restaurant <SEP> positive,Upscale restaurant without being stuffy .,restaurant -> atmosphere,restaurant
-kp_7_55,very important professionalism <SEP> positive,.. professionalism is very important,restaurant -> atmosphere,hotel
-kp_7_56,very romantic place <SEP> positive,Very romantic place for couples and,restaurant -> atmosphere,hotel
-kp_7_57,very spacious for private parties <SEP> positive,Very spacious for private parties .,restaurant -> atmosphere,restaurant
-kp_7_58,very welcoming atmosphere <SEP> positive,Very welcoming and relaxed atmosphere .,restaurant -> atmosphere,hotel
-kp_7_59,worst experience <SEP> negative,Worst experience of my life .,restaurant -> atmosphere,hotel
-kp_8_0,always comfortable beds <SEP> positive,The beds are always comfortable .  ,restaurant -> comfort,hotel
-kp_8_1,comfortable beds <SEP> positive,Comfortable beds and pillows .,restaurant -> comfort,hotel
-kp_8_2,comfortable rooms <SEP> positive,Rooms are comfortable and quiet .,restaurant -> comfort,hotel
-kp_8_3,comfortable seating <SEP> positive,Seating was comfortable and spacious .,restaurant -> comfort,restaurant
-kp_8_4,comfy beds <SEP> positive,"beds were comfy ,",restaurant -> comfort,hotel
-kp_8_5,comfy couches <SEP> positive,Plenty of comfy couches to sit,restaurant -> comfort,hotel
-kp_8_6,neglected table <SEP> negative,Our table was neglected .,restaurant -> comfort,restaurant
-kp_8_7,super comfortable beds <SEP> positive,Beds are super comfortable .,restaurant -> comfort,hotel
-kp_8_8,super comfy beds <SEP> positive,the beds were super comfy .,restaurant -> comfort,hotel
-kp_8_9,understaffed front desk <SEP> negative,The front desk is understaffed .  ,restaurant -> comfort,hotel
-kp_8_10,very comfortable beds <SEP> positive,Beds are very comfortable .,restaurant -> comfort,hotel
-kp_8_11,very comfortable velvet sofas <SEP> positive,Velvet sofas are very comfortable .,restaurant -> comfort,restaurant
-kp_9_0,5 star service <SEP> positive,Service = 5 Star Food,staff,restaurant
-kp_9_1,above and beyond staff <SEP> positive,Staff goes above and beyond .,staff,hotel
-kp_9_2,absolutely terrible service <SEP> negative,The service was absolutely terrible .,staff,restaurant
-kp_9_3,abysmal service <SEP> negative,Service is abysmal .,staff,hotel
-kp_9_4,accommodated staff <SEP> positive,The staff accommodated our needs .,staff,hotel
-kp_9_5,accommodating happy <SEP> positive,Happy is friendly and accommodating !,staff,restaurant
-kp_9_6,accommodating staff <SEP> positive,Staff was accommodating and friendly .,staff,hotel
-kp_9_7,always been excellent service <SEP> positive,Service has always been excellent .,staff,restaurant
-kp_9_8,amazing customer <SEP> positive,AMAZING customer service !,staff,hotel
-kp_9_9,amazing customer service <SEP> positive,Amazing customer service .,staff,hotel
-kp_9_10,amazing staff <SEP> positive,Amazing staff & customer service .,staff,hotel
-kp_9_11,attentive and friendly waitress <SEP> positive,Waitress was attentive and friendly .,staff,restaurant
-kp_9_12,attentive and kind waitress <SEP> positive,Waitress was attentive and kind .,staff,restaurant
-kp_9_13,attentive and responsive service <SEP> positive,Service was attentive and responsive .,staff,restaurant
-kp_9_14,attentive courteous <SEP> positive,They are attentive and courteous .,staff,restaurant
-kp_9_15,attentive detail <SEP> positive,Attentive to detail .,staff,hotel
-kp_9_16,attentive servers <SEP> positive,Servers were attentive .,staff,restaurant
-kp_9_17,attentive service <SEP> positive,Friendly and attentive service .,staff,restaurant
-kp_9_18,attentive staff <SEP> positive,Attentive staff and housekeeping .,staff,hotel
-kp_9_19,attentive wait staff <SEP> positive,Wait staff attentive and knowledgeable .,staff,restaurant
-kp_9_20,below average service <SEP> negative,Service was below average .,staff,restaurant
-kp_9_21,best service staff <SEP> positive,The best service staff around .,staff,restaurant
-kp_9_22,consistently delicious room service <SEP> positive,Room service was consistently delicious !,staff,hotel
-kp_9_23,courteous front desk personnel <SEP> positive,Front desk personnel are courteous,staff,hotel
-kp_9_24,courteous people <SEP> positive,People very kind and courteous .,staff,hotel
-kp_9_25,customer based staff <SEP> positive,The Staff were customer based .  ,staff,hotel
-kp_9_26,engaging everyone <SEP> positive,Everyone was engaging and accommodating .  ,staff,hotel
-kp_9_27,enthusiastic and efficient service <SEP> positive,Service was enthusiastic and efficient .  ,staff,restaurant
-kp_9_28,excellent and accommodating staff <SEP> positive,Staff was excellent and accommodating .,staff,hotel
-kp_9_29,excellent customer <SEP> positive,Excellent customer service .,staff,hotel
-kp_9_30,excellent room service <SEP> positive,Room service is excellent .,staff,hotel
-kp_9_31,excellent service <SEP> positive,Jeremy provided excellent service .,staff,restaurant
-kp_9_32,excellent with service <SEP> positive,Service excellent with smiles .,staff,restaurant
-kp_9_33,exceptional customer service <SEP> positive,Exceptional customer service .,staff,hotel
-kp_9_34,exceptional service <SEP> positive,Nikki provided exceptional service .,staff,restaurant
-kp_9_34,exceptional service <SEP> positive,Exceptional service and staff .,staff,hotel
-kp_9_35,extremely accommodating staff <SEP> positive,The staff is extremely accommodating .,staff,hotel
-kp_9_36,extremely professional service <SEP> positive,The service was extremely professional .,staff,restaurant
-kp_9_37,fantastic customer service <SEP> positive,Fantastic customer service .,staff,hotel
-kp_9_38,fantastic service <SEP> positive,Fantastic service and food !,staff,restaurant
-kp_9_38,fantastic service <SEP> positive,Fantastic service at every level .  ,staff,hotel
-kp_9_39,fast and courteous server <SEP> positive,Server was fast and courteous .  ,staff,restaurant
-kp_9_40,fast and professional service <SEP> positive,Service was fast and professional .  ,staff,restaurant
-kp_9_41,friendly and attentive management <SEP> positive,Management was friendly and attentive .  ,staff,hotel
-kp_9_42,friendly and cheerful servers <SEP> positive,Servers are friendly and cheerful .  ,staff,restaurant
-kp_9_43,friendly and courteous staff <SEP> positive,Friendly and courteous staff .,staff,restaurant
-kp_9_43,friendly and courteous staff <SEP> positive,Friendly and courteous staff .  ,staff,hotel
-kp_9_44,friendly and efficient server <SEP> positive,Server was friendly and efficient .,staff,restaurant
-kp_9_45,friendly and efficient service <SEP> positive,Service was friendly and efficient .,staff,restaurant
-kp_9_45,friendly and efficient service <SEP> positive,Service was friendly and efficient .,staff,hotel
-kp_9_46,friendly and efficient staff <SEP> positive,Staff are friendly and efficient .  ,staff,restaurant
-kp_9_47,friendly and helpful staff <SEP> positive,Friendly and helpful staff .,staff,hotel
-kp_9_48,friendly and helpful waitress <SEP> positive,Waitress was friendly and helpful .,staff,restaurant
-kp_9_49,friendly and knowledgeable staff <SEP> positive,Friendly and knowledgeable staff .,staff,restaurant
-kp_9_49,friendly and knowledgeable staff <SEP> positive,Staff was friendly and knowledgeable .,staff,hotel
-kp_9_50,friendly and professional service <SEP> positive,Service was friendly and professional .,staff,restaurant
-kp_9_51,friendly and prompt service <SEP> positive,Service was friendly and prompt .  ,staff,restaurant
-kp_9_52,friendly and speedy service <SEP> positive,Service was friendly and speedy .,staff,restaurant
-kp_9_53,friendly service <SEP> positive,Friendly service .,staff,hotel
-kp_9_54,friendly staff <SEP> positive,Friendly staff and management .,staff,restaurant
-kp_9_54,friendly staff <SEP> positive,Friendly staff .,staff,hotel
-kp_9_55,friendly waitress <SEP> positive,Waitress is friendly and personable .  ,staff,restaurant
-kp_9_56,good service <SEP> positive,! Good service and atmosphere .,staff,restaurant
-kp_9_56,good service <SEP> positive,keep up the good service .,staff,hotel
-kp_9_57,good team <SEP> positive,They make a good team .,staff,hotel
-kp_9_58,gracious and friendly staff <SEP> positive,Gracious and friendly staff .,staff,hotel
-kp_9_59,great and attentive service <SEP> positive,Service was great and attentive !,staff,restaurant
-kp_9_60,great bartenders <SEP> positive,Great bartenders .,staff,restaurant
-kp_9_61,great customer <SEP> positive,Great customer service by all .,staff,hotel
-kp_9_62,great customer service <SEP> positive,Great customer service from Jennifer,staff,hotel
-kp_9_63,great front desk staff <SEP> positive,front desk staff was great .,staff,hotel
-kp_9_64,great informative service <SEP> positive,Great informative service .  ,staff,restaurant
-kp_9_65,great people <SEP> positive,Great people watching too !,staff,hotel
-kp_9_66,great therapists <SEP> positive,Great therapists .  ,staff,hotel
-kp_9_67,great valet service <SEP> positive,Great valet service .,staff,hotel
-kp_9_68,great waitstaff <SEP> positive,Great waitstaff .,staff,restaurant
-kp_9_69,helpful and caring staff <SEP> positive,Staff seems helpful and caring .,staff,hotel
-kp_9_70,helpful information staff <SEP> positive,Information staff has been helpful .   ,staff,hotel
-kp_9_71,hit or miss service <SEP> negative,Service is hit or miss,staff,restaurant
-kp_9_72,horrible customer service <SEP> negative,Pool manager horrible customer service ...,staff,hotel
-kp_9_73,impeccable customer service <SEP> positive,The customer service is impeccable !,staff,restaurant
-kp_9_74,impeccable service <SEP> positive,The service is impeccable .,staff,restaurant
-kp_9_74,impeccable service <SEP> positive,The service is impeccable throughout .  ,staff,hotel
-kp_9_75,incredible personalized service <SEP> positive,"Yes , incredible personalized service .",staff,restaurant
-kp_9_76,incredibly accommodating <SEP> positive,Incredibly accommodating and hospitable .,staff,restaurant
-kp_9_77,knowledgeable servers <SEP> positive,Servers are knowledgeable and attentive .,staff,restaurant
-kp_9_78,lacking hospitality manners <SEP> negative,Hospitality manners are lacking .  ,staff,hotel
-kp_9_79,lovely service <SEP> positive,"Terrific variety , lovely service !",staff,restaurant
-kp_9_80,outstanding service <SEP> positive,Outstanding service .,staff,restaurant
-kp_9_80,outstanding service <SEP> positive,Outstanding service and location .,staff,hotel
-kp_9_81,overpriced for <SEP> negative,Overpriced   for low quality .,staff,restaurant
-kp_9_82,personable staff <SEP> positive,Very friendly and personable staff .,staff,restaurant
-kp_9_83,pleasant and attentive waiter <SEP> positive,Waiter was pleasant and attentive .,staff,hotel
-kp_9_84,pleasant and fast service <SEP> positive,Service was pleasant and fast .,staff,restaurant
-kp_9_85,professional security 24/7 <SEP> positive,There is professional security 24/7 .,staff,hotel
-kp_9_86,professional staff <SEP> positive,Staff was professional and courteous .  ,staff,restaurant
-kp_9_87,prompt and attentive service <SEP> positive,Service was prompt and attentive .,staff,restaurant
-kp_9_88,prompt and friendly service <SEP> positive,Service was prompt and friendly .,staff,restaurant
-kp_9_89,prompt and pleasant service <SEP> positive,Service is prompt and pleasant .,staff,restaurant
-kp_9_90,prompt service <SEP> positive,Service was also prompt .,staff,restaurant
-kp_9_91,quite rude servers <SEP> negative,The servers were quite rude .  ,staff,hotel
-kp_9_92,responsive and efficient luggage valet <SEP> positive,Responsive and efficient luggage valet .,staff,hotel
-kp_9_93,sincere service <SEP> positive,Service was sincere and attentive .,staff,restaurant
-kp_9_94,sub - par service <SEP> negative,Service was sub - par .,staff,restaurant
-kp_9_95,super courteous staff <SEP> positive,The staff were super courteous .,staff,hotel
-kp_9_96,terrible service <SEP> negative,Terrible service and overpriced .  ,staff,hotel
-kp_9_97,terrific wait staff <SEP> positive,terrific wait staff .,staff,hotel
-kp_9_98,top notch housekeeping <SEP> positive,Top Notch Housekeeping .  ,staff,hotel
-kp_9_99,top notch service <SEP> positive,Service is also top notch .,staff,restaurant
-kp_9_100,very attentive service <SEP> positive,Service was very attentive .,staff,restaurant
-kp_9_101,very attentive staff <SEP> positive,Very attentive staff,staff,hotel
-kp_9_102,very cordial service <SEP> positive,The service was very cordial .,staff,restaurant
-kp_9_103,very courteous staff <SEP> positive,The staff was very courteous .,staff,hotel
-kp_9_104,very hard - working bartenders <SEP> negative,Very hard - working bartenders .,staff,restaurant
-kp_9_105,very inattentive waiter <SEP> negative,Waiter was very inattentive .,staff,restaurant
-kp_9_106,very rude server <SEP> negative,Server was very rude .,staff,hotel
-kp_9_107,wonderful spa services <SEP> positive,Wonderful spa services at Alvadora .  ,staff,hotel
-kp_9_108,worst service <SEP> negative,Worst service ever .,staff,restaurant
-kp_10_0,competitive prices <SEP> positive,Competitive prices for the square .,value-for-money,restaurant
-kp_10_1,decent prices <SEP> positive,Good quality and decent prices .,value-for-money,restaurant
-kp_10_2,great prices <SEP> positive,Amazing taste and great prices .  ,value-for-money,restaurant
-kp_10_3,great value <SEP> positive,Great value for the portions .,value-for-money,restaurant
-kp_10_4,great value for <SEP> positive,Great value for quality ...,value-for-money,restaurant
-kp_10_4,great value for <SEP> positive,Great value for airport food,value-for-money,hotel
-kp_10_5,not worth money <SEP> negative,Not worth the money .  ,value-for-money,hotel
-kp_10_6,not worth price <SEP> negative,Not worth the price .,value-for-money,hotel
-kp_10_7,over priced drinks <SEP> negative,Drinks are way over priced .  ,value-for-money,hotel
-kp_10_8,over priced quality <SEP> negative,Over priced for the quality .  ,value-for-money,restaurant
-kp_10_9,priced reasonably menu <SEP> positive,Their menu is priced reasonably .,value-for-money,restaurant
-kp_10_10,pricey valet parking <SEP> positive,The valet parking is pricey .,value-for-money,hotel
-kp_10_11,reasonably priced <SEP> positive,Reasonably priced for quality .,value-for-money,restaurant
-kp_10_12,surprisingly reasonable rates <SEP> positive,The rates were surprisingly reasonable .,value-for-money,hotel
-kp_10_13,too expensive photographs <SEP> negative,The photographs were too expensive .,value-for-money,hotel
-kp_10_14,very reasonably priced quiet <SEP> positive,Very reasonably priced quiet room .,value-for-money,hotel
-kp_10_15,worth price <SEP> positive,Worth the price .   ,value-for-money,restaurant
+kp_0_0,below quality beverages <SEP> negative,The beverages are below quality .,drink -> quality,Arts & Entertainment
+kp_0_1,broken pool fountains <SEP> negative,The pool fountains are broken .,drink -> quality,Hotels
+kp_0_2,dirty water glasses <SEP> negative,Water glasses were dirty .,drink -> quality,Restaurants
+kp_0_3,fairly priced drinks <SEP> positive,Fairly priced drinks .,drink -> quality,Restaurants
+kp_0_4,great brisket <SEP> positive,Brisket is great and moist .,drink -> quality,Restaurants
+kp_0_5,great coffee recommendations <SEP> positive,they give great coffee recommendations !,drink -> quality,Arts & Entertainment
+kp_0_6,great local coffee shop <SEP> positive,Great local coffee shop .,drink -> quality,Arts & Entertainment
+kp_0_7,leaked room <SEP> negative,Room leaked water from rain .,drink -> quality,Hotels
+kp_0_8,very strong chemical smell <SEP> negative,Very strong chemical smell .,drink -> quality,Beauty & Spas
+kp_1_0,good portions omelets <SEP> positive,Omelets are good portions .,food -> healthiness,Restaurants
+kp_1_1,lacked seasoning king crab legs <SEP> negative,King crab legs lacked seasoning .   ,food -> healthiness,Restaurants
+kp_1_2,lumpy bedspreads <SEP> negative,Bedspreads are lumpy and stained .  ,food -> healthiness,Hotels
+kp_1_3,wilted lettuce <SEP> negative,Lettuce was wilted and brown .  ,food -> healthiness,Restaurants
+kp_2_0,a bit breakfast <SEP> negative,Breakfast is a bit overpriced .,food -> quality,Hotels
+kp_2_1,addictive sandwiches <SEP> negative,The sandwiches are addictive ...,food -> quality,Restaurants
+kp_2_2,always delicious food <SEP> positive,The food is always delicious,food -> quality,Restaurants
+kp_2_3,authentic korean food <SEP> positive,"Very good , authentic Korean food .",food -> quality,Restaurants
+kp_2_4,authentic mexican food <SEP> positive,Authentic Mexican food .,food -> quality,Restaurants
+kp_2_5,best massage <SEP> positive,The best massage In Vegas .,food -> quality,Beauty & Spas
+kp_2_6,best pedicure <SEP> positive,The best pedicure / massages .,food -> quality,Beauty & Spas
+kp_2_7,best pedicures <SEP> positive,She gives the Best Pedicures !,food -> quality,Beauty & Spas
+kp_2_8,cold food <SEP> negative,"Food was cold , dry , flavorless .",food -> quality,Restaurants
+kp_2_9,cold fries <SEP> negative,Burger and fries were cold .,food -> quality,Restaurants
+kp_2_10,consistently quality food <SEP> positive,Consistently quality food and margaritas ! ! !,food -> quality,Restaurants
+kp_2_11,cooked poorly burger <SEP> negative,Burger was cooked poorly .,food -> quality,Restaurants
+kp_2_12,disappointing food <SEP> negative,The food was just disappointing .,food -> quality,Restaurants
+kp_2_13,excellent enchiladas <SEP> positive,Excellent chile relleno and enchiladas .  ,food -> quality,Restaurants
+kp_2_14,excellent food <SEP> positive,"Excellent food , atmosphere and ambience .",food -> quality,Restaurants
+kp_2_15,fresh salads <SEP> positive,Salads are fresh and healthy .,food -> quality,Restaurants
+kp_2_16,good food <SEP> positive,"Food is good , but overpriced .",food -> quality,Restaurants
+kp_2_17,good inexpensive food <SEP> positive,Good inexpensive food .,food -> quality,Arts & Entertainment
+kp_2_18,good quality mexican food <SEP> positive,"Good quality "" regular "" Mexican food .",food -> quality,Restaurants
+kp_2_19,great affordable food <SEP> positive,Great affordable food .,food -> quality,Restaurants
+kp_2_20,great family fun <SEP> positive,But overall great family fun .,food -> quality,Arts & Entertainment
+kp_2_21,great family outing <SEP> positive,Great family outing,food -> quality,Arts & Entertainment
+kp_2_22,great family restaurant <SEP> positive,Great family restaurant .,food -> quality,Restaurants
+kp_2_23,great food <SEP> positive,"Great food , drinks and service !",food -> quality,Restaurants
+kp_2_24,great for night time snackers <SEP> positive,Great for night time snackers .,food -> quality,Restaurants
+kp_2_25,great korean fusion <SEP> positive,Great Korean fusion .,food -> quality,Restaurants
+kp_2_26,great late night grub spot <SEP> positive,Great late night grub spot !,food -> quality,Restaurants
+kp_2_27,great meats <SEP> positive,Flavorful stocks and great meats .,food -> quality,Restaurants
+kp_2_28,great mexican food <SEP> positive,Great Mexican food and service .  ,food -> quality,Restaurants
+kp_2_29,great pedicures <SEP> positive,Pedicures are great as well !,food -> quality,Beauty & Spas
+kp_2_30,great quality sushi <SEP> positive,Sushi was great quality .,food -> quality,Restaurants
+kp_2_31,great ramen <SEP> positive,Great Ramen and Udon too !,food -> quality,Restaurants
+kp_2_32,great sauces <SEP> positive,Great sauces and salsas .  ,food -> quality,Restaurants
+kp_2_33,great soups <SEP> positive,Great soups and sandwiches .  ,food -> quality,Restaurants
+kp_2_34,homemade pastas <SEP> positive,Homemade pastas and pizza .,food -> quality,Restaurants
+kp_2_35,kept clean washrooms <SEP> positive,Washrooms are kept clean .,food -> quality,Hotels
+kp_2_36,moist chicken <SEP> negative,Chicken was moist but bland .  ,food -> quality,Restaurants
+kp_2_37,outstanding deep tissue massage <SEP> positive,Outstanding deep tissue massage .,food -> quality,Beauty & Spas
+kp_2_38,perfect consistency refried beans <SEP> positive,Refried beans the perfect consistency .,food -> quality,Restaurants
+kp_2_39,perfection cooked <SEP> positive,Both were cooked to perfection .,food -> quality,Hotels
+kp_2_40,perfectly seasoned fries <SEP> positive,The fries were perfectly seasoned,food -> quality,Restaurants
+kp_2_41,prepared food <SEP> positive,Food is prepared with care .  ,food -> quality,Restaurants
+kp_2_42,reliable korean cuisine <SEP> positive,Tasty and reliable Korean cuisine .,food -> quality,Restaurants
+kp_2_43,ridiculous badgering <SEP> negative,His badgering was absolutely ridiculous .    ,food -> quality,Restaurants
+kp_2_44,seasoned perfectly meat <SEP> positive,The meat is seasoned perfectly .  ,food -> quality,Restaurants
+kp_2_45,seasoned well rice <SEP> positive,The rice was seasoned well,food -> quality,Restaurants
+kp_2_46,spicy food <SEP> negative,Food is spicy and flavorful .,food -> quality,Restaurants
+kp_2_47,very nice breakfast buffet <SEP> positive,Very Nice Breakfast Buffet Sat&Sun,food -> quality,Hotels
+kp_2_48,wide selection of food <SEP> positive,Wide selection of food,food -> quality,Restaurants
+kp_2_49,wonderful restaurant <SEP> positive,Wonderful restaurant in Old Montreal .,food -> quality,Restaurants
+kp_2_50,worst carwash <SEP> negative,Worst carwash in the Valley .,food -> quality,Automotive
+kp_3_0,convenient for apex convention attendees <SEP> positive,Convenient for APEX convention attendees !,food -> variety,Hotels
+kp_3_1,great selection of movies <SEP> positive,Great selection of movies etc .,food -> variety,Arts & Entertainment
+kp_3_2,great store selection <SEP> positive,Great store selection,food -> variety,Beauty & Spas
+kp_3_3,lack of attention details <SEP> negative,Lack of attention on details .,food -> variety,Automotive
+kp_3_4,lack of fair processes <SEP> negative,Lack of fair processes .,food -> variety,Arts & Entertainment
+kp_3_5,poor effort <SEP> negative,Poor effort all around .,food -> variety,Automotive
+kp_3_6,poor management systems <SEP> negative,Poor management systems .,food -> variety,Arts & Entertainment
+kp_3_7,small selection <SEP> negative,Small selection for the price .,food -> variety,Arts & Entertainment
+kp_3_8,well above expectations pdq <SEP> positive,PDQ was well above expectations .  ,food -> variety,Restaurants
+kp_4_0,generous portions <SEP> positive,Portions are generous .,food-quantity,Restaurants
+kp_4_1,good portions <SEP> positive,Servings are good portions .,food-quantity,Restaurants
+kp_4_2,small dessert portions <SEP> negative,Dessert portions small,food-quantity,Restaurants
+kp_4_3,smaller portions <SEP> negative,Portions are getting smaller .  ,food-quantity,Restaurants
+kp_5_0,great location <SEP> positive,Great location and amenities .  ,location,Hotels
+kp_5_0,great location <SEP> positive,Great location in southwest vegas .,location,Restaurants
+kp_6_0,disastrous experience <SEP> negative,Recipe for a disastrous experience .,recommendation,Arts & Entertainment
+kp_6_1,family friendly place <SEP> positive,"Relaxed , quiet , family friendly place .",recommendation,Hotels
+kp_6_2,family oriented place <SEP> positive,Definitely a family oriented place .,recommendation,Hotels
+kp_6_3,fraudulent place <SEP> negative,This place is fraudulent !  ,recommendation,Automotive
+kp_6_4,good find <SEP> positive,Good find in suburbia .,recommendation,Arts & Entertainment
+kp_6_5,great place <SEP> positive,Great place for family fun,recommendation,Arts & Entertainment
+kp_6_6,over rated park <SEP> negative,Park is over rated .,recommendation,Hotels
+kp_6_7,worst car buying experience <SEP> negative,Worst car buying experience .,recommendation,Automotive
+kp_6_8,worst place <SEP> negative,Worst place to eat,recommendation,Restaurants
+kp_7_0,a little outdated rooms <SEP> negative,Rooms are a little outdated .,restaurant -> atmosphere,Hotels
+kp_7_1,accessible parking <SEP> positive,Parking was accessible and easy .  ,restaurant -> atmosphere,Hotels
+kp_7_2,ample parking <SEP> positive,Ample parking and seating .,restaurant -> atmosphere,Restaurants
+kp_7_3,astonishing gym <SEP> positive,Astonishing Gym / Fitness facilities .,restaurant -> atmosphere,Beauty & Spas
+kp_7_4,beautiful car <SEP> positive,Beautiful car with every feature .,restaurant -> atmosphere,Automotive
+kp_7_5,beautiful view <SEP> positive,Beautiful view of east Scottsdale .,restaurant -> atmosphere,Arts & Entertainment
+kp_7_6,best airport parking <SEP> positive,Best Airport Parking around !,restaurant -> atmosphere,Automotive
+kp_7_7,best wings <SEP> positive,Best wings hands down,restaurant -> atmosphere,Restaurants
+kp_7_8,big screens <SEP> positive,Big screens and reclining chairs .,restaurant -> atmosphere,Arts & Entertainment
+kp_7_9,cheap fun entertainment <SEP> positive,Cheap fun entertainment .,restaurant -> atmosphere,Arts & Entertainment
+kp_7_10,classic music <SEP> positive,Current and classic music .,restaurant -> atmosphere,Restaurants
+kp_7_11,clean bathrooms <SEP> positive,"Clean bathrooms , towels , and shower .",restaurant -> atmosphere,Hotels
+kp_7_12,clean comfortable rooms <SEP> positive,Clean comfortable rooms .,restaurant -> atmosphere,Hotels
+kp_7_13,clean everything <SEP> positive,Everything was clean and functional .,restaurant -> atmosphere,Hotels
+kp_7_14,clean facilities <SEP> positive,"Clean facilities , seems family owned .",restaurant -> atmosphere,Automotive
+kp_7_15,clean hotel <SEP> positive,Hotel was clean and modern .,restaurant -> atmosphere,Hotels
+kp_7_16,clean room <SEP> positive,Room was clean and comfortable .,restaurant -> atmosphere,Hotels
+kp_7_17,clean rooms <SEP> positive,"Beautiful , relaxing , and clean rooms .",restaurant -> atmosphere,Beauty & Spas
+kp_7_18,close and easy parking <SEP> positive,Parking was close and easy .,restaurant -> atmosphere,Arts & Entertainment
+kp_7_19,comfortable electric recliners <SEP> positive,Comfortable electric recliners .,restaurant -> atmosphere,Arts & Entertainment
+kp_7_20,comfortable sets <SEP> positive,"comfortable sets , lots leg room",restaurant -> atmosphere,Arts & Entertainment
+kp_7_21,crisp wings <SEP> positive,Wings were crisp as requested .,restaurant -> atmosphere,Restaurants
+kp_7_22,dirty place <SEP> negative,Place felt dirty and disorganized .,restaurant -> atmosphere,Restaurants
+kp_7_23,engaging show <SEP> positive,"Such a funny , engaging show !",restaurant -> atmosphere,Arts & Entertainment
+kp_7_24,excellent affordable night out <SEP> positive,Excellent affordable night out .,restaurant -> atmosphere,Arts & Entertainment
+kp_7_25,excellent massage <SEP> positive,Kris is excellent at massage .,restaurant -> atmosphere,Hotels
+kp_7_26,excellent resort <SEP> positive,Sanctuary is an excellent resort .,restaurant -> atmosphere,Hotels
+kp_7_27,expensive parking <SEP> negative,parking is expensive .,restaurant -> atmosphere,Arts & Entertainment
+kp_7_28,family - friendly park <SEP> positive,Very family - friendly park .,restaurant -> atmosphere,Arts & Entertainment
+kp_7_29,filthy dirty theatre <SEP> negative,Theatre is filthy dirty .,restaurant -> atmosphere,Arts & Entertainment
+kp_7_30,fitting decor <SEP> positive,Decor is fitting and colorful .,restaurant -> atmosphere,Restaurants
+kp_7_31,flatscreen tvs <SEP> positive,Flatscreen TVs Bluetooth stereo .,restaurant -> atmosphere,Hotels
+kp_7_32,free parking <SEP> positive,Parking is free and plenty,restaurant -> atmosphere,Hotels
+kp_7_33,fun family entertainment <SEP> positive,Fun family entertainment .,restaurant -> atmosphere,Arts & Entertainment
+kp_7_34,fun music <SEP> positive,Music was fun and upbeat,restaurant -> atmosphere,Arts & Entertainment
+kp_7_35,ghetto accomadations <SEP> negative,Ghetto accomadations and clientele .,restaurant -> atmosphere,Hotels
+kp_7_36,gorgeous mountain views <SEP> positive,Pool had gorgeous mountain views  ,restaurant -> atmosphere,Hotels
+kp_7_37,great ambience <SEP> positive,Great ambience and service .  ,restaurant -> atmosphere,Restaurants
+kp_7_38,great amenities <SEP> positive,Great amenities and snacks .,restaurant -> atmosphere,Beauty & Spas
+kp_7_39,great and comfortable beds <SEP> positive,Great and comfortable beds .,restaurant -> atmosphere,Hotels
+kp_7_40,great artistry <SEP> positive,Professional and great artistry .,restaurant -> atmosphere,Beauty & Spas
+kp_7_41,great atmosphere <SEP> positive,Great atmosphere and patio service .,restaurant -> atmosphere,Restaurants
+kp_7_42,great attention to <SEP> positive,Great attention to detail,restaurant -> atmosphere,Beauty & Spas
+kp_7_43,great audience interaction <SEP> positive,Great audience interaction !,restaurant -> atmosphere,Arts & Entertainment
+kp_7_44,great bar <SEP> positive,"Great bar , bartenders , and music .",restaurant -> atmosphere,Arts & Entertainment
+kp_7_45,great communication <SEP> positive,Great communication and customer service .,restaurant -> atmosphere,Automotive
+kp_7_46,great conversationalist <SEP> positive,Great conversationalist too !,restaurant -> atmosphere,Beauty & Spas
+kp_7_47,great date night spot <SEP> positive,Great date night spot or,restaurant -> atmosphere,Restaurants
+kp_7_48,great decor <SEP> positive,Great decor and views .,restaurant -> atmosphere,Arts & Entertainment
+kp_7_49,great detail <SEP> positive,Great detail and professional .,restaurant -> atmosphere,Beauty & Spas
+kp_7_50,great flavor <SEP> positive,Great flavor and texture .,restaurant -> atmosphere,Restaurants
+kp_7_51,great for business travel <SEP> positive,Great for business travel .,restaurant -> atmosphere,Hotels
+kp_7_52,great hiking location <SEP> positive,Great hiking location .,restaurant -> atmosphere,Hotels
+kp_7_53,great neighborhood <SEP> positive,Great neighborhood burger joint .,restaurant -> atmosphere,Restaurants
+kp_7_54,great neighborhood restaurant <SEP> positive,Great neighborhood restaurant .,restaurant -> atmosphere,Restaurants
+kp_7_55,great quality work <SEP> positive,Great quality work .,restaurant -> atmosphere,Beauty & Spas
+kp_7_56,great setting <SEP> positive,Great setting to relax .,restaurant -> atmosphere,Hotels
+kp_7_57,great singing <SEP> positive,Very entertaining with great singing .,restaurant -> atmosphere,Arts & Entertainment
+kp_7_58,great view <SEP> positive,Great view facing the river .,restaurant -> atmosphere,Hotels
+kp_7_59,horrible parking <SEP> negative,Parking was horrible .,restaurant -> atmosphere,Hotels
+kp_7_60,huge bathtubs <SEP> positive,Huge bathtubs plus shower .,restaurant -> atmosphere,Hotels
+kp_7_61,huge tourist trap <SEP> positive,Definitely a huge tourist trap .,restaurant -> atmosphere,Arts & Entertainment
+kp_7_62,little privacy bathroom <SEP> negative,The bathroom offered little privacy .,restaurant -> atmosphere,Hotels
+kp_7_63,love seats <SEP> positive,I love the reclining seats !,restaurant -> atmosphere,Arts & Entertainment
+kp_7_64,luxurious lodging <SEP> positive,"Comfortable , modern , luxurious lodging .",restaurant -> atmosphere,Hotels
+kp_7_65,massive tourist trap <SEP> positive,Massive tourist trap .,restaurant -> atmosphere,Arts & Entertainment
+kp_7_66,minor parking <SEP> negative,Parking is a minor annoyance .,restaurant -> atmosphere,Restaurants
+kp_7_67,modern bathrooms <SEP> positive,Bathrooms are modern and clean .,restaurant -> atmosphere,Hotels
+kp_7_68,modern decor <SEP> positive,Very clean and modern decor .,restaurant -> atmosphere,Beauty & Spas
+kp_7_69,multiple level parking <SEP> positive,They have multiple level parking,restaurant -> atmosphere,Beauty & Spas
+kp_7_70,nice and updated style <SEP> positive,Style was nice and updated .,restaurant -> atmosphere,Hotels
+kp_7_71,nice casino <SEP> positive,Nice casino for regular people .,restaurant -> atmosphere,Arts & Entertainment
+kp_7_72,nice rooms <SEP> positive,"Nice rooms , comfortable , clean .",restaurant -> atmosphere,Hotels
+kp_7_73,nicely appointed bathrooms <SEP> positive,Both bathrooms were nicely appointed .,restaurant -> atmosphere,Hotels
+kp_7_74,no pride in workmanship <SEP> negative,No pride in workmanship .,restaurant -> atmosphere,Automotive
+kp_7_75,outdated carpet <SEP> negative,Furniture and carpet outdated .,restaurant -> atmosphere,Hotels
+kp_7_76,perfect gem <SEP> positive,Perfect hidden Gem .,restaurant -> atmosphere,Restaurants
+kp_7_77,poor tv reception <SEP> negative,The TV reception was poor .,restaurant -> atmosphere,Hotels
+kp_7_78,professional environment <SEP> positive,"Awesome , friendly , and professional environment .",restaurant -> atmosphere,Beauty & Spas
+kp_7_79,readily available parking <SEP> positive,Parking was readily available .,restaurant -> atmosphere,Arts & Entertainment
+kp_7_80,scenic vistas <SEP> positive,Scenic vistas and architectural magic .,restaurant -> atmosphere,Arts & Entertainment
+kp_7_81,skilled performers <SEP> positive,The performers were skilled .,restaurant -> atmosphere,Arts & Entertainment
+kp_7_82,slippery stairs <SEP> negative,"Rocky , uneven , slippery stairs .",restaurant -> atmosphere,Hotels
+kp_7_83,soothing lighting <SEP> positive,"Lighting , relaxing and soothing .",restaurant -> atmosphere,Beauty & Spas
+kp_7_84,spacious rooms <SEP> positive,Rooms are spacious and comfortable .,restaurant -> atmosphere,Hotels
+kp_7_85,spotless room <SEP> positive,Room was spotless and clean .,restaurant -> atmosphere,Hotels
+kp_7_86,sunny outdoor seating <SEP> positive,"Great , sunny , outdoor seating .",restaurant -> atmosphere,Restaurants
+kp_7_87,terrible venues <SEP> negative,Venues like this are terrible !,restaurant -> atmosphere,Arts & Entertainment
+kp_7_88,terrific picture <SEP> positive,Terrific picture and sound quality .,restaurant -> atmosphere,Arts & Entertainment
+kp_7_89,thoroughly enjoyed massage <SEP> positive,I thoroughly enjoyed my massage .,restaurant -> atmosphere,Beauty & Spas
+kp_7_90,too much noise <SEP> negative,Too much noise at times .,restaurant -> atmosphere,Beauty & Spas
+kp_7_91,upbeat music <SEP> positive,Music was upbeat and lively .  ,restaurant -> atmosphere,Arts & Entertainment
+kp_7_92,very comfortable rooms <SEP> positive,Rooms are very comfortable,restaurant -> atmosphere,Hotels
+kp_7_93,very dated furniture <SEP> negative,Furniture was very dated .  ,restaurant -> atmosphere,Hotels
+kp_7_94,very talented singers <SEP> positive,Very talented singers and performers .,restaurant -> atmosphere,Arts & Entertainment
+kp_7_95,worst costumer <SEP> negative,And worst costumer service .,restaurant -> atmosphere,Beauty & Spas
+kp_7_96,worst experience <SEP> negative,Worst experience of my life .,restaurant -> atmosphere,Hotels
+kp_7_97,worst vacuum <SEP> negative,Worst vacuum and customer service .,restaurant -> atmosphere,Automotive
+kp_8_0,a+ customer service <SEP> positive,Customer Service was A+,staff,Restaurants
+kp_8_1,above and beyond staff <SEP> positive,Staff goes above and beyond .,staff,Hotels
+kp_8_2,absolutely terrible service <SEP> negative,The service was absolutely terrible .,staff,Restaurants
+kp_8_3,absolutely top notch service <SEP> positive,Service was absolutely Top Notch .   ,staff,Automotive
+kp_8_4,always great service <SEP> positive,Service always great,staff,Restaurants
+kp_8_5,amazing customer <SEP> positive,What amazing customer service !  ,staff,Automotive
+kp_8_6,amazing professional <SEP> positive,Amazing professional and skilled piercer !,staff,Beauty & Spas
+kp_8_7,amazing service <SEP> positive,Great wings and amazing service .,staff,Restaurants
+kp_8_8,amazing staff <SEP> positive,Amazing staff & customer service .,staff,Hotels
+kp_8_9,amazing stylist <SEP> positive,Rob was an AMAZING stylist .,staff,Beauty & Spas
+kp_8_10,attentive service <SEP> positive,Service was also attentive .,staff,Restaurants
+kp_8_11,attentive staff <SEP> positive,Amazing and attentive staff .,staff,Hotels
+kp_8_12,attentively managed textures <SEP> positive,"Colors , textures were attentively managed .",staff,Restaurants
+kp_8_13,best attention to <SEP> positive,Best attention to detail,staff,Beauty & Spas
+kp_8_14,best costumer service <SEP> positive,THE BEST Costumer Service ! !,staff,Restaurants
+kp_8_15,best customer <SEP> positive,BEST CUSTOMER SERVICE :),staff,Automotive
+kp_8_16,caring folks <SEP> positive,Talented and caring folks throughout .,staff,Hotels
+kp_8_17,clean shop <SEP> positive,Shop is clean and comfortable .,staff,Beauty & Spas
+kp_8_18,commendable patience <SEP> positive,His patience was commendable .  ,staff,Automotive
+kp_8_19,courteous front desk folks <SEP> positive,Front desk folks were courteous .  ,staff,Hotels
+kp_8_20,courteous front desk personnel <SEP> positive,Front desk personnel are courteous,staff,Hotels
+kp_8_21,dishonest people <SEP> negative,Very dishonest people .,staff,Automotive
+kp_8_22,down to earth staff <SEP> positive,"Friendly , down to earth staff .",staff,Restaurants
+kp_8_23,efficient service department <SEP> positive,Efficient Service Department .,staff,Automotive
+kp_8_24,efficient staff <SEP> positive,Staff was efficient and helpful .,staff,Hotels
+kp_8_25,excellent customer service <SEP> positive,The customer service was excellent .,staff,Automotive
+kp_8_25,excellent customer service <SEP> positive,They provided excellent customer service .,staff,Restaurants
+kp_8_25,excellent customer service <SEP> positive,Excellent customer service .,staff,Beauty & Spas
+kp_8_26,excellent service <SEP> positive,Food and service was excellent .,staff,Arts & Entertainment
+kp_8_27,exceptional customer service <SEP> positive,Exceptional customer service .,staff,Hotels
+kp_8_28,extremely accommodating staff <SEP> positive,The staff is extremely accommodating .,staff,Hotels
+kp_8_29,extremely friendly staff <SEP> positive,Their staff is extremely friendly !    ,staff,Restaurants
+kp_8_30,extremely mediocre service <SEP> negative,The service was extremely mediocre .,staff,Restaurants
+kp_8_31,extremely professional service <SEP> positive,The service was extremely professional .,staff,Restaurants
+kp_8_32,filthy facility <SEP> negative,The facility itself is filthy .  ,staff,Beauty & Spas
+kp_8_33,fine customer service <SEP> positive,Customer Service was fine,staff,Beauty & Spas
+kp_8_34,"friendly , efficient service <SEP> positive","Friendly , efficient service .",staff,Restaurants
+kp_8_35,friendly and attentive concessions <SEP> positive,Concessions are friendly and attentive .,staff,Arts & Entertainment
+kp_8_36,friendly and attentive management <SEP> positive,Management was friendly and attentive .  ,staff,Hotels
+kp_8_37,friendly and attractive staff <SEP> positive,Friendly and attractive staff .,staff,Arts & Entertainment
+kp_8_38,friendly and helpful staff <SEP> positive,Friendly and helpful staff !,staff,Arts & Entertainment
+kp_8_38,friendly and helpful staff <SEP> positive,"Attentive , friendly and helpful staff .",staff,Hotels
+kp_8_39,friendly and helpful waitress <SEP> positive,Waitress was friendly and helpful .,staff,Restaurants
+kp_8_40,friendly and knowledgeable staff <SEP> positive,Friendly and knowledgeable staff .,staff,Beauty & Spas
+kp_8_41,friendly and professional front desk <SEP> positive,Friendly and professional front desk ..,staff,Beauty & Spas
+kp_8_42,friendly and speedy service <SEP> positive,Service was friendly and speedy .,staff,Restaurants
+kp_8_43,friendly and thorough gina <SEP> positive,Gina was friendly and thorough .,staff,Beauty & Spas
+kp_8_44,friendly and welcoming owner <SEP> positive,Owner was friendly and welcoming .,staff,Restaurants
+kp_8_45,friendly dealers <SEP> positive,Friendly dealers and hostesses .  ,staff,Arts & Entertainment
+kp_8_46,friendly service <SEP> positive,"Service : friendly , efficient  ",staff,Restaurants
+kp_8_47,friendly staff <SEP> positive,"Friendly staff , bilingual .",staff,Restaurants
+kp_8_47,friendly staff <SEP> positive,Staff is friendly and professional .,staff,Beauty & Spas
+kp_8_47,friendly staff <SEP> positive,"Quiet , clean , and friendly staff .  ",staff,Hotels
+kp_8_48,friendly waitress <SEP> positive,Waitress is friendly and personable .  ,staff,Restaurants
+kp_8_49,good customer service <SEP> positive,Good quality and customer service .  ,staff,Beauty & Spas
+kp_8_50,good service <SEP> positive,Good service all around .,staff,Automotive
+kp_8_51,gracious and friendly staff <SEP> positive,Gracious and friendly staff .,staff,Hotels
+kp_8_52,great and attentive service <SEP> positive,Service was great and attentive !,staff,Restaurants
+kp_8_53,great and friendly service <SEP> positive,Great and friendly service .,staff,Restaurants
+kp_8_54,great cleaning staff <SEP> positive,Great cleaning staff .  ,staff,Hotels
+kp_8_55,great customer <SEP> positive,Great customer service !,staff,Beauty & Spas
+kp_8_55,great customer <SEP> positive,Great customer service !,staff,Automotive
+kp_8_55,great customer <SEP> positive,Great customer service,staff,Hotels
+kp_8_56,great customer service <SEP> positive,Workers had great customer service !,staff,Restaurants
+kp_8_56,great customer service <SEP> positive,Great customer service .,staff,Automotive
+kp_8_56,great customer service <SEP> positive,Great customer service .,staff,Hotels
+kp_8_57,great family run business <SEP> positive,"Great family run , local business .",staff,Beauty & Spas
+kp_8_58,great service <SEP> positive,Great service and care .,staff,Beauty & Spas
+kp_8_59,great staff <SEP> positive,Great staff and,staff,Arts & Entertainment
+kp_8_59,great staff <SEP> positive,Great staff and,staff,Beauty & Spas
+kp_8_60,happy customer <SEP> positive,Cheers - a happy customer,staff,Automotive
+kp_8_61,helpful and caring staff <SEP> positive,Staff seems helpful and caring .,staff,Hotels
+kp_8_62,helpful staff <SEP> positive,Friendly efficient and helpful staff .,staff,Automotive
+kp_8_63,hit or miss service <SEP> negative,Service is hit or miss,staff,Restaurants
+kp_8_64,honest employees <SEP> positive,Employees are honest and fast .,staff,Automotive
+kp_8_65,horrible customer service <SEP> negative,Horrible customer service !,staff,Arts & Entertainment
+kp_8_65,horrible customer service <SEP> negative,Horrible customer service .,staff,Automotive
+kp_8_65,horrible customer service <SEP> negative,Horrible customer service .,staff,Hotels
+kp_8_66,horribly overpriced place <SEP> negative,This place is horribly overpriced .,staff,Beauty & Spas
+kp_8_67,impeccable customer service <SEP> positive,Their customer service is impeccable .  ,staff,Automotive
+kp_8_67,impeccable customer service <SEP> positive,Customer service is impeccable .,staff,Beauty & Spas
+kp_8_68,impeccable service <SEP> positive,The service here is impeccable .,staff,Restaurants
+kp_8_69,inattentive valet staff <SEP> negative,Rude and inattentive valet staff .,staff,Hotels
+kp_8_70,incredible instructor <SEP> positive,"Katie , the instructor , was INCREDIBLE .  ",staff,Arts & Entertainment
+kp_8_71,knowledgeable servers <SEP> positive,Servers are knowledgeable and attentive .,staff,Restaurants
+kp_8_72,lovely service <SEP> positive,"Terrific variety , lovely service !",staff,Restaurants
+kp_8_73,loyal customer <SEP> positive,A loyal customer for life !,staff,Automotive
+kp_8_74,mixed clientele <SEP> negative,Clientele was mixed .,staff,Hotels
+kp_8_75,nice servers <SEP> positive,Servers nice just not attentive .,staff,Restaurants
+kp_8_76,no customer service <SEP> negative,No customer service at all .,staff,Restaurants
+kp_8_77,outstanding customer service <SEP> positive,Outstanding customer service .,staff,Automotive
+kp_8_77,outstanding customer service <SEP> positive,Customer service was outstanding .,staff,Restaurants
+kp_8_78,outstanding service <SEP> positive,The service here is outstanding .  ,staff,Automotive
+kp_8_79,overpriced for <SEP> negative,Overpriced   for low quality .,staff,Restaurants
+kp_8_80,patient staff <SEP> positive,"Nice , attentive and patient staff .",staff,Restaurants
+kp_8_81,polite staff <SEP> positive,"Polite , friendly staff .  ",staff,Automotive
+kp_8_82,poor at best service <SEP> negative,Service is poor at best .  ,staff,Hotels
+kp_8_83,poor business practice <SEP> negative,Poor business practice .,staff,Automotive
+kp_8_84,poor customer service <SEP> negative,Poor customer service,staff,Automotive
+kp_8_85,poor freaking customer service <SEP> negative,Poor freaking customer service .,staff,Hotels
+kp_8_86,professional and friendly staff <SEP> positive,Professional and friendly staff .,staff,Beauty & Spas
+kp_8_87,professional staff <SEP> positive,Staff was professional and courteous .  ,staff,Restaurants
+kp_8_88,prompt and efficient service <SEP> positive,Service was prompt and efficient .,staff,Restaurants
+kp_8_89,rude employees <SEP> negative,Employees there are rude .,staff,Arts & Entertainment
+kp_8_90,rude staff <SEP> negative,Staff is rude and unwelcoming .,staff,Beauty & Spas
+kp_8_91,stellar customer service <SEP> positive,The customer service is stellar .,staff,Restaurants
+kp_8_92,sub par service <SEP> negative,The service was sub par,staff,Automotive
+kp_8_93,subpar services <SEP> negative,both services were subpar .,staff,Beauty & Spas
+kp_8_94,super accomadative staff <SEP> positive,Staff was super accomadative .,staff,Hotels
+kp_8_95,super courteous staff <SEP> positive,The staff is super courteous .  ,staff,Beauty & Spas
+kp_8_95,super courteous staff <SEP> positive,The staff were super courteous .,staff,Hotels
+kp_8_96,super friendly staff <SEP> positive,Super friendly staff,staff,Arts & Entertainment
+kp_8_97,superior service <SEP> positive,Prices and service are superior .   ,staff,Restaurants
+kp_8_98,terrible customer service <SEP> negative,Their customer service is terrible !,staff,Automotive
+kp_8_98,terrible customer service <SEP> negative,BUT TERRIBLE CUSTOMER SERVICE,staff,Hotels
+kp_8_99,top - notch service <SEP> positive,Service is Top - Notch .,staff,Automotive
+kp_8_99,top - notch service <SEP> positive,The service is top - notch .,staff,Restaurants
+kp_8_100,totally affordable and pleasant staff <SEP> positive,Totally affordable and pleasant staff .,staff,Beauty & Spas
+kp_8_101,uncaring staff <SEP> negative,Absolutely rude and uncaring staff .,staff,Arts & Entertainment
+kp_8_102,uneven service <SEP> negative,Service also uneven ...,staff,Hotels
+kp_8_103,very attentive service <SEP> positive,Service was very attentive .,staff,Restaurants
+kp_8_104,very attentive staff <SEP> positive,Very attentive staff,staff,Hotels
+kp_8_105,very good customer service <SEP> positive,Very good customer service,staff,Restaurants
+kp_8_106,very professional staff <SEP> positive,Very professional staff .,staff,Beauty & Spas
+kp_8_107,very rude server <SEP> negative,Server was very rude .,staff,Hotels
+kp_8_108,very unprofessional service <SEP> negative,Very unprofessional service .,staff,Automotive
+kp_8_109,well - managed <SEP> positive,"Professional , clean and well - managed .",staff,Beauty & Spas
+kp_8_110,well staffed <SEP> positive,"Clean , roomy and well staffed .",staff,Hotels
+kp_8_111,worst customer service <SEP> negative,Worst customer service .,staff,Automotive
+kp_8_112,worst customer service experience <SEP> negative,Worst customer service experience ever .  ,staff,Hotels
+kp_8_113,worst service <SEP> negative,WORST SERVICE EVER RECEIVED,staff,Automotive
+kp_9_0,decent prices <SEP> positive,"Prices are decent , here too .",value-for-money,Restaurants
+kp_9_1,excellent price <SEP> positive,Excellent price and service .,value-for-money,Beauty & Spas
+kp_9_2,excellent value <SEP> positive,"Excellent value , quality and service .",value-for-money,Beauty & Spas
+kp_9_3,extremely affordable <SEP> positive,Extremely affordable for the quality .,value-for-money,Beauty & Spas
+kp_9_4,great price <SEP> positive,Great quality and great price !,value-for-money,Beauty & Spas
+kp_9_5,great value for <SEP> positive,Great value for quality ...,value-for-money,Restaurants
+kp_9_6,great value for your money <SEP> positive,Great Value for your money .,value-for-money,Restaurants
+kp_9_7,over hyped expensive <SEP> negative,Way over hyped and expensive .,value-for-money,Restaurants
+kp_9_8,over priced quality <SEP> negative,Over priced for the quality .  ,value-for-money,Restaurants
+kp_9_9,pricey valet parking <SEP> positive,The valet parking is pricey .,value-for-money,Hotels
+kp_9_10,reasonable prices <SEP> positive,Reasonable prices considering,value-for-money,Automotive
+kp_9_11,reasonable pricing <SEP> positive,Very friendly and reasonable pricing .,value-for-money,Beauty & Spas
+kp_9_12,reasonably priced <SEP> positive,Friendly and reasonably priced .,value-for-money,Automotive
+kp_9_13,reasonably priced menu <SEP> positive,Reasonably priced menu .,value-for-money,Restaurants
+kp_9_14,surprisingly reasonable rates <SEP> positive,The rates were surprisingly reasonable .,value-for-money,Hotels
+kp_9_15,too expensive restaurant <SEP> negative,Restaurant is much too expensive .  ,value-for-money,Hotels
+kp_9_16,very affordable price <SEP> positive,Pros : Very affordable price .  ,value-for-money,Restaurants
+kp_9_17,very competitive prices <SEP> positive,Prices were very competitive .,value-for-money,Automotive
+kp_10_0,always on point service <SEP> positive,Service is always on point .,wait-time,Restaurants
+kp_10_1,fast and clean service <SEP> positive,Service is fast and clean .,wait-time,Restaurants
+kp_10_2,fast and efficient service <SEP> positive,Service was fast and efficient .,wait-time,Restaurants
+kp_10_3,fast and friendly service <SEP> positive,Service was fast and friendly .,wait-time,Restaurants
+kp_10_4,friendly and fast service <SEP> positive,Friendly and fast service .,wait-time,Restaurants
+kp_10_5,heavily congested elevators <SEP> negative,Elevators were heavily congested .  ,wait-time,Hotels
+kp_10_6,painfully slow elevators <SEP> negative,Elevators are painfully slow .,wait-time,Hotels
+kp_10_7,quick and friendly service <SEP> positive,Service is quick and friendly .,wait-time,Restaurants
+kp_10_8,reasonably priced entrance fee <SEP> positive,Reasonably priced entrance fee .  ,wait-time,Arts & Entertainment
+kp_10_9,top notch service <SEP> positive,it 's top notch service .,wait-time,Beauty & Spas
+kp_10_10,very fast wifi <SEP> positive,Wifi was very fast ~ 20MBps .,wait-time,Hotels
+kp_10_11,very poor wifi <SEP> negative,WiFi was very poor also .  ,wait-time,Hotels
+kp_10_12,wasted time <SEP> negative,Several hours of wasted time .,wait-time,Automotive

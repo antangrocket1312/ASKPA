@@ -1,664 +1,391 @@
 comment_id,comment,full_comment,topic,domain
-comment_0_0,  very champagne <SEP> positive,I like the champagne   very friendly staff .,drink -> alcohol,hotel
-comment_0_1,  very martinis <SEP> positive,Drinks specials for martinis were   very good .,drink -> alcohol,restaurant
-comment_0_2,a little too strong cocktail <SEP> negative,"The cocktail was also a little too strong for my liking , but I can see other people enjoying it .   ",drink -> alcohol,restaurant
-comment_0_3,above average wine list <SEP> positive,Wine list was above average .  ,drink -> alcohol,restaurant
-comment_0_4,absolute knockout pineapple martini <SEP> positive,The Pineapple Martini was an absolute knockout ! ! !,drink -> alcohol,restaurant
-comment_0_5,always changing beer selections <SEP> positive,Great to splash down with there always changing beer selections .,drink -> alcohol,restaurant
-comment_0_6,amazing 16 oz rib <SEP> positive,appetizer- amazing 16 oz rib,drink -> alcohol,restaurant
-comment_0_7,amazing bar tenders <SEP> positive,Bar tenders were amazing !,drink -> alcohol,restaurant
-comment_0_8,amazing brussels sprouts <SEP> positive,Brussels sprouts were amazing !,drink -> alcohol,restaurant
-comment_0_9,amazing cocktails <SEP> positive,"The cocktails are amazing and the dessert is something to get , you wo n't regret it .",drink -> alcohol,restaurant
-comment_0_10,amazing lychee martinis <SEP> positive,He suggested lychee martinis which were amazing .,drink -> alcohol,hotel
-comment_0_11,amazing wine selection <SEP> positive,Amazing wine selection .  ,drink -> alcohol,restaurant
-comment_0_12,appreciated wine expert <SEP> positive,Also we appreciated Kevin the wine expert .,drink -> alcohol,hotel
-comment_0_13,appreciated wine list <SEP> positive,wine list was appreciated .   ,drink -> alcohol,restaurant
-comment_0_14,award winning beers <SEP> positive,The award winning beers are excellent .  ,drink -> alcohol,restaurant
-comment_0_15,awesome beer <SEP> positive,The beer was awesome and so were the mussels .  ,drink -> alcohol,restaurant
-comment_0_16,awesome beer selection <SEP> positive,The beer selection is awesome .  ,drink -> alcohol,restaurant
-comment_0_17,awesome cocktails <SEP> positive,The best app to share is the squash fritters for sure and the cocktails by the pitcher are awesome !,drink -> alcohol,restaurant
-comment_0_18,awesome margaritas <SEP> positive,The margaritas were awesome .,drink -> alcohol,restaurant
-comment_0_19,awesome martinis <SEP> positive,Awesome martinis ( had the pineapple marinating in the vodka ),drink -> alcohol,restaurant
-comment_0_20,awesome standalone tub <SEP> positive,The standalone tub is awesome when you can lay in it and look out at the city .,drink -> alcohol,hotel
-comment_0_21,awesome steel pan <SEP> positive,the steel pan was awesome and unlike anything I 've ever had .,drink -> alcohol,restaurant
-comment_0_22,awesome wine list <SEP> positive,Awesome wine list .,drink -> alcohol,restaurant
-comment_0_23,awesome wine selection <SEP> positive,Awesome wine selection !  ,drink -> alcohol,restaurant
-comment_0_24,awfully small cocktail <SEP> positive,My cocktail was tasty but awfully small !,drink -> alcohol,restaurant
-comment_0_25,best bar tenders <SEP> positive,The bar tenders are the best .,drink -> alcohol,restaurant
-comment_0_26,best beer <SEP> positive,This place makes the best beer in Southern Wisconsin .  ,drink -> alcohol,restaurant
-comment_0_27,best beer selection <SEP> positive,Best beer selection in the South Side .,drink -> alcohol,restaurant
-comment_0_28,best beer selections <SEP> positive,They also have one of the best beer selections .,drink -> alcohol,restaurant
-comment_0_29,best brussels sprouts <SEP> positive,Brussels sprouts were the best we 've ever had .,drink -> alcohol,restaurant
-comment_0_30,best cocktail <SEP> positive,Gladys made me the best cocktail,drink -> alcohol,hotel
-comment_0_31,best cocktails <SEP> positive,"I had one of the best old fashioned cocktails of my life ( for those that do n't know , old fashioned is an actual drink ) .  ",drink -> alcohol,restaurant
-comment_0_32,best craft cocktails <SEP> positive,The craft cocktails were some of the best that I have ever had .,drink -> alcohol,restaurant
-comment_0_33,best espresso martini <SEP> positive,By far the best espresso martini in the city !  ,drink -> alcohol,restaurant
-comment_0_34,best margarita <SEP> positive,Best margarita I 've ever had ! !,drink -> alcohol,restaurant
-comment_0_35,best selection of belgian beer <SEP> positive,Annnnnnddddd ..... the best selection of Belgian beer I have found in Cleveland .   ,drink -> alcohol,restaurant
-comment_0_36,best shrimp cocktail <SEP> positive,I had the shrimp cocktail to start and it was one of the best I have had .,drink -> alcohol,hotel
-comment_0_37,better margaritas <SEP> positive,And their margaritas are way better than the ones at the Mexican restaurant that I 'm eating at now .,drink -> alcohol,restaurant
-comment_0_38,biggest shrimp cocktail <SEP> positive,"Drinks , appetizer- biggest shrimp cocktail",drink -> alcohol,restaurant
-comment_0_39,bubbly berry cocktail <SEP> positive,I loved the bubbly berry cocktail !,drink -> alcohol,restaurant
-comment_0_40,creative cocktail <SEP> positive,We stopped in Prado before the fireworks and enjoyed a creative cocktail made by Kyle .,drink -> alcohol,hotel
-comment_0_41,decent beer list <SEP> positive,Decent beer list .,drink -> alcohol,restaurant
-comment_0_42,decent beer prices <SEP> positive,"Beer prices were decent , especially for Vegas .  ",drink -> alcohol,restaurant
-comment_0_43,decent beer selection <SEP> positive,They have a decent beer selection .,drink -> alcohol,restaurant
-comment_0_44,decent house lager beer on tap <SEP> positive,They have a decent house lager beer on tap .  ,drink -> alcohol,restaurant
-comment_0_45,decent sake selection <SEP> positive,"Sake selection is decent , and they also have a good wine and beer list .",drink -> alcohol,restaurant
-comment_0_46,delicious blackberry whiskey sour <SEP> positive,Blackberry Whiskey Sour was delicious !,drink -> alcohol,hotel
-comment_0_47,delicious cocktails <SEP> positive,"Started in the bar for delicious happy hour cocktails , all of which are Asian variations of classics .",drink -> alcohol,restaurant
-comment_0_48,delicious cosmopolitan <SEP> positive,cosmopolitan is delicious .,drink -> alcohol,hotel
-comment_0_49,delicious ginger beer <SEP> positive,they brew their own ginger beer and they were delicious !,drink -> alcohol,hotel
-comment_0_50,delicious gold lager <SEP> positive,"Beer was Troll 's gold lager , delicious .",drink -> alcohol,restaurant
-comment_0_51,delicious lychee martinis <SEP> positive,"Lychee martinis are delicious , as are most of their cocktails .",drink -> alcohol,restaurant
-comment_0_52,delicious margarita <SEP> positive,so we had a white one he recommended and a delicious Margarita .,drink -> alcohol,hotel
-comment_0_53,delicious mules <SEP> positive,The mules were also delicious and the bartender very friendly .,drink -> alcohol,restaurant
-comment_0_54,delicious tapas <SEP> positive,Tapas were all delicious .,drink -> alcohol,restaurant
-comment_0_55,delicious vienna beef bun <SEP> positive,The hot dog was a Vienna Beef dog with a Vienna Beef bun and had the toppings of a standard Chicago Dog and was delicious .  ,drink -> alcohol,hotel
-comment_0_56,deliciously strong cocktails <SEP> positive,"The cocktails are deliciously strong , but you can also get a beer for a couple of bucks .",drink -> alcohol,restaurant
-comment_0_57,discounted wine list selections <SEP> positive,From 5 - 7 pm daily wine list selections discounted 33 % and appetizers 50 % .,drink -> alcohol,restaurant
-comment_0_58,diverse wine selection <SEP> positive,Wine selection was diverse and paired wonderfully with the meal .,drink -> alcohol,restaurant
-comment_0_59,divine margaritas <SEP> positive,The margaritas are divine .,drink -> alcohol,restaurant
-comment_0_60,empty wine glass <SEP> negative,Wine glass empty entire time .,drink -> alcohol,hotel
-comment_0_61,enjoy cocktails <SEP> positive,I brought some friends this evening to enjoy cocktails .,drink -> alcohol,restaurant
-comment_0_62,enjoyed brussels sprouts <SEP> positive,I had the pork chop parm and some Brussels sprouts and enjoyed all of it .,drink -> alcohol,restaurant
-comment_0_63,enjoyed cocktails <SEP> positive,"We were here for happy hour and enjoyed some the signature cocktails , beef and brussel sprouts kabob , street tacos , mushroom flatbread and lemon and garlic prawns .",drink -> alcohol,restaurant
-comment_0_64,enjoyed draft pint of <SEP> positive,"Enjoyed a $ 4 draft pint of Golden State IPA , on happy hour ( 4 - 7 ) .",drink -> alcohol,restaurant
-comment_0_65,enjoyed martini <SEP> positive,I enjoyed 3 different martini 's .,drink -> alcohol,restaurant
-comment_0_66,enjoyed sea bass <SEP> positive,I enjoyed the sea bass while my friend enjoyed the filet mignon .   ,drink -> alcohol,hotel
-comment_0_67,enjoying cocktails <SEP> positive,"While enjoying our cocktails , we watched one of the chefs craft",drink -> alcohol,restaurant
-comment_0_68,enormous beer selection <SEP> positive,The beer selection was enormous and they had 20 draft handles .,drink -> alcohol,restaurant
-comment_0_69,enough combo fajitas <SEP> positive,Combo fajitas were enough for my wife and I.  ,drink -> alcohol,restaurant
-comment_0_70,exceeded beer selection <SEP> positive,Beer selection exceeded my expectations with many local selections and craft brews .,drink -> alcohol,restaurant
-comment_0_71,excellent brussels sprouts <SEP> positive,The fries and roasted Brussels sprouts are also excellent sides .,drink -> alcohol,restaurant
-comment_0_72,excellent cocktails <SEP> positive,The food and cocktails were excellent !,drink -> alcohol,restaurant
-comment_0_73,excellent house beer <SEP> positive,My husband had the house beer which was excellent .,drink -> alcohol,restaurant
-comment_0_74,excellent margaritas <SEP> positive,The Margaritas were excellent as well -- only $ 3 due to happy hour .,drink -> alcohol,restaurant
-comment_0_75,excellent sea bass <SEP> positive,The sea bass was excellent .,drink -> alcohol,hotel
-comment_0_76,excellent tappas <SEP> positive,I 've had excellent Tappas and paid way less per dish .,drink -> alcohol,restaurant
-comment_0_77,excellent wine selection <SEP> positive,"They do nt have a large craft beer selection , but their wine selection was excellent .",drink -> alcohol,restaurant
-comment_0_77,excellent wine selection <SEP> positive,Excellent wine selection as well,drink -> alcohol,hotel
-comment_0_78,excellent wines by the glass <SEP> positive,They have excellent wines by the glass not found in other places .  ,drink -> alcohol,restaurant
-comment_0_79,exceptional wine parings <SEP> positive,The wine parings were exceptional .,drink -> alcohol,hotel
-comment_0_80,extensive beer list <SEP> positive,"We had wine , but they had an extensive beer list .",drink -> alcohol,restaurant
-comment_0_81,extensive beer menu <SEP> positive,Cuff has an extensive beer menu .   ,drink -> alcohol,restaurant
-comment_0_82,extensive cocktail menu <SEP> positive,They beer and cocktail menu was extensive .,drink -> alcohol,restaurant
-comment_0_83,extensive knowledge of wine list <SEP> positive,She had extensive knowledge of the wine list and the food menu and offered up great suggestions for combos .,drink -> alcohol,restaurant
-comment_0_84,extensive wine list <SEP> positive,Wine list was extensive .,drink -> alcohol,restaurant
-comment_0_84,extensive wine list <SEP> positive,We do n't drink but they do have an extensive wine list .,drink -> alcohol,hotel
-comment_0_85,extensive wine selection <SEP> positive,The wine selection was extensive and even allowed you to send the wine you preferred via an iPad so you can remember for next time .,drink -> alcohol,restaurant
-comment_0_86,fab cocktails <SEP> positive,"Also , the vodka bar on the way in has fab cocktails .",drink -> alcohol,hotel
-comment_0_87,fabulous wine list <SEP> positive,Vegan options and fabulous wine list .,drink -> alcohol,restaurant
-comment_0_88,fantastic beer selection <SEP> positive,The beer selection is fantastic and the wait - persons can explain the nuances of all .,drink -> alcohol,restaurant
-comment_0_89,fantastic beers <SEP> positive,Beers were fantastic .,drink -> alcohol,restaurant
-comment_0_90,fantastic martinis <SEP> positive,martinis are fantastic ....,drink -> alcohol,restaurant
-comment_0_91,fantastic sea bass <SEP> positive,"We also had the Sea Bass , it was fantastic .",drink -> alcohol,hotel
-comment_0_92,fantastic specialty martinis <SEP> positive,The specialty martinis were also fantastic .,drink -> alcohol,hotel
-comment_0_93,fantastic vodka martini <SEP> positive,They make a fantastic vodka martini .  ,drink -> alcohol,restaurant
-comment_0_94,favorite baja shrimp cocktail <SEP> positive,The baja shrimp cocktail is my favorite !,drink -> alcohol,hotel
-comment_0_95,favorite beer <SEP> positive,"My personal favorite beer is called "" Maggie 's "" .  ",drink -> alcohol,restaurant
-comment_0_96,favorite blue grata martini <SEP> positive,The blue grata martini is my favorite .,drink -> alcohol,restaurant
-comment_0_97,favorite cocktails <SEP> positive,"We a few of their signature cocktails as well , the one with the hibiscus flower was my favorite .",drink -> alcohol,hotel
-comment_0_98,favorite tap water <SEP> positive,"My favorite part was the offerings for tap water , free , plus a tip of course .",drink -> alcohol,hotel
-comment_0_99,flavorful margaritas <SEP> positive,I had 2 margaritas that were flavorful as well .,drink -> alcohol,hotel
-comment_0_100,formidable craft beer menu <SEP> positive,A formidable craft beer menu does n't hurt the cause either !,drink -> alcohol,restaurant
-comment_0_101,fresh margaritas <SEP> positive,The Margaritas are made with fresh lime and not from a concentrated powder - 100 % from scratch - the guy that makes them comes in every two days and squeezes the limes by hand .  ,drink -> alcohol,restaurant
-comment_0_102,fresh shrimp cocktail <SEP> positive,Shrimp cocktail was fresh and tasty .  ,drink -> alcohol,restaurant
-comment_0_103,friendly cocktail waitresses <SEP> positive,"Cocktail waitresses are friendly , ours especially ( if only i can remember her name )",drink -> alcohol,hotel
-comment_0_104,fruity melon martini <SEP> positive,I had the melon martini which was fruity and refreshing .  ,drink -> alcohol,hotel
-comment_0_105,full fridge <SEP> positive,"Kitchen , stove , microwave , dining room / table , full fridge , the works !",drink -> alcohol,hotel
-comment_0_106,fully loaded kitchen area <SEP> positive,"Came with a fully loaded kitchen area , living room , patio , bedroom , walk in closet and bathroom .",drink -> alcohol,hotel
-comment_0_107,fun cocktails <SEP> positive,Had a few cocktails that they mix themselves & they were fun & inventive .,drink -> alcohol,restaurant
-comment_0_108,good and frozen margaritas <SEP> positive,The frozen margaritas are good and strong,drink -> alcohol,restaurant
-comment_0_109,good beer <SEP> positive,I 'm craving nachos and good beer .  ,drink -> alcohol,restaurant
-comment_0_110,good beer brat <SEP> positive,Beer brat was good just very simple and the pretzel bun was n't even as good as the pretzel appetizer .,drink -> alcohol,restaurant
-comment_0_111,good beer list <SEP> positive,Beer list is good too .  ,drink -> alcohol,restaurant
-comment_0_112,good beer list on draught <SEP> positive,They have other apps too and a good beer list on draught .,drink -> alcohol,restaurant
-comment_0_113,good beer selection <SEP> positive,Beer selection good .  ,drink -> alcohol,restaurant
-comment_0_114,good beers <SEP> positive,All of the beers at the Grumpy Troll were good ; it 's rare to find a brewery with such consistency !,drink -> alcohol,restaurant
-comment_0_115,good chilean sea bass <SEP> positive,But the Chilean sea bass was as good as it gets .,drink -> alcohol,restaurant
-comment_0_116,good cocktails <SEP> positive,Initial impressions from ambience and cocktails were good .,drink -> alcohol,restaurant
-comment_0_116,good cocktails <SEP> positive,Cocktails are good .,drink -> alcohol,hotel
-comment_0_117,good craft beer tasters <SEP> positive,Craft beer tasters was good and more of a highlight for me than steaks .,drink -> alcohol,restaurant
-comment_0_118,good for tavern sampler <SEP> positive,The tavern sampler is good for choosing what s on tap .,drink -> alcohol,restaurant
-comment_0_119,good grilled trout <SEP> positive,The grilled trout was also good but a little over cooked .,drink -> alcohol,restaurant
-comment_0_120,good margaritas <SEP> positive,The margaritas are good both in size and taste .,drink -> alcohol,restaurant
-comment_0_121,good mix of cocktails <SEP> positive,Good mix of cocktails & beer .  ,drink -> alcohol,hotel
-comment_0_122,good selection of beers <SEP> positive,Good selection of beers and other drinks .,drink -> alcohol,restaurant
-comment_0_123,good selection of bottled beers <SEP> positive,They had a good selection of bottled beers but nothing on tap .  ,drink -> alcohol,restaurant
-comment_0_124,good selection of cocktails <SEP> positive,they also have a good selection of cocktails .,drink -> alcohol,restaurant
-comment_0_125,good variety of beers on tap <SEP> positive,Good variety of beers on tap !,drink -> alcohol,hotel
-comment_0_126,good wine list <SEP> positive,Wine list good .,drink -> alcohol,restaurant
-comment_0_127,good wine selection <SEP> positive,Good wine selection .,drink -> alcohol,restaurant
-comment_0_128,good wines <SEP> positive,They also offer many good wines however they could have more in stock .,drink -> alcohol,restaurant
-comment_0_129,great beer <SEP> positive,Great beer   and a good selection of other drinks .,drink -> alcohol,restaurant
-comment_0_130,great beer menu <SEP> positive,Great beer menu .  ,drink -> alcohol,restaurant
-comment_0_131,great beer recommendation <SEP> positive,"She gave me a great beer recommendation , Great Lakes Conway Irish ale , was very attentive and brought my food out as soon as it came up",drink -> alcohol,restaurant
-comment_0_132,great beer selection <SEP> positive,Great beer selection with self serve craft option,drink -> alcohol,restaurant
-comment_0_133,great beer specials <SEP> positive,Great beer specials and plenty of tv 's .  ,drink -> alcohol,restaurant
-comment_0_134,great beers <SEP> positive,I had 6 beers and every single one of them was great .,drink -> alcohol,restaurant
-comment_0_135,great brasserie <SEP> positive,DB Brasserie was great !  ,drink -> alcohol,restaurant
-comment_0_136,great brussels sprouts <SEP> positive,The Brussels sprouts are great .,drink -> alcohol,restaurant
-comment_0_137,great cocktails <SEP> positive,Victor and Ben at the bar are amazing and make some great cocktails .,drink -> alcohol,hotel
-comment_0_137,great cocktails <SEP> positive,Cocktails are great .  ,drink -> alcohol,restaurant
-comment_0_138,great craft cocktails <SEP> positive,GREAT craft cocktails !,drink -> alcohol,restaurant
-comment_0_139,great dirty martini <SEP> positive,Bartender made my wife a great dirty martini .,drink -> alcohol,restaurant
-comment_0_140,great gem <SEP> positive,"Definitely will come back , a great hidden gem in Las Vegas !",drink -> alcohol,hotel
-comment_0_141,great local beer selection <SEP> positive,Great local beer selection for a out of town visitor .,drink -> alcohol,restaurant
-comment_0_142,great margarita pizza <SEP> positive,I got the margarita pizza which was great except I could use more basil .,drink -> alcohol,restaurant
-comment_0_143,great margaritas <SEP> positive,"Margaritas were great , too .",drink -> alcohol,restaurant
-comment_0_143,great margaritas <SEP> positive,Great margaritas and food .,drink -> alcohol,hotel
-comment_0_144,great martinis <SEP> positive,Great martinis and manhattans in Terrace Bar !  ,drink -> alcohol,hotel
-comment_0_145,great mexican place <SEP> positive,Thank god there 's this great Mexican place within walking distance of home !,drink -> alcohol,restaurant
-comment_0_146,great samosas <SEP> positive,"The samosas are great , got ta get the Mango Lassi .",drink -> alcohol,restaurant
-comment_0_147,great selection of beer samplers <SEP> positive,Great selection of beer samplers and wine .,drink -> alcohol,restaurant
-comment_0_148,great selection of beers <SEP> positive,A great selection of beers and wines also,drink -> alcohol,restaurant
-comment_0_149,great selection of wines <SEP> positive,Great selection of wines as well .,drink -> alcohol,hotel
-comment_0_150,great sparkling wine <SEP> positive,Sparkling wine was great too .,drink -> alcohol,hotel
-comment_0_151,great wine list <SEP> positive,Great Wine List !,drink -> alcohol,restaurant
-comment_0_152,great wine recommendations <SEP> positive,They always make great wine recommendations to compliment meals .  ,drink -> alcohol,restaurant
-comment_0_153,great wine selection <SEP> positive,"Great wine selection , but for the $ $ it better be !",drink -> alcohol,restaurant
-comment_0_154,hand crafted cocktails <SEP> positive,Hand crafted cocktails were worth the price yummm ! !,drink -> alcohol,restaurant
-comment_0_155,hard to beat beer selection <SEP> positive,The beer selection is hard to beat .,drink -> alcohol,restaurant
-comment_0_156,hidden gem <SEP> positive,A hidden Gem !,drink -> alcohol,restaurant
-comment_0_157,holiday themed cocktail list <SEP> positive,Even the cocktail list was holiday themed !,drink -> alcohol,restaurant
-comment_0_158,homemade margaritas <SEP> positive,Next time going to try the homemade margaritas .,drink -> alcohol,restaurant
-comment_0_159,horrible liquor <SEP> negative,The liquor was horrible .,drink -> alcohol,hotel
-comment_0_160,huge beer selection <SEP> positive,They have a huge beer selection which is great .,drink -> alcohol,restaurant
-comment_0_161,huge selection of beers <SEP> positive,Plus they have a huge selection of beers !,drink -> alcohol,restaurant
-comment_0_162,impressive wine list <SEP> positive,An impressive wine list at this place .,drink -> alcohol,hotel
-comment_0_163,incredible belgium beer selection <SEP> positive,The Belgium beer selection is incredible .,drink -> alcohol,restaurant
-comment_0_164,incredibly priced wines <SEP> positive,We had some Spanish wines that were incredibly priced .,drink -> alcohol,restaurant
-comment_0_165,innovative cocktails <SEP> positive,The lounge area has the feel of a speakeasy where one can easily enjoy one of their innovative cocktails before or after dinner .  ,drink -> alcohol,restaurant
-comment_0_166,interesting beer selection <SEP> positive,Beer selection interesting - cocktails too !   ,drink -> alcohol,restaurant
-comment_0_167,interesting cocktails <SEP> positive,"The cocktails were interesting , but pretty standard .  ",drink -> alcohol,restaurant
-comment_0_168,interesting wine list <SEP> positive,Excellent and interesting wine list .,drink -> alcohol,restaurant
-comment_0_169,kind wine / beer machine <SEP> positive,They have a self serve wine / beer machine which the owner or manager named Chris was kind enough to show us and let us test out .,drink -> alcohol,restaurant
-comment_0_170,large beer   <SEP> positive,Large beer   selection !  ,drink -> alcohol,restaurant
-comment_0_171,large house margaritas <SEP> positive,Also on Fridays is $ 5 Large house Margaritas !,drink -> alcohol,restaurant
-comment_0_172,large selection of handcrafted beer <SEP> positive,"The large selection of handcrafted beer is tasty , especially if you 're into the IPA styles .  ",drink -> alcohol,restaurant
-comment_0_173,legit oasis <SEP> positive,It 's a legit oasis .,drink -> alcohol,hotel
-comment_0_174,light pear ale <SEP> positive,I ordered a pear ale which was light and fruity,drink -> alcohol,restaurant
-comment_0_175,like champagne smash for <SEP> positive,I like the champagne smash for cocktail .,drink -> alcohol,restaurant
-comment_0_176,like shrimp cocktail <SEP> positive,"I like the shrimp cocktail , large shrimp , with spicy sauce .",drink -> alcohol,restaurant
-comment_0_177,liked beer selection <SEP> positive,We liked their beer selection as well .,drink -> alcohol,restaurant
-comment_0_178,liked bloody mary cocktails <SEP> positive,I liked the bloody mary cocktails --nice salty flavor .,drink -> alcohol,restaurant
-comment_0_179,liked margaritas <SEP> positive,We liked the margaritas as well .,drink -> alcohol,restaurant
-comment_0_180,local beer <SEP> positive,My wife loves the infused bubbles drink and they have local beer .   ,drink -> alcohol,restaurant
-comment_0_181,locally made ohio vodka <SEP> positive,I liked that they used locally made Ohio vodka from watershed distillery .,drink -> alcohol,restaurant
-comment_0_182,love cocktails <SEP> positive,Love having cocktails by the outdoor fireplace .,drink -> alcohol,hotel
-comment_0_183,love margaritas <SEP> positive,I love the margaritas !,drink -> alcohol,restaurant
-comment_0_184,loved cocktails <SEP> positive,We loved our cocktails and the $ 3 shot special .,drink -> alcohol,restaurant
-comment_0_185,loved wine selection <SEP> positive,"My party seated promptly , and I loved the wine selection",drink -> alcohol,hotel
-comment_0_186,loved wine selection suggestions <SEP> positive,"Loved her wine selection suggestions , as well as dinner entree recommendations !",drink -> alcohol,restaurant
-comment_0_187,lovely cocktails <SEP> positive,We chose two lovely cocktails off their menu before ordering dinner .,drink -> alcohol,restaurant
-comment_0_188,massive stroller <SEP> positive,They actually had room for our massive stroller .   ,drink -> alcohol,restaurant
-comment_0_189,meticulously crafted cocktails <SEP> positive,"If you like meticulously crafted , flavourful cocktails , ask to be seated at the cocktail bar .",drink -> alcohol,restaurant
-comment_0_190,most amazing curried brussels sprouts <SEP> positive,"Sounds random , but their curried Brussels sprouts are the most amazing things I 've ever tasted .",drink -> alcohol,hotel
-comment_0_191,most awesome wine bar <SEP> positive,Through the back door and up the stairs is the most awesome wine bar .,drink -> alcohol,restaurant
-comment_0_192,most excellent cerveza <SEP> positive,and I can enjoy a couple pints of their most excellent cerveza when we go .  ,drink -> alcohol,restaurant
-comment_0_193,must try belgium beer <SEP> positive,The Belgium beer is a must try .  ,drink -> alcohol,restaurant
-comment_0_194,must uni shooters <SEP> positive,Uni shooters are a must ( but ask to substitute sake for the champagne ) .,drink -> alcohol,restaurant
-comment_0_195,nice beer <SEP> positive,Add in the black truffle fries and a nice cold beer .,drink -> alcohol,restaurant
-comment_0_196,nice ipa burger <SEP> positive,I had the IPA burger and I paired it with an IPA - nice !,drink -> alcohol,restaurant
-comment_0_197,nice ipa on draft <SEP> positive,They had a nice IPA on draft and Stone in the bottle .,drink -> alcohol,restaurant
-comment_0_198,nice range of selections wine list <SEP> positive,Wine list has a nice range of selections .,drink -> alcohol,hotel
-comment_0_199,nice touch beer in <SEP> positive,And the beer in a cold glass is a nice touch : ),drink -> alcohol,restaurant
-comment_0_200,nice wine list <SEP> positive,Nice wine list !  ,drink -> alcohol,restaurant
-comment_0_201,no ice machine <SEP> negative,No ice in 3rd floor ice machine .    ,drink -> alcohol,hotel
-comment_0_202,not a fan brussels sprouts <SEP> negative,Not a fan off the Brussels sprouts .    ,drink -> alcohol,restaurant
-comment_0_203,not impressed beer selection <SEP> negative,Not impressed with the creamed corn or beer selection .,drink -> alcohol,hotel
-comment_0_204,numerous craft beer options <SEP> positive,Glad to see numerous craft beer options .  ,drink -> alcohol,hotel
-comment_0_205,out of this world cocktails <SEP> positive,"The steak , sides and cocktails were out of this world .",drink -> alcohol,restaurant
-comment_0_206,out of this world infused cocktails <SEP> positive,The infused cocktails are out of this world ! ! ! !,drink -> alcohol,restaurant
-comment_0_207,outstanding beer <SEP> positive,The selection of beer is outstanding .,drink -> alcohol,restaurant
-comment_0_208,outstanding tater tots <SEP> positive,Side dishes where roasted corn ( just okay ) and tater tots which were outstanding .,drink -> alcohol,hotel
-comment_0_209,outstanding wine list by <SEP> positive,My favorite part was the outstanding wine list by the glass .,drink -> alcohol,restaurant
-comment_0_210,overcooked bass <SEP> negative,The bass was overcooked bland and was oily .,drink -> alcohol,restaurant
-comment_0_211,packed margaritas <SEP> positive,Margaritas are packed with a punch and yummy .,drink -> alcohol,restaurant
-comment_0_212,perfect cocktails <SEP> positive,"Cocktails were perfect , view was all you could ask for with Camelback "" right there "" .  ",drink -> alcohol,restaurant
-comment_0_213,perfect sea bass <SEP> positive,I had the Sea bass which was perfect .,drink -> alcohol,restaurant
-comment_0_214,perfectly jalapeño margarita <SEP> positive,Calli always makes my jalapeño margarita perfectly !,drink -> alcohol,hotel
-comment_0_215,perfectly made bloody mary martinis <SEP> positive,We had Bloody Mary martinis to kick off the evening -- perfectly made .,drink -> alcohol,restaurant
-comment_0_216,perfectly paired wines <SEP> positive,If that was n't enough our Somm Devin recommended perfectly paired wines for our dinner .,drink -> alcohol,restaurant
-comment_0_217,personalized beer <SEP> positive,Personalized label of each beer was a nice touch .  ,drink -> alcohol,restaurant
-comment_0_218,phenomenal brewery <SEP> positive,The brewery that is upstairs is phenomenal .,drink -> alcohol,restaurant
-comment_0_219,potent margaritas <SEP> positive,"Margaritas are light but , potent .",drink -> alcohol,restaurant
-comment_0_220,pretty cool- wine bar <SEP> positive,The wine bar in the back is also pretty cool- a little cramped but definitely worth checking out .,drink -> alcohol,restaurant
-comment_0_221,pretty decent wine selection by <SEP> positive,The wine selection by the glass is pretty decent .  ,drink -> alcohol,restaurant
-comment_0_222,pretty good beer <SEP> positive,The beer is pretty good if you like IPs .,drink -> alcohol,restaurant
-comment_0_223,pristine golf course <SEP> positive,The golf course was pristine .,drink -> alcohol,hotel
-comment_0_224,quaint little wine bar <SEP> positive,"If you do have to wait , there is a quaint little wine bar in the back ( also has liquor and some bottled beer ) .  ",drink -> alcohol,restaurant
-comment_0_225,quaint wine bar <SEP> positive,While you 're waiting check out the quaint wine bar in the back .,drink -> alcohol,restaurant
-comment_0_226,quick cocktail <SEP> positive,I might come back for a quick cocktail and app .,drink -> alcohol,restaurant
-comment_0_227,quite good beer selection <SEP> positive,"not what I asked for , sides and beer selection quite good .",drink -> alcohol,restaurant
-comment_0_228,quite original cocktails <SEP> positive,Cocktails were quite original .,drink -> alcohol,restaurant
-comment_0_229,quite reasonable tiger beer <SEP> positive,"Tiger beer for $ 6 , quite reasonable .  ",drink -> alcohol,restaurant
-comment_0_230,really beer <SEP> positive,"They had a beer called ' Kwack ' , which was really , really tasty .  ",drink -> alcohol,restaurant
-comment_0_231,really good bourbon <SEP> positive,The Bourbon that was recommended to my husband what really good .,drink -> alcohol,restaurant
-comment_0_232,really nice wine selection <SEP> positive,Really nice wine selection by the bottle .,drink -> alcohol,restaurant
-comment_0_233,reasonable beer <SEP> positive,"They have a reasonable beer and wine selection , so you 'll find something to fit your palate .  ",drink -> alcohol,restaurant
-comment_0_234,reasonable beer prices <SEP> positive,Beer prices are reasonable .,drink -> alcohol,restaurant
-comment_0_235,robust flavors <SEP> positive,wow the robust flavors .  ,drink -> alcohol,restaurant
-comment_0_236,self serve beer <SEP> positive,Self serve beer !,drink -> alcohol,restaurant
-comment_0_237,seriously large shimp shrimp cocktail <SEP> positive,We started with the shrimp cocktail which had seriously large shimp !  ,drink -> alcohol,restaurant
-comment_0_238,so cheesy tater tots <SEP> positive,The tater tots were so cheesy and full of flavor ; best tater tots EVER !,drink -> alcohol,restaurant
-comment_0_239,solid beer selection <SEP> positive,They carry a solid beer selection just like Bier Markt in the back .,drink -> alcohol,restaurant
-comment_0_240,solid house brew <SEP> positive,Solid house brew .,drink -> alcohol,restaurant
-comment_0_241,spendy cocktail <SEP> positive,Awesome and worth the trip for a v. spendy cocktail or two .,drink -> alcohol,hotel
-comment_0_242,spot on cocktails <SEP> positive,Had 2 of their special cocktails and they were spot on .,drink -> alcohol,restaurant
-comment_0_243,stone ground stout mustard smoked bacon <SEP> positive,"Let your tongue read the following : Irish Stout Burger - Irish cheddar , smoked bacon , stone ground stout mustard .",drink -> alcohol,restaurant
-comment_0_244,strong root beer flavor <SEP> positive,"It was quite a strong root beer flavor and a bit sweet ,   but",drink -> alcohol,restaurant
-comment_0_245,stunning golf course <SEP> positive,Golf course is stunning !,drink -> alcohol,hotel
-comment_0_246,super great moscow mule <SEP> positive,The Moscow Mule ; super great .,drink -> alcohol,restaurant
-comment_0_247,superb brussels sprouts <SEP> positive,Brussels sprouts were superb .,drink -> alcohol,hotel
-comment_0_248,superb cocktails <SEP> positive,We tried four different cocktails and they were all superb .,drink -> alcohol,restaurant
-comment_0_249,tall tasty cocktail <SEP> positive,"I also enjoyed a tall tasty cocktail , the Squalor Victoria , made with Rittenhouse Rye whiskey .",drink -> alcohol,restaurant
-comment_0_250,unbelievable wine list <SEP> positive,and the wine list is unbelievable .,drink -> alcohol,restaurant
-comment_0_251,under poured cocktails <SEP> negative,"I 've had drinks at the bar down stairs , and let me tell you that you 'll be paying full price for under poured cocktails .  ",drink -> alcohol,hotel
-comment_0_252,unique beer <SEP> positive,"They have a unique beer and wine "" by the ounce "" self serve option .",drink -> alcohol,restaurant
-comment_0_253,unique beer selections <SEP> positive,In addition to a great wine list they also had some unique beer selections .,drink -> alcohol,restaurant
-comment_0_254,unique blonde beer <SEP> positive,They had a unique blonde beer I really liked and    the food was amazing .,drink -> alcohol,restaurant
-comment_0_255,unique cocktails <SEP> positive,"Time spent waiting for our group to arrive in the bar area was also excellent , as the cocktails are both unique , but approachable .",drink -> alcohol,restaurant
-comment_0_256,very fresh danishes <SEP> positive,"Pancakes , French toast , Danishes all very fresh .  ",drink -> alcohol,hotel
-comment_0_257,very good beignets <SEP> positive,"Beignets were very good , but could have been larger , a little more Light and puffy .",drink -> alcohol,restaurant
-comment_0_258,very good blackened swordfish <SEP> positive,Blackened swordfish was very good and was the best of the 3 entrees we had .,drink -> alcohol,restaurant
-comment_0_259,very good brew pub beer <SEP> positive,Very good brew pub beer .,drink -> alcohol,restaurant
-comment_0_260,very good cinnamon sidecar martinis <SEP> positive,The cinnamon sidecar martinis were also very good .,drink -> alcohol,restaurant
-comment_0_261,very good cocktails <SEP> positive,The cocktails are very good and probably what Lucille is best known for .,drink -> alcohol,restaurant
-comment_0_262,very good margaritas <SEP> positive,The margaritas were very good .,drink -> alcohol,restaurant
-comment_0_263,very hospitable cocktail servers <SEP> positive,The cocktail servers were very hospitable as well .,drink -> alcohol,hotel
-comment_0_264,very nice wine bar <SEP> positive,We ate in the wine bar behind the actual restaurant which was very nice and cozy .,drink -> alcohol,restaurant
-comment_0_265,very nice wine list <SEP> positive,VERY nice wine list and decor .,drink -> alcohol,restaurant
-comment_0_265,very nice wine list <SEP> positive,Very nice wine list as well !,drink -> alcohol,hotel
-comment_0_266,very strong wine list <SEP> positive,Wine list was very strong !,drink -> alcohol,restaurant
-comment_0_267,very well crafted cocktails <SEP> positive,"I 've been very impressed with their cocktails recently too , very well crafted !",drink -> alcohol,restaurant
-comment_0_268,watery beer <SEP> negative,The Smith brothers beer was watery and almost flavourless .,drink -> alcohol,restaurant
-comment_0_269,well - made martini <SEP> positive,She gave us a good wine suggestion and my martini was well - made .,drink -> alcohol,restaurant
-comment_0_270,well made margaritas <SEP> positive,The margaritas were well made .  ,drink -> alcohol,restaurant
-comment_0_271,wide range of beers on tap <SEP> positive,They had a wide range of beers on tap .,drink -> alcohol,restaurant
-comment_0_272,wonderful wine selection <SEP> positive,They have a wonderful wine selection to go with your meal .,drink -> alcohol,restaurant
-comment_0_272,wonderful wine selection <SEP> positive,Wonderful wine selection .  ,drink -> alcohol,hotel
-comment_0_273,wonderful wines <SEP> positive,"Attentive , but not overly - so and really helpful in recommending some wonderful wines to pair with our food ( and within our budget parameters we conveyed ) .",drink -> alcohol,restaurant
-comment_0_274,yum root beer float <SEP> positive,"Black cow ( root beer float with chocolate sauce- yum ! ) and a loaded rail burger with a fried egg and house made chips , he had some kind of burger with bacon and three kinds of onions plus onion rings .",drink -> alcohol,restaurant
-comment_0_275,yummy cocktails <SEP> positive,We started out with some yummy cocktails and appetizers .  ,drink -> alcohol,restaurant
-comment_0_276,yummy martini <SEP> positive,We both had martini 's which were yummy too .,drink -> alcohol,restaurant
-comment_1_0,almost on par noodles <SEP> positive,Would say the noodles are almost on par with best in the city Sensotei .,food -> healthiness,restaurant
-comment_1_1,amazing braised short rib tacos <SEP> positive,"We shared the braised short rib tacos , which were amazing .",food -> healthiness,restaurant
-comment_1_2,best flavored carne asada <SEP> positive,The carne asada was probably the best flavored but it was just grill flavor .,food -> healthiness,restaurant
-comment_1_3,best mushrooms <SEP> positive,The mushrooms were the best I had ever tasted .,food -> healthiness,restaurant
-comment_1_4,big selection of food <SEP> positive,Big selection of food done well .,food -> healthiness,restaurant
-comment_1_5,bit greasy tempura <SEP> negative,I found the tempura a bit greasy / too much batter .,food -> healthiness,restaurant
-comment_1_6,bomb lettuce wraps <SEP> positive,"The lettuce wraps , chicken club , braised ribs , and coconut pie are all bomb .",food -> healthiness,restaurant
-comment_1_7,cheap greasy chips <SEP> negative,My tacos did n't even come with tortilla but with some cheap greasy chips like substance .,food -> healthiness,restaurant
-comment_1_8,crazy big kid 's meal portions <SEP> positive,The kid 's meal portions are crazy big !  ,food -> healthiness,restaurant
-comment_1_9,decent mushroom gyzo <SEP> positive,I also tried the mushroom gyzo which decent as well .,food -> healthiness,restaurant
-comment_1_10,delicious bulgoki <SEP> positive,I had the Bulgoki which was delicious .,food -> healthiness,restaurant
-comment_1_11,delicious short rib and steak <SEP> positive,"I ordered the short rib and steak , which was basically meat on top of meat , and it was delicious !",food -> healthiness,restaurant
-comment_1_12,delicious vege burrito <SEP> positive,Musicians played us a romantic song and the vege burrito was delicious .,food -> healthiness,restaurant
-comment_1_13,delicious vegetables <SEP> positive,It was cooked to perfection and the vegetables were delicious .,food -> healthiness,restaurant
-comment_1_14,delish barruta <SEP> positive,Melissa was great and the Barruta was delish !,food -> healthiness,restaurant
-comment_1_15,diagonally - placed chicken slivers <SEP> positive,The diagonally - placed chicken slivers in my box were nice ..,food -> healthiness,restaurant
-comment_1_16,die for buffalo cauliflower <SEP> positive,"For Appetizer 's we tried the Buffalo cauliflower , and chrispy shrimp ... both to die for .  ",food -> healthiness,restaurant
-comment_1_17,die for short rib burger <SEP> positive,I had their short rib burger and it 's to die for .,food -> healthiness,restaurant
-comment_1_18,distinct meaty taste <SEP> negative,Sirloin lacked the distinct meaty taste .,food -> healthiness,restaurant
-comment_1_19,exceeded late night noodles <SEP> positive,"Went last night for "" Late Night Noodles "" and they exceeded my expectations .  ",food -> healthiness,restaurant
-comment_1_20,excellent carne asada taco <SEP> positive,The Carne Asada taco was excellent .,food -> healthiness,restaurant
-comment_1_21,fattier salmon belly <SEP> positive,"They also have salmon belly , which is even fattier !",food -> healthiness,restaurant
-comment_1_22,favourite shortrib <SEP> positive,We had a bunch of tacos and the favourite was definitely the shortrib or the lobster .  ,food -> healthiness,restaurant
-comment_1_23,fresh vegetables <SEP> positive,The vegetables were fresh and the meat was n't bad .,food -> healthiness,restaurant
-comment_1_24,gluten cauliflower thai chili scrumptious <SEP> positive,Must try the cauliflower Thai chili scrumptious and gluten and dairy free ! !,food -> healthiness,restaurant
-comment_1_25,good vegetables <SEP> positive,Even the bread and vegetables they gave you before the meal were good .,food -> healthiness,restaurant
-comment_1_26,great crust <SEP> positive,The sauce and crust was great .,food -> healthiness,restaurant
-comment_1_27,great dum biryani <SEP> positive,"Dum Biryani , Mirchi Ka Salan were great .",food -> healthiness,restaurant
-comment_1_28,great mushrooms <SEP> positive,The scallop potatoes and mushrooms were great with the steak .   ,food -> healthiness,restaurant
-comment_1_29,great portion of lobster <SEP> positive,The portion of lobster was great and very tasty .  ,food -> healthiness,restaurant
-comment_1_30,great variety of vegetables <SEP> positive,They have a great variety of vegetables and meats to include in your entree including goat !  ,food -> healthiness,restaurant
-comment_1_31,great wall of bone marrow <SEP> positive,It 's a great Wall of bone marrow .,food -> healthiness,restaurant
-comment_1_32,hard noodles <SEP> negative,The noodles were hard as a rock ; barely cooked .,food -> healthiness,restaurant
-comment_1_33,healthy purple rice <SEP> positive,"Tried the pork bone soup , it comes with a healthy purple rice and 6 side dishes .",food -> healthiness,restaurant
-comment_1_34,house made stracciatella <SEP> positive,"For food , I highly recommend the house made stracciatella !",food -> healthiness,restaurant
-comment_1_35,huge braised beef <SEP> positive,I tried 3 braised beef and they were huge and very filling .  ,food -> healthiness,restaurant
-comment_1_36,huge chicken and biscuit <SEP> positive,Chicken and biscuit is HUGE definitely enough to share .,food -> healthiness,restaurant
-comment_1_37,huge corn muffin <SEP> positive,Corn muffin was huge and very good .,food -> healthiness,restaurant
-comment_1_38,huge pork dish <SEP> positive,I had the pork dish and it was HUGE .,food -> healthiness,restaurant
-comment_1_39,huge portion mussels <SEP> negative,We ordered the AYCE mussels which came with a huge portion of shoestring fries .,food -> healthiness,restaurant
-comment_1_40,huge salad <SEP> positive,"I was expecting something small , but the salad was huge !",food -> healthiness,restaurant
-comment_1_41,huge spicy calamari <SEP> positive,We ordered several appetizers and main courses as follows : Spicy calamari Huge Jumbo prawns served with cocktail sauce .,food -> healthiness,restaurant
-comment_1_42,huge variety of food <SEP> positive,Huge variety of food that all tastes amazing .,food -> healthiness,restaurant
-comment_1_43,included carpaccio <SEP> positive,( The carpaccio is included ! ! )   ,food -> healthiness,restaurant
-comment_1_44,inedible food <SEP> negative,My food was inedible .  ,food -> healthiness,restaurant
-comment_1_45,inedible meals <SEP> negative,3 of 4 meals were inedible and sent back .   ,food -> healthiness,restaurant
-comment_1_46,large salad <SEP> positive,She was nice enough to plate our large salad on two separate plates since she knew we would be sharing,food -> healthiness,restaurant
-comment_1_47,large variety of korean food <SEP> positive,Love that this place is open late and has a large variety of korean food .,food -> healthiness,restaurant
-comment_1_48,liked short rib hash <SEP> positive,"My husband liked his dish of short rib hash , but it was boring .",food -> healthiness,restaurant
-comment_1_49,little neck clam linguine <SEP> positive,I also liked my little neck clam linguine in a white wine sauce .,food -> healthiness,restaurant
-comment_1_50,little plain rice <SEP> positive,The rice was tasty but a little plain .,food -> healthiness,restaurant
-comment_1_51,little slice tuna tartar <SEP> positive,The tuna tartar though is a little slice of bliss !,food -> healthiness,restaurant
-comment_1_52,little spicy penne bolognese <SEP> positive,"I also had their penne bolognese which was a little spicy , but really tasty .",food -> healthiness,restaurant
-comment_1_53,little too greasy dishes <SEP> negative,Some of the dishes can be a little too greasy,food -> healthiness,restaurant
-comment_1_54,long breadstick <SEP> negative,It came with a long breadstick which was good for the broth .,food -> healthiness,restaurant
-comment_1_55,lot of sauce <SEP> negative,"Only 3 small pieces of vegetables , just a lot of sauce .",food -> healthiness,restaurant
-comment_1_56,love short rib dinner <SEP> positive,I love the short rib dinner w the julienned veggies .  ,food -> healthiness,restaurant
-comment_1_57,low-- portions <SEP> negative,"The portions are low-- my entree contained two ( 2 ) pieces of lamb , neither more than a bite each .",food -> healthiness,restaurant
-comment_1_58,med bone in <SEP> positive,I often order the bone in ribeye med - rare and it always comes out exactly how I order it ! !,food -> healthiness,restaurant
-comment_1_59,minimal lobster <SEP> negative,"It was over cooked , dry and contained minimal lobster and flavor .  ",food -> healthiness,restaurant
-comment_1_60,much food <SEP> negative,I have been to the restaurant before and ordered the same thing - there was so much food I could n't finish it .,food -> healthiness,restaurant
-comment_1_61,much meat <SEP> positive,But what made it great was how much meat there was !,food -> healthiness,restaurant
-comment_1_62,must have beef carpaccio <SEP> positive,The beef carpaccio is a must have .,food -> healthiness,restaurant
-comment_1_63,nice carne asada <SEP> positive,The Carne Asada had a nice flavor .,food -> healthiness,restaurant
-comment_1_64,nice touch pickled vegetables <SEP> positive,The pickled vegetables in the beginning are a nice touch .,food -> healthiness,restaurant
-comment_1_65,not a huge fan lobster ravioli <SEP> positive,Not a huge fan of the lobster ravioli ..  ,food -> healthiness,restaurant
-comment_1_66,not fresh vegetables <SEP> negative,You know it 's bad when the waitress steers you away from the vegetable of the day because the vegetables are not fresh ..  ,food -> healthiness,restaurant
-comment_1_67,not that tasty pickled vegetable plate <SEP> negative,"The pickled vegetable plate was not that tasty , unless you like pickled vegetables .  ",food -> healthiness,restaurant
-comment_1_68,off the charts pulled pork <SEP> positive,Pulled pork is off the charts .,food -> healthiness,restaurant
-comment_1_69,old carne asada platter <SEP> negative,"The carne asada platter was old , dry and tough .",food -> healthiness,restaurant
-comment_1_70,organic cauliflower <SEP> positive,"I always , always get the saffron organic cauliflower .",food -> healthiness,restaurant
-comment_1_71,out of this world parsnip gnocchi <SEP> positive,"Recently I had a dish of parsnip gnocchi , and then a bite of my mother - in - law 's mac and cheese with chicken and broccoli rabe , and both were out of this world .",food -> healthiness,restaurant
-comment_1_72,over powering tomato in the sauce <SEP> negative,Tomato in the sauce was over powering .,food -> healthiness,restaurant
-comment_1_73,overdone seasoning <SEP> negative,The seasoning was overdone which detracted from the quality of the meat and fish .,food -> healthiness,restaurant
-comment_1_74,overly fishy salmon <SEP> positive,"Granted , salmon IS fishy but this piece tasted overly fishy .  ",food -> healthiness,restaurant
-comment_1_75,packed pulled pork <SEP> positive,"The rib meat falls off the bone , the brisket melts in your mouth and the pulled pork is packed with flavor , normally I slather bbq sauce all over",food -> healthiness,restaurant
-comment_1_76,perfect short ribs <SEP> positive,Short ribs were perfect !,food -> healthiness,restaurant
-comment_1_77,picked vegetables <SEP> positive,Favourite plus : picked vegetables at the beginning of the meal .,food -> healthiness,restaurant
-comment_1_78,quite tasty bulgogi <SEP> positive,The bulgogi was quite tasty .,food -> healthiness,restaurant
-comment_1_79,really amazing pretzel stack <SEP> positive,The true star of the meal was the dessert - some sort of chocolate mousse and pretzel stack that was really amazing and made in - house .   ,food -> healthiness,restaurant
-comment_1_80,simple vegetables <SEP> positive,seriously if you can impress with simple vegetables you can pretty much own Phoenix !,food -> healthiness,restaurant
-comment_1_81,slight sweetness cobb salad <SEP> positive,The stars of the night were the Cobb salad which has a slight sweetness to the dressing and the elote corn .,food -> healthiness,restaurant
-comment_1_82,sloppily made rolls <SEP> positive,Our rolls tasted good but were sloppily made compared to other places in town like Takumi .,food -> healthiness,restaurant
-comment_1_83,small salad <SEP> positive,I had a small salad and found it fresh and yummy .  ,food -> healthiness,restaurant
-comment_1_84,soggy beans <SEP> negative,They do nt come with beans and were kinda soggy and not as appealing as some of the pics suggest .,food -> healthiness,restaurant
-comment_1_85,soggy chips <SEP> negative,"There were soggy chips at bottom of my nachos due to placing chips on top of the cream sauce ( which was similar to sour cream , which I asked to be taken off ) .",food -> healthiness,restaurant
-comment_1_86,soggy peppers <SEP> negative,The I. P. A. Burger did n't have a taste of any IPA and the peppers were just soggy .  ,food -> healthiness,restaurant
-comment_1_87,sore legs <SEP> negative,", your legs get sore and numb after awhile .",food -> healthiness,restaurant
-comment_1_88,stand - outs brussel sprouts <SEP> positive,"The brussel sprouts , duck wings and torched salmon are stand - outs !",food -> healthiness,restaurant
-comment_1_89,stand alone burger <SEP> positive,There are plenty of stand alone burger joints that do a fine job :,food -> healthiness,restaurant
-comment_1_90,stand out shrimp <SEP> positive,"All three were amazing , but the shrimp was the stand out .",food -> healthiness,restaurant
-comment_1_91,stars of brussel sprouts <SEP> positive,the brussel sprouts and bone marrow were the stars of the night .,food -> healthiness,restaurant
-comment_1_92,stood out chicken momos <SEP> positive,The vegetarian and chicken momos also stood out to me .,food -> healthiness,restaurant
-comment_1_93,substantial eggplant sandwich <SEP> positive,Open - faced eggplant sandwich was tasty ( not bitter ) and substantial .,food -> healthiness,restaurant
-comment_1_94,sucker braised beef <SEP> positive,"I enjoyed both , but I 'm a sucker for braised beef .   ",food -> healthiness,restaurant
-comment_1_95,thin crust wood fired deep dish pizza <SEP> positive,I love that they offer two types of pizzas : thin crust wood fired pizza and deep dish pizza .,food -> healthiness,restaurant
-comment_1_96,too greasy chips <SEP> negative,Also the actual chips that came with the guacamole were much too greasy and rancid in taste .,food -> healthiness,restaurant
-comment_1_97,too much shrimp <SEP> negative,"The shrimp was just "" too much "" tempura .",food -> healthiness,restaurant
-comment_1_98,top shelf food <SEP> positive,The service and food was top shelf .,food -> healthiness,restaurant
-comment_1_99,under significantly under cooked burger <SEP> negative,"Further , my wife 's burger was under significantly under cooked and had to be sent back .  ",food -> healthiness,restaurant
-comment_1_100,undercooked peppers <SEP> negative,The peppers were undercooked and the chicken did n't taste as though it was pre - marinated at all .,food -> healthiness,restaurant
-comment_1_101,very flavorful short rib <SEP> positive,the short rib was very flavorful .  ,food -> healthiness,restaurant
-comment_1_102,very fresh vegetable spring rolls <SEP> positive,The vegetable spring rolls were very fresh and seemed like they were handmade right before cooking .,food -> healthiness,restaurant
-comment_1_103,very savory veggie soup <SEP> positive,Try their veggie soup very savory .  ,food -> healthiness,restaurant
-comment_1_104,very tender braised short rib <SEP> positive,I had the braised short rib which was very tender .,food -> healthiness,restaurant
-comment_1_105,was enough tomatoe mushroom crepes <SEP> positive,The tomatoe mushroom crepes with swiss   cheese .the portion was enough for two .,food -> healthiness,restaurant
-comment_1_106,weak pizza <SEP> negative,Pizza was weak .,food -> healthiness,restaurant
-comment_1_107,without poached mushroom toast <SEP> positive,My vegan friend also ordered mushroom toast without poached eggs and she loved it .,food -> healthiness,restaurant
-comment_2_0,  spot service <SEP> positive,Service :   spot on .  ,wait-time,restaurant
-comment_2_1,24 hour room service <SEP> positive,24 hour room service ( life saver when my flight arrived at 2 am from the west coast and I was really hungry ) .    ,wait-time,hotel
-comment_2_2,24 hours pools <SEP> positive,The pools Open 24 hours and we were in last night three in the morning never once were hassled and we   party of 10 .   ,wait-time,hotel
-comment_2_3,57 minutes to pizza <SEP> negative,My to - go pizza took 57 minutes to get made from the estimate of 30 .,wait-time,restaurant
-comment_2_4,80 minute massage <SEP> positive,I had an 80 minute massage that rocked my world .  ,wait-time,hotel
-comment_2_5,a bit quirky wait staff <SEP> positive,"The wait staff was a bit quirky in my opinion , but diligent and helpful .",wait-time,restaurant
-comment_2_6,all time spa <SEP> positive,The spa at The Sanctuary is one of my all time favorites !,wait-time,hotel
-comment_2_7,always a good time <SEP> positive,always a good time .,wait-time,restaurant
-comment_2_8,always cleaning <SEP> positive,Always cleaning .,wait-time,hotel
-comment_2_9,always interesting ride <SEP> positive,The ride was always interesting with many different terrain and they do good job of keeping you hydrated and together .  ,wait-time,hotel
-comment_2_10,always quick service <SEP> positive,Service is always quick .,wait-time,restaurant
-comment_2_11,always very pleased with stay <SEP> positive,We are always very pleased with our stay .,wait-time,hotel
-comment_2_12,always well restaurant <SEP> positive,The restaurant is always well .,wait-time,hotel
-comment_2_13,amazing journey <SEP> positive,what an amazing journey ! ! !  ,wait-time,hotel
-comment_2_14,amazing off season rate <SEP> positive,First of all the off season rate was amazing .,wait-time,hotel
-comment_2_15,amazing rate <SEP> positive,Was surprised by the amazing rate we got for a Saturday night in October .,wait-time,hotel
-comment_2_16,amazing stay <SEP> positive,Had an amazing stay here last week !,wait-time,hotel
-comment_2_17,appreciated town car service <SEP> positive,Appreciated the town car service .,wait-time,hotel
-comment_2_18,arranged trip <SEP> positive,We also like the way the trip was arranged and even refreshments were provided .,wait-time,hotel
-comment_2_19,awesome limo pick up and drop off <SEP> positive,Limo pick up and drop off was awesome too .,wait-time,hotel
-comment_2_20,awesome stay <SEP> positive,Had an awesome stay .,wait-time,hotel
-comment_2_21,awesome stops <SEP> positive,:) All stops were awesome ! !,wait-time,hotel
-comment_2_22,below average service throughout <SEP> negative,Below average service throughout .  ,wait-time,hotel
-comment_2_23,best stay <SEP> positive,Secluded and quiet made for the best stay we have ever ha while traveling .  ,wait-time,hotel
-comment_2_24,best time <SEP> positive,We had the best time !,wait-time,restaurant
-comment_2_25,best trail <SEP> positive,The trail was the best I have been on .  ,wait-time,hotel
-comment_2_26,best visit <SEP> positive,OK ... best visit yet !,wait-time,hotel
-comment_2_27,best wifi <SEP> positive,I 'm giving it 4 star because they have the best WiFi I 've ever used anywhere .  ,wait-time,hotel
-comment_2_28,better detour <SEP> positive,Detour was better than any of these yelp reviews could rate !,wait-time,hotel
-comment_2_29,bonus happy hour <SEP> positive,Happy hour was also a bonus .,wait-time,hotel
-comment_2_30,busy restaurant <SEP> negative,"I 'm not one to normally complain , and I understand that the restaurant was busy , but after being told we only had half an hour left",wait-time,restaurant
-comment_2_31,busy service bar <SEP> negative,Big parties seem to keep service bar busy ( like tonight ) .  ,wait-time,restaurant
-comment_2_32,centrally shopping <SEP> positive,"Centrally located in downtown Pittsburgh , there are lots of shopping and places to eat .  ",wait-time,hotel
-comment_2_33,cheap uber <SEP> positive,We also loved that we could walk or take a cheap Uber to restaurants and shops all around .,wait-time,hotel
-comment_2_34,clean bus <SEP> positive,The bus was clean and everyone fit comfortably .,wait-time,hotel
-comment_2_35,comfortable flight <SEP> positive,"He made sure our flight was comfortable , informative , & of course , magical !",wait-time,hotel
-comment_2_36,comfortable stay <SEP> positive,Other than those 2 things are stay was comfortable for what we needed .,wait-time,hotel
-comment_2_37,convenient downtown <SEP> positive,I prefer the Mt. Lebo location but downtown is convenient and beautiful as well .,wait-time,restaurant
-comment_2_38,conveniently available transportation <SEP> positive,The hotel is down the road from the airport and is equidistant to Phoenix and Tempe with public transportation conveniently available .,wait-time,hotel
-comment_2_39,crap wifi <SEP> negative,WiFi is crap .,wait-time,hotel
-comment_2_40,crazy busy restaurant <SEP> negative,The restaurant was crazy busy even on a weekday .,wait-time,restaurant
-comment_2_41,crazy wait lines <SEP> positive,It 's really good if you do n't want to spend crazy money on entry fees and wait lines !,wait-time,hotel
-comment_2_42,crazy wifi <SEP> negative,Charming for WiFi is crazy then having it not work most of my visit,wait-time,hotel
-comment_2_43,decent for business trip <SEP> positive,Decent for business trip .,wait-time,hotel
-comment_2_44,decent waiting time <SEP> positive,Waiting time is decent .,wait-time,restaurant
-comment_2_45,definite must visit charcoal room <SEP> positive,The Charcoal Room is a definite must visit on your bucket list .,wait-time,hotel
-comment_2_46,did shower <SEP> negative,The shower did n't work .  ,wait-time,hotel
-comment_2_47,difficult to sit <SEP> negative,Tables have four legs and it 's a bit difficult to sit if you 're a bigger guy .,wait-time,hotel
-comment_2_48,disaster trip <SEP> negative,"All in all our trip was a disaster , wo n't be returning .",wait-time,hotel
-comment_2_49,down elevators <SEP> negative,The hotel is still under construction and the elevators were down a couple of times during our stay .,wait-time,hotel
-comment_2_50,early check <SEP> positive,Able to get an early check - in and had the lovely Savannah check us in .,wait-time,hotel
-comment_2_51,easy airport <SEP> positive,Easy airport to get around .  ,wait-time,hotel
-comment_2_52,easy check in <SEP> positive,Easy check in .,wait-time,hotel
-comment_2_53,easy to find hotel <SEP> positive,Plus the hotel is easy to find and there 's parking right across the street for about $ 15/day .,wait-time,restaurant
-comment_2_54,easy transit <SEP> positive,"easy public transit to other areas of the city ( south side , Oakland ) .",wait-time,hotel
-comment_2_55,easy valet <SEP> positive,Easy valet right outside and fun to walk around Epicenter after .,wait-time,restaurant
-comment_2_56,enjoy stay <SEP> positive,Enjoy the stay .,wait-time,hotel
-comment_2_57,enjoyable easy stay <SEP> positive,They have everything you could possibly need for a enjoyable easy stay .,wait-time,hotel
-comment_2_58,enjoyable stay <SEP> positive,they do what it takes and at times go beyond to make every part of your stay enjoyable .  ,wait-time,hotel
-comment_2_59,enjoyed 2 night <SEP> positive,Enjoyed the 2 night stay at the resort .,wait-time,hotel
-comment_2_60,enjoyed stay <SEP> positive,We really enjoyed our stay here .,wait-time,hotel
-comment_2_61,enjoyed train park <SEP> positive,We enjoyed the train park across the street and then hung out in the pool .  ,wait-time,hotel
-comment_2_62,enjoying stay <SEP> positive,Enjoying my stay so far .  ,wait-time,hotel
-comment_2_63,enjoys stay <SEP> positive,and she always enjoys her stay .,wait-time,hotel
-comment_2_64,every half hour tours <SEP> positive,Tours are every half hour and very informational .  ,wait-time,hotel
-comment_2_65,excellent stay <SEP> positive,Had an excellent stay .  ,wait-time,hotel
-comment_2_66,excellent wait staff <SEP> positive,Wait staff excellent .,wait-time,restaurant
-comment_2_67,exceptional stay <SEP> positive,"I rarely write reviews , but our stay was exceptional .",wait-time,hotel
-comment_2_68,expensive stay <SEP> negative,"But it is also expensive to stay here , but they have everything ,",wait-time,hotel
-comment_2_69,faaaaantastic bus <SEP> positive,"We had a double decker bus , which was faaaaantastic and all of the girls enjoyed dancing on the poles on the inside .    ",wait-time,hotel
-comment_2_70,fabulous stay <SEP> positive,All around fabulous 5 day stay and hope to be back soon !,wait-time,hotel
-comment_2_71,fantastic stay <SEP> positive,This is are second trip here and both times our stay was fantastic .,wait-time,hotel
-comment_2_72,fast and efficient service <SEP> positive,The service is fast and efficient and they bring you orange slices at the end .,wait-time,restaurant
-comment_2_73,fast and friendly service <SEP> positive,Staff and service is fast and friendly .,wait-time,restaurant
-comment_2_74,fast and good room service <SEP> positive,Room service is fast and good .,wait-time,hotel
-comment_2_75,fast check out <SEP> positive,Check in and check out was fast .,wait-time,hotel
-comment_2_76,fast connection <SEP> positive,Fast connection .,wait-time,hotel
-comment_2_77,fast friendly good service <SEP> positive,Fast friendly good service .  ,wait-time,restaurant
-comment_2_78,fast lake bed <SEP> positive,The trails and lake bed were both fast and technical .,wait-time,hotel
-comment_2_79,fast line <SEP> positive,It was packed around 6 pm but the line moved fast .,wait-time,restaurant
-comment_2_80,fast service <SEP> positive,The service was fast we did not feel rushed .  ,wait-time,restaurant
-comment_2_81,fast wait time <SEP> positive,"We were having so much fun , the wait time went by fast .  ",wait-time,hotel
-comment_2_82,faster airports <SEP> positive,one of the faster airports that I have experienced .,wait-time,hotel
-comment_2_83,fastest checkpoints <SEP> positive,"The TSA checkpoints are among the fastest I 've experienced , and there 's plenty of space throughout .",wait-time,hotel
-comment_2_84,favorite stop <SEP> positive,a new favorite stop,wait-time,restaurant
-comment_2_85,fine stop <SEP> positive,Not cheap but fine stop .  ,wait-time,restaurant
-comment_2_86,fine visit <SEP> positive,All in all the visit was fine but not sure it was worth the money with so many other choices .,wait-time,restaurant
-comment_2_87,first rate service <SEP> positive,Service was first rate .,wait-time,restaurant
-comment_2_88,fixed internet connection <SEP> negative,Ca n't tell if internet connection can be fixed within the hour or not .  ,wait-time,hotel
-comment_2_89,free airport shuttle <SEP> positive,Free airport shuttle saves a few bucks .  ,wait-time,hotel
-comment_2_90,free shuttle <SEP> positive,They even have a free shuttle that   will take you where you need to go .,wait-time,hotel
-comment_2_91,free shuttle service <SEP> positive,"The free shuttle service , however , was a huge plus !",wait-time,hotel
-comment_2_92,free shuttles <SEP> positive,"The hotel is located one block from the strip , right behind the venetian , and it provides free shuttles to the stop and downtown Las Vegas .",wait-time,hotel
-comment_2_93,free trolley <SEP> positive,The free trolley offered by the hotel is also a great perk - no paying for cabs !,wait-time,hotel
-comment_2_94,free valet parking <SEP> positive,The valet parking is free and you can walk straight in through the lobby to Burgers and Brews .,wait-time,restaurant
-comment_2_94,free valet parking <SEP> positive,The free valet parking was an awesome touch .,wait-time,hotel
-comment_2_95,free valet service <SEP> positive,Free valet service was a nice perk .  ,wait-time,hotel
-comment_2_96,free wifi <SEP> positive,Be sure to join Kimpton 's reward program for free wifi and a complimentary something from the minibar .,wait-time,hotel
-comment_2_97,friendly and quick service <SEP> positive,Service friendly and quick .  ,wait-time,restaurant
-comment_2_98,friendly fast service <SEP> positive,and we 'll definitely come back just to see John and have friendly fast service,wait-time,hotel
-comment_2_99,frustrating stay <SEP> negative,We stay in La Quintas all across the US and this stay was frustrating to say the least .,wait-time,hotel
-comment_2_100,full kitchen <SEP> positive,"We booked the suite with two bedroom , a full living room / kitchen .",wait-time,hotel
-comment_2_101,genuinely nice wait staff <SEP> positive,Wait staff were genuinely nice and in character .,wait-time,hotel
-comment_2_102,good deal happy hour <SEP> positive,"Happy hour is a good deal , $ 5 burgers and $ 3 fries every day from 4 : 30 to 7 .  ",wait-time,restaurant
-comment_2_103,good job <SEP> positive,Good job Polo Towers .,wait-time,hotel
-comment_2_104,good stay <SEP> positive,The beds alone make it a good stay .,wait-time,hotel
-comment_2_105,good time <SEP> positive,We had such a good time .  ,wait-time,restaurant
-comment_2_105,good time <SEP> positive,My first time staying on the strip it was a good time .,wait-time,hotel
-comment_2_106,good travel <SEP> positive,Travel from the hotel to the airport was good .,wait-time,hotel
-comment_2_107,great job <SEP> positive,Great job .,wait-time,restaurant
-comment_2_108,great stay <SEP> positive,other than that it was a great stay,wait-time,hotel
-comment_2_109,great stop <SEP> positive,Great little stop on Roosevelt Row .,wait-time,restaurant
-comment_2_110,great tour gal <SEP> positive,Meghan was great as the head tour gal .,wait-time,hotel
-comment_2_111,great wait <SEP> positive,"All the wait staff from the hostess , bartender to the server theu were all great they were courteous and not afraid to talk .",wait-time,restaurant
-comment_2_112,great walking <SEP> positive,Great walking .,wait-time,hotel
-comment_2_113,happy stay <SEP> positive,but otherwise I was happy with my stay .,wait-time,hotel
-comment_2_114,happy wait staff <SEP> positive,The wait staff was happy and genuine about serving our group .,wait-time,restaurant
-comment_2_115,hard work <SEP> negative,The only good part of the meal was the bartenders friendliness and hard work .,wait-time,hotel
-comment_2_116,hardly slept <SEP> negative,We hardly slept at all because of the room conditions .  ,wait-time,hotel
-comment_2_117,hated wait person <SEP> negative,The wait person obviously hated her job and the bus boy was more helpful .  ,wait-time,hotel
-comment_2_118,included service charges <SEP> positive,"Service charges are included with everything including your car service , so no need to tip !",wait-time,hotel
-comment_2_119,incredible stay <SEP> positive,"I came here on business a long time ago , but my stay here was incredible .  ",wait-time,hotel
-comment_2_120,late ride <SEP> negative,Ride was late & driver would not release my luggage until I paid $ 125 .  ,wait-time,hotel
-comment_2_121,lengthy wait <SEP> positive,Although after one lengthy period the wait was redeemed by the best execution of the entire evening .,wait-time,restaurant
-comment_2_122,little busy wait <SEP> positive,Very friendly and the wait was n't long at all even though it was a little busy .,wait-time,restaurant
-comment_2_123,long conference room <SEP> negative,Our conference room was as long as a football field but only about 20 feet wide .,wait-time,hotel
-comment_2_124,long lines <SEP> negative,Long lines all the time at the front desk in person and never seemed to be enough people to handle the business .,wait-time,hotel
-comment_2_125,long wait <SEP> negative,"A bit of a long wait to order , but otherwise pretty good .",wait-time,restaurant
-comment_2_126,long wait for <SEP> negative,"Loud , busy , long wait for tables .",wait-time,restaurant
-comment_2_127,long waits <SEP> negative,and we had long waits for anything .,wait-time,hotel
-comment_2_128,love airport shuttle <SEP> positive,"And , I love the airport shuttle .  ",wait-time,hotel
-comment_2_129,love bi <SEP> positive,Love bi bim bap on the hot stove bowl .   ,wait-time,restaurant
-comment_2_130,lovely stay <SEP> positive,"Lovely stay all around , I 'm looking forward to my next work trip !",wait-time,hotel
-comment_2_131,lovely weekend stay <SEP> positive,Had a lovely weekend stay at this place .,wait-time,hotel
-comment_2_132,mess peak hours <SEP> negative,Valet during peak hours is a mess .,wait-time,hotel
-comment_2_133,missed times <SEP> negative,"I 've had some great times with groups here , but tonight you missed he mark .",wait-time,restaurant
-comment_2_134,much fun walking around <SEP> positive,So much fun walking around .,wait-time,hotel
-comment_2_135,must happy hours <SEP> positive,One of the best happy hours in town mixed with Monday night football is a must .  ,wait-time,restaurant
-comment_2_136,must have restaurant <SEP> positive,This is a must have restaurant !,wait-time,restaurant
-comment_2_137,must stay <SEP> positive,It is a must stay if you are looking for a hotel in Phoenix area .,wait-time,hotel
-comment_2_138,must stop <SEP> positive,a must stop for myself .,wait-time,restaurant
-comment_2_139,must try duck wings <SEP> positive,The duck wings are a must try !   ,wait-time,restaurant
-comment_2_140,never staying <SEP> negative,I 'm never staying here again !,wait-time,hotel
-comment_2_141,never worked wi fi <SEP> negative,However the free wi fi never worked .,wait-time,hotel
-comment_2_142,nice bus <SEP> positive,"The bus was nice , clean and comfortable .",wait-time,hotel
-comment_2_143,nice pull thru site <SEP> positive,Had a nice pull thru site !,wait-time,hotel
-comment_2_144,nice stay <SEP> positive,Other than that it was a nice stay .,wait-time,hotel
-comment_2_145,nice wait staff <SEP> positive,The wait staff is so friendly and nice and on top of their game !  ,wait-time,restaurant
-comment_2_146,no phones <SEP> negative,There are no phones in the rooms .  ,wait-time,hotel
-comment_2_147,no reliable wifi <SEP> negative,No reliable wifi .,wait-time,hotel
-comment_2_148,non - stop service <SEP> positive,If one is wanting to relax and be pampered with non - stop service - this is the place .,wait-time,hotel
-comment_2_149,not a bad walk <SEP> positive,not a bad walk but the sidewalk needs work from the city .,wait-time,hotel
-comment_2_150,not a very long wait <SEP> positive,Not a very long wait on a Saturday night either .  ,wait-time,restaurant
-comment_2_151,not an enjoyable stay <SEP> positive,Not an enjoyable stay for a family with small children .,wait-time,hotel
-comment_2_152,not beat game weekends <SEP> negative,"Go somewhere else if you want to get a bargain on game weekends , but if you want to pay the price , you can not beat the location for game day .",wait-time,hotel
-comment_2_153,not busy restaurant <SEP> negative,We had an early reservation and was seated almost right away as the restaurant was not busy .,wait-time,restaurant
-comment_2_154,not that busy serving <SEP> positive,He seem preoccupied with serving me and it was not that busy .,wait-time,hotel
-comment_2_155,not to be missed wine hour <SEP> positive,Wine hour from 5 - 6 is not to be missed .,wait-time,hotel
-comment_2_156,off chef <SEP> negative,Waiter said the chef was having an off night .,wait-time,restaurant
-comment_2_157,ok terminal <SEP> positive,An ok terminal with some amenities .,wait-time,hotel
-comment_2_158,opened storefront <SEP> positive,I liked that the storefront was opened to allow a breeze to flow into the restaurant .,wait-time,restaurant
-comment_2_159,paced service <SEP> positive,The service is paced and never rushed .,wait-time,hotel
-comment_2_160,perfect distance <SEP> positive,Perfect distance from the strip and,wait-time,hotel
-comment_2_161,perfect stay <SEP> positive,The Omni has thought of absolutely everything to make your stay perfect .,wait-time,hotel
-comment_2_162,pleasant stay <SEP> positive,"Overall , we had a pleasant stay which made our trip as a whole even better .",wait-time,hotel
-comment_2_163,pleased stay <SEP> positive,"Overall , we were very pleased with our stay , and we will definitely be back in the future .",wait-time,hotel
-comment_2_164,pleasurable stay <SEP> positive,Every single person that we came in contact with that worked there was happy to go out of there way and do anything to make your stay more pleasurable .,wait-time,hotel
-comment_2_165,plenty of wait staff <SEP> negative,Plenty of wait staff not being attentive to customers .  ,wait-time,hotel
-comment_2_166,pool side service <SEP> positive,Pool side service .,wait-time,hotel
-comment_2_167,positive wait/ bar staff <SEP> positive,The wait/ bar staff are positive & knowledgable .,wait-time,restaurant
-comment_2_168,pretty good stay <SEP> positive,My stay here was pretty good .,wait-time,hotel
-comment_2_169,prompt shuttle service <SEP> positive,There is also a shuttle service which is prompt and helpful to go out around the area .,wait-time,hotel
-comment_2_170,quick and easy pick <SEP> positive,The drop off and pick ups are so quick and easy as well as the ticket counters and check in .,wait-time,hotel
-comment_2_171,quick and friendly service <SEP> positive,It was busy but it was in order and service was quick and friendly .,wait-time,restaurant
-comment_2_172,quick and service <SEP> positive,Service was quick and attentive .  ,wait-time,restaurant
-comment_2_173,quick attention <SEP> positive,"It was pleasant , plenty spacious with quick attention by the bartender .",wait-time,restaurant
-comment_2_174,quick checking in <SEP> positive,Checking in and out was quick .,wait-time,hotel
-comment_2_175,quick everything <SEP> positive,So everything was quick .,wait-time,restaurant
-comment_2_176,quick service <SEP> positive,Both food and service was quick .,wait-time,restaurant
-comment_2_176,quick service <SEP> positive,quick service ..,wait-time,hotel
-comment_2_177,quick uber ride <SEP> positive,Quick uber ride across the river and was so worth it !,wait-time,restaurant
-comment_2_178,quite slow service <SEP> negative,The service however was quite slow for one server during lunch hour .,wait-time,restaurant
-comment_2_179,rarely came over wait staff <SEP> negative,Wait staff rarely came over .,wait-time,restaurant
-comment_2_180,ready before noon rooms <SEP> positive,One of the rooms was even ready before noon on check in day so we were lucky .  ,wait-time,hotel
-comment_2_181,really good stay at <SEP> positive,"However , after staying I realized that a lot of the reviewers are probably exceptionally picky because I had a really good stay at this hotel especially for the price .",wait-time,hotel
-comment_2_182,really nice stay <SEP> positive,I had a really nice stay at P. H.,wait-time,hotel
-comment_2_183,really shuttle <SEP> positive,"We did n't get a chance to use the free shuttle , just off timing for us -- however the monorail has   a stop a 5 minute walk away which was really convenient .",wait-time,hotel
-comment_2_184,really spot on service <SEP> positive,I thought the service was really spot on .,wait-time,restaurant
-comment_2_185,reasonably fast wireless internet access <SEP> positive,Wireless internet access was reasonably fast .  ,wait-time,hotel
-comment_2_186,right path buffet <SEP> positive,This buffet is definitely on the right path and doing something good .,wait-time,hotel
-comment_2_187,right time between courses <SEP> positive,the perfect size and the time between courses was just right .  ,wait-time,restaurant
-comment_2_188,ruined stay <SEP> negative,Ruined my stay .,wait-time,hotel
-comment_2_189,run down hallways <SEP> negative,Elevators and hallways are run down .  ,wait-time,hotel
-comment_2_190,satisfied stay <SEP> positive,I can not express how satisfied we were with the stay and will definitely be back !,wait-time,hotel
-comment_2_191,short indoor ride <SEP> positive,The indoor ride was short but certainly fun .,wait-time,hotel
-comment_2_192,shortcomings service <SEP> negative,"As other reviewers have mentioned tho , cleanliness and service are shortcomings .",wait-time,restaurant
-comment_2_193,slow / dead deal <SEP> positive,It is a good deal to get in to the clubs but the clubs they take you to are the slow / dead clubs .,wait-time,hotel
-comment_2_194,slow and bad service <SEP> negative,The service was slow and bad and the food was just ok .  ,wait-time,hotel
-comment_2_195,slow draining sinks in <SEP> negative,Slow draining sinks in the bathroom .  ,wait-time,hotel
-comment_2_196,slow elevators <SEP> negative,Slow elevators but not deathly slow .  ,wait-time,hotel
-comment_2_197,slow food <SEP> negative,Food is slow .,wait-time,restaurant
-comment_2_198,slow internet <SEP> negative,And the internet is so slow,wait-time,hotel
-comment_2_199,slow kitchen <SEP> negative,Kitchen is slow .,wait-time,hotel
-comment_2_200,slow service <SEP> negative,Service was so slow and basically no one there .,wait-time,restaurant
-comment_2_200,slow service <SEP> negative,The service was slow .,wait-time,hotel
-comment_2_201,slow waited over hot tub <SEP> negative,24/7 pool and hot tub    Cons :    Checkin slow waited over 10 minutes before someone even said hello .,wait-time,hotel
-comment_2_202,slow waitress <SEP> negative,"The waitress was slow , she did not write down my order and got it all wrong .",wait-time,hotel
-comment_2_203,smooth and easy check in <SEP> positive,Check in was smooth and easy !,wait-time,hotel
-comment_2_204,smooth ride <SEP> positive,Our pilot Robert gave us directions before going on the tour and our ride was smooth .,wait-time,hotel
-comment_2_205,smoothly checkin <SEP> positive,"After a long day of traveling , checkin went smoothly and quickly .",wait-time,hotel
-comment_2_206,so good stay <SEP> positive,I always stay here on business trips and so far so good .  ,wait-time,hotel
-comment_2_207,so nice wait staff <SEP> positive,Wait staff was so nice .,wait-time,restaurant
-comment_2_208,solid labor day weekend tour <SEP> positive,Labor Day weekend tour with this group was solid .,wait-time,hotel
-comment_2_209,spot - on service <SEP> positive,Service was spot - on ... friendly without being overbearing .,wait-time,restaurant
-comment_2_210,spot on and service <SEP> positive,Service was spot on and accurate .,wait-time,restaurant
-comment_2_211,spot on service <SEP> positive,Service was spot on .,wait-time,restaurant
-comment_2_212,spotty wifi <SEP> negative,WiFi iffy and spotty .,wait-time,hotel
-comment_2_213,"staff not , wait <SEP> negative","In Summary   -Horrible service , wait staff not knowledgable regarding menu",wait-time,restaurant
-comment_2_214,strong wifi <SEP> positive,The wifi from the room we were in was strong and easy to access .,wait-time,hotel
-comment_2_215,super class service <SEP> positive,Super class service .,wait-time,hotel
-comment_2_216,super fast service <SEP> positive,Super super fast service !,wait-time,restaurant
-comment_2_217,super quick service <SEP> positive,Service was super quick .   ,wait-time,hotel
-comment_2_218,surprising stay <SEP> positive,"Thank you Oasis for a fun , retro , surprising stay !",wait-time,hotel
-comment_2_219,suuuper cool waiter <SEP> positive,Our waiter was suuuper cool and attentive .,wait-time,restaurant
-comment_2_220,thirty to forty minute wait lines <SEP> negative,The lines were a thirty to forty minute wait for one tasting .  ,wait-time,hotel
-comment_2_221,too early pool <SEP> negative,The pool closes too early ...,wait-time,hotel
-comment_2_222,too much waiting overall <SEP> negative,Too much waiting overall even on a Thursday night .,wait-time,restaurant
-comment_2_223,top notch service <SEP> positive,"On this visit , the service was top notch !",wait-time,restaurant
-comment_2_224,truly great stay <SEP> positive,A truly great stay with a great couples massage in the morning .,wait-time,hotel
-comment_2_225,uncomfortable stay <SEP> negative,The AC would n't work and we were uncomfortable the whole stay .,wait-time,hotel
-comment_2_226,unnecessary walking <SEP> negative,There was a lot of unnecessary walking at the beginning .  ,wait-time,hotel
-comment_2_227,up front kitchen <SEP> positive,The kitchen is up front and if you are picky about who 's cooking your food then this is the spot .  ,wait-time,restaurant
-comment_2_228,up to par hotel <SEP> positive,This hotel is up to par .,wait-time,hotel
-comment_2_229,usual valet parking($38 for <SEP> positive,then the usual valet parking($38 for 2 nights ) .   ,wait-time,hotel
-comment_2_230,ver convenient shuttle <SEP> positive,Shuttle was ver convenient to get around downtown .,wait-time,hotel
-comment_2_231,very a great surprise rail <SEP> positive,The rail was very a great surprise !,wait-time,restaurant
-comment_2_232,very comfortable stay <SEP> positive,They made it a very comfortable stay away from home .,wait-time,hotel
-comment_2_233,very convenient tram <SEP> positive,The tram to Bellagio was very convenient to get center strip quickly .  ,wait-time,hotel
-comment_2_234,very disappointing stay <SEP> negative,Entire stay was very disappointing never see any supervisor or manager around to check with the guests .,wait-time,hotel
-comment_2_235,very easy check in <SEP> positive,Check in is very easy and Cici was pleasant and nice .  ,wait-time,hotel
-comment_2_236,very fast check <SEP> positive,Very fast check - in and check - out .  ,wait-time,hotel
-comment_2_237,very fast check in <SEP> positive,Check in was very fast .,wait-time,hotel
-comment_2_238,very fast service <SEP> positive,Very fast service too,wait-time,hotel
-comment_2_239,very fast wifi <SEP> positive,Wifi was very fast ~ 20MBps .,wait-time,hotel
-comment_2_240,very good and fast service <SEP> positive,"The service was very good and fast , one lady in particular was very enthusiastic and friendly .",wait-time,restaurant
-comment_2_241,very good time <SEP> positive,Do n't miss out on a great deal on a very good time in LV .,wait-time,hotel
-comment_2_242,very happy stay <SEP> positive,and i must say i was very happy with my stay ....,wait-time,hotel
-comment_2_243,very happy staying <SEP> positive,"Very happy staying here , it is worth the money .",wait-time,hotel
-comment_2_244,very long time food <SEP> negative,Food took a very long time ..,wait-time,restaurant
-comment_2_245,very nice and professional wait person <SEP> positive,Wait person was very nice and professional .  ,wait-time,hotel
-comment_2_246,very nice stay <SEP> positive,"Overall , it was a very nice stay .",wait-time,hotel
-comment_2_247,very nice wait staff <SEP> positive,But the wait staff was very nice .,wait-time,restaurant
-comment_2_248,very pleasant 5 day stay <SEP> positive,My 5 day stay was very pleasant .,wait-time,hotel
-comment_2_249,very pleasant stay <SEP> positive,We had a very pleasant stay and will definitely book with them again .,wait-time,hotel
-comment_2_250,very quick and fun experience <SEP> positive,That was a very quick and fun experience .  ,wait-time,restaurant
-comment_2_251,very quick service <SEP> positive,"I did n't deal with any hotel staff other than the front desk and valet , but service at both was very quick .",wait-time,hotel
-comment_2_252,very reasonable happy hour <SEP> positive,"The happy hour at JD 's Sports Pub is very reasonable , with most drinks available for $ 5 off the normal price .  ",wait-time,hotel
-comment_2_253,very satisfied stay <SEP> positive,"Nevertheless , we are very satisfied with our stay .",wait-time,hotel
-comment_2_254,very slow service <SEP> negative,Service is very slow .,wait-time,restaurant
-comment_2_255,very slow shower drain <SEP> negative,The shower drain was very slow so you were standing in water .,wait-time,hotel
-comment_2_256,very useful shuttle <SEP> positive,The shuttle from the hotel to the strip was also very useful and we used it multiple times .,wait-time,hotel
-comment_2_257,very very long line <SEP> negative,I went to the sports book to place by bets and the line was very very long .,wait-time,hotel
-comment_2_258,walking distance from hotel <SEP> positive,"Hotel is walking distance from the Market Square , Console Energy Centre and PNC Stadium .",wait-time,hotel
-comment_2_259,walking distance hotel <SEP> positive,The hotel is located walking distance from Union Station and top restaurants .,wait-time,hotel
-comment_2_260,well worth wait <SEP> positive,But it 's well worth the wait .,wait-time,restaurant
-comment_2_261,within close walking distance hotel <SEP> positive,The hotel is also within close walking distance to Tempe 's lakefront .   ,wait-time,hotel
-comment_2_262,wonderful stayed <SEP> positive,"Stayed a week , and it was wonderful !",wait-time,hotel
-comment_2_263,worst spend 50 <SEP> negative,51$. Worst spend 50 dollars of my life .,wait-time,restaurant
-comment_2_264,worth visit <SEP> positive,Definitely worth a visit .,wait-time,restaurant
-comment_2_265,worth wait <SEP> positive,So worth the wait ! !,wait-time,restaurant
-comment_2_266,zero wait time <SEP> positive,I made reservations for 5 : 15 and got there at 5 with zero wait time ... perfect !,wait-time,restaurant
+comment_0_0,18 holes course <SEP> negative,"The course itself is 18 holes , some a little more challenging making it more competitive .   ",drink -> alcohol,Arts & Entertainment
+comment_0_1,always a blast mini golf <SEP> positive,Mini golf is always a blast but having it glow in the dark makes it that much more fun .,drink -> alcohol,Arts & Entertainment
+comment_0_2,always good beer <SEP> positive,OB beer always good !  ,drink -> alcohol,Restaurants
+comment_0_3,amazing shrimp cocktail <SEP> positive,The Shrimp cocktail is amazing !  ,drink -> alcohol,Restaurants
+comment_0_4,among the best spring rolls <SEP> positive,"Their spring rolls are among the best I 've ever had , though a little on the greasy side .",drink -> alcohol,Restaurants
+comment_0_5,astoundingly good local blueberry honey ale <SEP> positive,I also had a local blueberry honey ale that was astoundingly good .,drink -> alcohol,Restaurants
+comment_0_6,awesome seafood cocktail <SEP> positive,The seafood cocktail is awesome .,drink -> alcohol,Restaurants
+comment_0_7,awful vodka recommendation <SEP> negative,"Do n't take suggestions on cocktails , the vodka recommendation was awful .",drink -> alcohol,Restaurants
+comment_0_8,best double char <SEP> positive,Double Char is the best ! !,drink -> alcohol,Restaurants
+comment_0_9,best draft house <SEP> positive,"We have tried I think every place in the valley , and the Draft House was the best .... until finding this place .  ",drink -> alcohol,Restaurants
+comment_0_10,best margarita <SEP> positive,I got the pickled pear margarita and It was the best margarita I have ever had,drink -> alcohol,Restaurants
+comment_0_11,best margaritas <SEP> positive,Ani always makes the best margaritas !,drink -> alcohol,Restaurants
+comment_0_12,best root beer <SEP> positive,Best root beer in the valley .,drink -> alcohol,Restaurants
+comment_0_13,better cocktails <SEP> positive,Cocktails were much better than usual bars and very reasonably priced .,drink -> alcohol,Restaurants
+comment_0_14,better margaritas <SEP> positive,And their margaritas are way better than the ones at the Mexican restaurant that I 'm eating at now .,drink -> alcohol,Restaurants
+comment_0_15,broken atm <SEP> negative,ATM was broken .,drink -> alcohol,Arts & Entertainment
+comment_0_16,cheap gourds <SEP> positive,Some of the larger gourds are cheap .,drink -> alcohol,Arts & Entertainment
+comment_0_17,cold beer <SEP> negative,Cold beer .,drink -> alcohol,Restaurants
+comment_0_17,cold beer <SEP> negative,Cold beer .,drink -> alcohol,Arts & Entertainment
+comment_0_18,cold beers <SEP> negative,Cold beers .,drink -> alcohol,Arts & Entertainment
+comment_0_19,cold draft beer <SEP> positive,The draft beer was cold and fresh .,drink -> alcohol,Restaurants
+comment_0_20,cooler dollar beers <SEP> positive,Dollar beers were even cooler .,drink -> alcohol,Arts & Entertainment
+comment_0_21,cozy wine bar <SEP> positive,The wine bar is cozy .,drink -> alcohol,Restaurants
+comment_0_22,crazy cocktails <SEP> positive,"Super fun , crazy day of cocktails , sunshine and music .",drink -> alcohol,Arts & Entertainment
+comment_0_23,decent wine selection <SEP> positive,Decent wine selection .   ,drink -> alcohol,Restaurants
+comment_0_24,delicious apple cider <SEP> positive,Cash Only and bring your own bags / basket & The Apple Cider is delicious ! ! ! !,drink -> alcohol,Arts & Entertainment
+comment_0_25,delicious apple ciders <SEP> positive,Those apple cider donuts and apple ciders were delicious !,drink -> alcohol,Arts & Entertainment
+comment_0_26,delicious margaritas <SEP> positive,Margaritas are delicious as well ! ! !,drink -> alcohol,Restaurants
+comment_0_27,die for apple cider donuts <SEP> positive,"The apple cider donuts are to die for , I literally get the newsletter in my email",drink -> alcohol,Arts & Entertainment
+comment_0_28,discounted wine list selections <SEP> positive,From 5 - 7 pm daily wine list selections discounted 33 % and appetizers 50 % .,drink -> alcohol,Restaurants
+comment_0_29,diverse wine selection <SEP> positive,Wine selection was diverse and paired wonderfully with the meal .,drink -> alcohol,Restaurants
+comment_0_30,divey place <SEP> negative,This place is divey .,drink -> alcohol,Restaurants
+comment_0_31,enjoyed wines <SEP> positive,"Also , we enjoyed so many of the wines !  ",drink -> alcohol,Arts & Entertainment
+comment_0_32,enormous beer selection <SEP> positive,The beer selection was enormous and they had 20 draft handles .,drink -> alcohol,Restaurants
+comment_0_33,enough combo fajitas <SEP> positive,Combo fajitas were enough for my wife and I.  ,drink -> alcohol,Restaurants
+comment_0_34,excellent margaritas <SEP> positive,The Margaritas were excellent as well -- only $ 3 due to happy hour .,drink -> alcohol,Restaurants
+comment_0_35,expensive beers <SEP> negative,"We played Bingo , got tanked on expensive beers .",drink -> alcohol,Arts & Entertainment
+comment_0_36,extensive wine list <SEP> positive,Wine list was extensive .,drink -> alcohol,Restaurants
+comment_0_37,fancy soda machines <SEP> positive,They have those fancy soda machines .,drink -> alcohol,Restaurants
+comment_0_38,fantastic martinis <SEP> positive,martinis are fantastic ....,drink -> alcohol,Restaurants
+comment_0_39,favorite beer <SEP> positive,"PBR is like $ 2 , which is a great deal on my favorite beer .",drink -> alcohol,Arts & Entertainment
+comment_0_40,favorite blue grata martini <SEP> positive,The blue grata martini is my favorite .,drink -> alcohol,Restaurants
+comment_0_41,favorite ginger margarita <SEP> positive,My favorite is a ginger margarita .  ,drink -> alcohol,Restaurants
+comment_0_42,favorite pinot noir <SEP> negative,They no longer offered my favorite Pinot Noir by the glass .,drink -> alcohol,Restaurants
+comment_0_43,fine xiao long bao <SEP> positive,Xiao Long Bao is fine .,drink -> alcohol,Restaurants
+comment_0_44,formidable craft beer menu <SEP> positive,A formidable craft beer menu does n't hurt the cause either !,drink -> alcohol,Restaurants
+comment_0_45,free 18 hole cards <SEP> positive,We had 2 free 18 hole cards so it only cost me $ 9 .,drink -> alcohol,Arts & Entertainment
+comment_0_46,free golf game <SEP> positive,"So had a free golf game compliments of work , cause who needs a raise ?",drink -> alcohol,Arts & Entertainment
+comment_0_47,funnest alcoholic <SEP> positive,it 's definitely the funnest alcoholic thing on the menu !,drink -> alcohol,Restaurants
+comment_0_48,good beer <SEP> positive,Good Beer .,drink -> alcohol,Restaurants
+comment_0_49,good beer selection <SEP> positive,"Otherwise not bad , good beer selection",drink -> alcohol,Restaurants
+comment_0_50,good margaritas <SEP> positive,The margaritas are good both in size and taste .,drink -> alcohol,Restaurants
+comment_0_51,good selection of beers on tap <SEP> positive,Good selection of beers on tap .,drink -> alcohol,Restaurants
+comment_0_52,good selection of draft beers <SEP> positive,There was a good selection of draft beers and the menu had plenty of burger selections .,drink -> alcohol,Restaurants
+comment_0_53,good tater tots <SEP> positive,I had tater tots which were good but,drink -> alcohol,Restaurants
+comment_0_54,good vodka sauce <SEP> positive,I am a sucker for a good vodka sauce and theirs is amazing .,drink -> alcohol,Restaurants
+comment_0_55,good wine selection <SEP> positive,And the wine selection is good as well .   ,drink -> alcohol,Restaurants
+comment_0_56,great beer menu <SEP> positive,They have a great beer menu and do flights in case you do n't know which beer you want to try .  ,drink -> alcohol,Restaurants
+comment_0_57,great beer selection <SEP> negative,My only disappointment is the fact that since I 'm pregnant I have n't been able to try their great beer selection yet ! ! !,drink -> alcohol,Restaurants
+comment_0_58,great beer specials <SEP> positive,Great beer specials : $ 2 Edmund Fitzgerald and Sierra Nevada & 3 $ long islands on Friday .,drink -> alcohol,Restaurants
+comment_0_59,great craft cocktails <SEP> positive,"The bartenders make great craft cocktails , Craft Beers on tap like Big Wave , Elysian Space Dust IPA , Franziskaner Hefeweizen etc and THE FOOD ?",drink -> alcohol,Restaurants
+comment_0_60,great deal beer combo <SEP> positive,Soju and Beer combo is a great deal ! ! !  ,drink -> alcohol,Restaurants
+comment_0_61,great juggling <SEP> positive,"The dancing , gymnastics , comedy , juggling are great .",drink -> alcohol,Arts & Entertainment
+comment_0_62,great margarita pizza <SEP> positive,I got the margarita pizza which was great except I could use more basil .,drink -> alcohol,Restaurants
+comment_0_63,great margaritas <SEP> positive,"Margaritas were great , too .",drink -> alcohol,Restaurants
+comment_0_64,great selection of beer <SEP> positive,Great selection of beer including michelladas .,drink -> alcohol,Restaurants
+comment_0_65,great wine list <SEP> positive,"Wine list is great , and their sommelier can give their best recommendation .  ",drink -> alcohol,Restaurants
+comment_0_66,great wine selection <SEP> positive,"No drinks this time , but the wine selection is great .  ",drink -> alcohol,Restaurants
+comment_0_67,highest rated craft beer producers <SEP> positive,Try the Firestone Walker IPA : one of the highest rated craft beer producers in the country .,drink -> alcohol,Arts & Entertainment
+comment_0_68,horizontal tequila samplers <SEP> negative,I tried both the vertical and horizontal tequila samplers and neither were disappointing .,drink -> alcohol,Restaurants
+comment_0_69,ice cold beer <SEP> negative,Beer is ice cold .  ,drink -> alcohol,Restaurants
+comment_0_69,ice cold beer <SEP> negative,The beer is ice cold .,drink -> alcohol,Arts & Entertainment
+comment_0_70,killer summer <SEP> positive,The summer is a killer .,drink -> alcohol,Arts & Entertainment
+comment_0_71,little crazy nickel beer nights <SEP> negative,Nickel beer nights can get a little crazy,drink -> alcohol,Arts & Entertainment
+comment_0_72,loosest slots <SEP> negative,Loosest slots .,drink -> alcohol,Arts & Entertainment
+comment_0_73,loved beer selections <SEP> positive,There were so many beer selections and I loved all the local midwest brews !  ,drink -> alcohol,Arts & Entertainment
+comment_0_74,loved margarita <SEP> positive,I loved the Tamarind Margarita .,drink -> alcohol,Restaurants
+comment_0_75,loved tater tots <SEP> positive,Loved the tater tots .,drink -> alcohol,Restaurants
+comment_0_76,loved wine selection suggestions <SEP> positive,"Loved her wine selection suggestions , as well as dinner entree recommendations !",drink -> alcohol,Restaurants
+comment_0_77,low beer <SEP> negative,Every time my beer was getting low,drink -> alcohol,Restaurants
+comment_0_78,most awesome wine bar <SEP> positive,Through the back door and up the stairs is the most awesome wine bar .,drink -> alcohol,Restaurants
+comment_0_79,never close to empty cocktails <SEP> negative,"Buckets of beer , water and cocktails were never close to empty .",drink -> alcohol,Arts & Entertainment
+comment_0_80,nice local beer selection <SEP> positive,They had a nice local beer selection and provide chips and salsa which both tasted fresh .  ,drink -> alcohol,Restaurants
+comment_0_81,nice selection of beer <SEP> positive,They also had a nice selection of beer .,drink -> alcohol,Arts & Entertainment
+comment_0_82,nice wine list <SEP> positive,Nice wine list .,drink -> alcohol,Restaurants
+comment_0_83,nice wine selection <SEP> positive,"Nice wine selection , we had a Cabernet from Franciscan .",drink -> alcohol,Restaurants
+comment_0_84,numerous beer options <SEP> positive,there are numerous beer options and wine to choose from .,drink -> alcohol,Arts & Entertainment
+comment_0_85,out of this world delicious apple cider <SEP> positive,Their apple cider is out of this world delicious !,drink -> alcohol,Arts & Entertainment
+comment_0_86,outstanding silver work <SEP> positive,"Their collections of pottery , rugs and silver work are outstanding .",drink -> alcohol,Arts & Entertainment
+comment_0_87,overpriced beer <SEP> positive,The food and beer is overpriced but check out $ 2 beers before the first inning stand .,drink -> alcohol,Arts & Entertainment
+comment_0_88,overpriced cocktail <SEP> negative,"Beauty is loud , smoky , and a tab bit overpriced on the cocktail side of life .  ",drink -> alcohol,Arts & Entertainment
+comment_0_89,perfect martini <SEP> positive,And best of all my Martini was perfect .,drink -> alcohol,Restaurants
+comment_0_90,piss warm beers <SEP> negative,The beers are piss warm .  ,drink -> alcohol,Arts & Entertainment
+comment_0_91,poor beer selection <SEP> negative,"The beer selection is poor , consisting of your typical bud light draft with a San tan beer or four peaks thrown in .",drink -> alcohol,Restaurants
+comment_0_92,potent margaritas <SEP> positive,"Margaritas are light but , potent .",drink -> alcohol,Restaurants
+comment_0_93,pretty cool- wine bar <SEP> positive,The wine bar in the back is also pretty cool- a little cramped but definitely worth checking out .,drink -> alcohol,Restaurants
+comment_0_94,pretty expensive soda <SEP> negative,But again popcorn and soda is pretty expensive here .,drink -> alcohol,Arts & Entertainment
+comment_0_95,pretty good at mini golf <SEP> positive,Who knew that I was pretty good at mini golf ?,drink -> alcohol,Arts & Entertainment
+comment_0_96,pretty good wine list <SEP> positive,The other food and wine list are also pretty good .,drink -> alcohol,Restaurants
+comment_0_97,pretty hot bouncers <SEP> negative,and one of the bouncers was pretty hot .  ,drink -> alcohol,Arts & Entertainment
+comment_0_98,pricey beer <SEP> positive,The beer is just as pricey as any of those other places unless you want a Miller Lite ( no thanks ) .,drink -> alcohol,Arts & Entertainment
+comment_0_99,quaint little wine bar <SEP> positive,"If you do have to wait , there is a quaint little wine bar in the back ( also has liquor and some bottled beer ) .  ",drink -> alcohol,Restaurants
+comment_0_100,quaint wine bar <SEP> positive,While you 're waiting check out the quaint wine bar in the back .,drink -> alcohol,Restaurants
+comment_0_101,quite fun laser tag <SEP> positive,We did play laser tag which was quite fun .  ,drink -> alcohol,Arts & Entertainment
+comment_0_102,really good margarita <SEP> positive,Plus an excellent happy hour with a really good $ 3 margarita !,drink -> alcohol,Restaurants
+comment_0_103,really good yogurt soju cocktail <SEP> positive,We started with a yogurt soju cocktail and it tasted really good .,drink -> alcohol,Restaurants
+comment_0_104,really tasty michelada beer <SEP> positive,I had a really tasty Michelada beer as well .,drink -> alcohol,Restaurants
+comment_0_105,roadside mexican flare <SEP> positive,Roadside Mexican flare .,drink -> alcohol,Restaurants
+comment_0_106,rowdy beers <SEP> negative,"These are lifers , Bingo assassins with tricks and are oh so serious about everything that we about got kicked out for getting silly and rowdy with our beers .",drink -> alcohol,Arts & Entertainment
+comment_0_107,short on fruit wines <SEP> positive,The wines were short on fruit and a poor choice as the modest end of the menu .  ,drink -> alcohol,Restaurants
+comment_0_108,so cheesy tater tots <SEP> positive,The tater tots were so cheesy and full of flavor ; best tater tots EVER !,drink -> alcohol,Restaurants
+comment_0_109,solid gilbert regal <SEP> positive,But the Gilbert Regal is solid .,drink -> alcohol,Arts & Entertainment
+comment_0_110,stellar firebird <SEP> positive,Stravinsky 's Firebird was stellar !  ,drink -> alcohol,Arts & Entertainment
+comment_0_111,strong cocktails <SEP> positive,The cocktails were strong too :) A++ !,drink -> alcohol,Arts & Entertainment
+comment_0_112,strongest margaritas <SEP> positive,This restaurant has the strongest margaritas in town !,drink -> alcohol,Restaurants
+comment_0_113,super cold beer <SEP> negative,The beer was super cold ! !,drink -> alcohol,Restaurants
+comment_0_114,surprising range beer list <SEP> positive,"The beer list has surprising range and offers great selections such as Lagunitas IPA , Great White Hef , Odell 90 Shilling , and Dogfish Head IPA .       ",drink -> alcohol,Arts & Entertainment
+comment_0_115,tasty margaritas <SEP> positive,Tasty margaritas .  ,drink -> alcohol,Restaurants
+comment_0_116,unique beer selections <SEP> positive,In addition to a great wine list they also had some unique beer selections .,drink -> alcohol,Restaurants
+comment_0_117,very energizing tequila bar <SEP> positive,Very energizing tequila bar with the best street tacos .,drink -> alcohol,Restaurants
+comment_0_118,very good margaritas <SEP> positive,Margaritas were very good ( kinda pricey ) .  ,drink -> alcohol,Restaurants
+comment_0_119,very nice wine bar <SEP> positive,We ate in the wine bar behind the actual restaurant which was very nice and cozy .,drink -> alcohol,Restaurants
+comment_0_120,very refreshing mexican red beer ) beers <SEP> positive,Their michilada ( Mexican red beer ) beers are very refreshing !   ,drink -> alcohol,Restaurants
+comment_0_121,very strong wine list <SEP> positive,Wine list was very strong !,drink -> alcohol,Restaurants
+comment_0_122,watered down margarita on <SEP> negative,margarita on the rocks was watered down and no lime .,drink -> alcohol,Restaurants
+comment_0_123,well made margaritas <SEP> positive,The margaritas were well made .  ,drink -> alcohol,Restaurants
+comment_0_124,wide selection of beers <SEP> positive,They have a wide selection of beers ( always a plus ) and also have live music quite often .,drink -> alcohol,Arts & Entertainment
+comment_0_125,wonderful wine selection <SEP> positive,They have a wonderful wine selection to go with your meal .,drink -> alcohol,Restaurants
+comment_0_126,wonderful wines <SEP> positive,"Attentive , but not overly - so and really helpful in recommending some wonderful wines to pair with our food ( and within our budget parameters we conveyed ) .",drink -> alcohol,Restaurants
+comment_0_127,yum root beer float <SEP> positive,"Black cow ( root beer float with chocolate sauce- yum ! ) and a loaded rail burger with a fried egg and house made chips , he had some kind of burger with bacon and three kinds of onions plus onion rings .",drink -> alcohol,Restaurants
+comment_0_128,yummy martini <SEP> positive,We both had martini 's which were yummy too .,drink -> alcohol,Restaurants
+comment_1_0,a little awkward seats <SEP> negative,We had General Admission seating and the seats were a little awkward and see could n't see the whole stage,restaurant -> comfort,Arts & Entertainment
+comment_1_1,actual korean table seating <SEP> negative,They have actual korean table seating where you have to cross your legs on the elevated wooden floor .,restaurant -> comfort,Restaurants
+comment_1_2,alqays comfortable beds <SEP> positive,The beds are alqays comfortable .  ,restaurant -> comfort,Hotels
+comment_1_3,amazing front desk <SEP> positive,Marilyn at the front desk was amazing !,restaurant -> comfort,Hotels
+comment_1_4,amazingly comfy bed <SEP> positive,The bed is amazingly comfy and the staff ( Adrian & Carly ) are very helpful and friendly .  ,restaurant -> comfort,Hotels
+comment_1_5,ample seating <SEP> positive,"Staff is so friendly and , there is ample seating !",restaurant -> comfort,Restaurants
+comment_1_6,assigned seating <SEP> negative,"Also , the assigned seating has screwed me over more than once .",restaurant -> comfort,Arts & Entertainment
+comment_1_7,assigned seats <SEP> positive,You get to pick assigned seats when you purchase tickets .,restaurant -> comfort,Arts & Entertainment
+comment_1_8,awesome chairs <SEP> positive,The chairs are awesome and recline .,restaurant -> comfort,Arts & Entertainment
+comment_1_9,awesome recliner seats <SEP> positive,The recliner seats are awesome !,restaurant -> comfort,Arts & Entertainment
+comment_1_10,below street level seating bowl <SEP> negative,The seating bowl is below street level so you actually walk in at the mezzanine level which means you only have to go up one flight to the upper deck or down one to the lower level .,restaurant -> comfort,Arts & Entertainment
+comment_1_11,best seat in <SEP> positive,The wine bar is the best seat in the house .,restaurant -> comfort,Restaurants
+comment_1_12,better seats <SEP> positive,but I think the seats at amc esplanade in the Biltmore is better .,restaurant -> comfort,Arts & Entertainment
+comment_1_13,big chair <SEP> positive,The chair is so big I can fit my purse next to it .,restaurant -> comfort,Arts & Entertainment
+comment_1_14,big place <SEP> positive,It 's a big place with a stage .,restaurant -> comfort,Arts & Entertainment
+comment_1_15,big seats <SEP> positive,"Great , big seats that are reserved .",restaurant -> comfort,Arts & Entertainment
+comment_1_16,big tables <SEP> positive,"It 's quiet , clean and has big tables to spread out .  ",restaurant -> comfort,Restaurants
+comment_1_17,broken chair <SEP> negative,"It did not seem that new , seemed quite old on the contrary and the chair is my room was broken .",restaurant -> comfort,Hotels
+comment_1_18,centrally located rooms <SEP> positive,"I liked this M6 , it had the new updated rooms , it was centrally located ( just a short walk to the strip ) , and it was tidy .  ",restaurant -> comfort,Hotels
+comment_1_19,cheaper seats <SEP> negative,When I got my tickets they were the cheaper seats and I was lik e10 rows from the front .  ,restaurant -> comfort,Arts & Entertainment
+comment_1_20,clean and well - maintained standing area <SEP> positive,The stage / standing area was clean and well - maintained .,restaurant -> comfort,Arts & Entertainment
+comment_1_21,clean seats <SEP> positive,The seats are clean and comfy and everyone gets their own cup holder !    ,restaurant -> comfort,Arts & Entertainment
+comment_1_22,close seating <SEP> negative,The Comedian / Juggler did so many different tricks and the seating was close enough that you could see it all clearly .,restaurant -> comfort,Arts & Entertainment
+comment_1_23,close seats <SEP> negative,Seats are close to the field .,restaurant -> comfort,Arts & Entertainment
+comment_1_24,comfortable bed <SEP> positive,The bed was comfortable .,restaurant -> comfort,Hotels
+comment_1_25,comfortable beds <SEP> positive,"The beds are comfortable , though !   ",restaurant -> comfort,Hotels
+comment_1_26,comfortable booths <SEP> positive,Atmosphere is like a cafe with some comfortable booths .,restaurant -> comfort,Restaurants
+comment_1_27,comfortable center court yard <SEP> positive,Even the center court yard was comfortable and soothing to the mind and spirit .,restaurant -> comfort,Arts & Entertainment
+comment_1_28,comfortable chairs <SEP> positive,"And speaking of chairs , mine was comfortable a generous size .  ",restaurant -> comfort,Arts & Entertainment
+comment_1_29,comfortable lounger <SEP> positive,Every seat is a comfortable lounger ; lift the armrest to get comfortable with your spouse !,restaurant -> comfort,Arts & Entertainment
+comment_1_30,comfortable murphy bed <SEP> positive,The murphy bed was comfortable .,restaurant -> comfort,Hotels
+comment_1_31,comfortable recliner seats <SEP> positive,Recliner seats that are comfortable and lots of room .,restaurant -> comfort,Arts & Entertainment
+comment_1_32,comfortable reclining chair <SEP> positive,Oh what a pleasure it was today to relax in a comfortable reclining chair and enjoy a good movie .,restaurant -> comfort,Arts & Entertainment
+comment_1_33,comfortable room <SEP> positive,The room was comfortable .,restaurant -> comfort,Hotels
+comment_1_34,comfortable rooms <SEP> positive,The rooms are comfortable and clean ... there is a restaurant in the lobby that serves food to the wee hours of the morning .  ,restaurant -> comfort,Hotels
+comment_1_35,comfortable seat <SEP> positive,Seat are comfortable as always .,restaurant -> comfort,Arts & Entertainment
+comment_1_36,comfortable seating <SEP> positive,Seating was comfortable .,restaurant -> comfort,Arts & Entertainment
+comment_1_37,comfortable seating provided <SEP> positive,The seating provided is comfortable and clean .,restaurant -> comfort,Arts & Entertainment
+comment_1_38,comfortable seats <SEP> positive,Seats more comfortable .,restaurant -> comfort,Hotels
+comment_1_38,comfortable seats <SEP> positive,Comfortable seats .  ,restaurant -> comfort,Arts & Entertainment
+comment_1_39,comfy bed <SEP> positive,Bed is comfy .  ,restaurant -> comfort,Hotels
+comment_1_40,comfy beds <SEP> positive,Slept well in comfy beds .,restaurant -> comfort,Hotels
+comment_1_41,comfy chairs <SEP> positive,Nothing crazy special other than the comfy chairs .,restaurant -> comfort,Arts & Entertainment
+comment_1_42,comfy couch <SEP> positive,It was comfy for a pull out couch .,restaurant -> comfort,Hotels
+comment_1_43,comfy couches <SEP> positive,Plenty of comfy couches to sit,restaurant -> comfort,Hotels
+comment_1_44,comfy leather <SEP> positive,Comfy leather seats seal the deal .,restaurant -> comfort,Arts & Entertainment
+comment_1_45,comfy linens <SEP> positive,The beds and linens were comfy .  ,restaurant -> comfort,Hotels
+comment_1_46,comfy recliner chairs <SEP> positive,They have big comfy recliner chairs .,restaurant -> comfort,Arts & Entertainment
+comment_1_47,comfy reclining chairs <SEP> positive,so there are big spacious comfy reclining chairs .,restaurant -> comfort,Arts & Entertainment
+comment_1_48,comfy reclining seats <SEP> positive,For 14 $ you get comfy reclining seats and a great movie .,restaurant -> comfort,Arts & Entertainment
+comment_1_49,comfy room <SEP> positive,The room is comfy and decorated decently .,restaurant -> comfort,Hotels
+comment_1_50,comfy seating <SEP> positive,Comfy seating .,restaurant -> comfort,Restaurants
+comment_1_51,comfy seats <SEP> positive,The tables & seats are comfy !  ,restaurant -> comfort,Restaurants
+comment_1_52,comfy shoes <SEP> positive,Wear comfy shoes .,restaurant -> comfort,Arts & Entertainment
+comment_1_53,comfy stay <SEP> positive,I did n't have a chance to hit the gym or check out the business / office room but comfy stay ; especially after an all - nighter !,restaurant -> comfort,Hotels
+comment_1_54,convenient fridge <SEP> positive,Having a fridge also was convenient .,restaurant -> comfort,Hotels
+comment_1_55,covered outdoor seating area <SEP> positive,Covered outdoor seating area with TVs .,restaurant -> comfort,Restaurants
+comment_1_56,cozy beds <SEP> positive,The beds are cozy .,restaurant -> comfort,Hotels
+comment_1_57,crammed chairs <SEP> negative,It 's definitely better than other theaters with crammed chairs .  ,restaurant -> comfort,Arts & Entertainment
+comment_1_58,cramped spot <SEP> negative,"In Boston , its 35 - 40 $ to park in a cramped spot with your car blocked in , and still walk a ways .  ",restaurant -> comfort,Arts & Entertainment
+comment_1_59,cute bench <SEP> positive,and there 's a cute bench / charger at every other hole .,restaurant -> comfort,Arts & Entertainment
+comment_1_60,dated booths <SEP> negative,The tables always seem to need a wipe down and the booths are dated .,restaurant -> comfort,Restaurants
+comment_1_61,deserve seats <SEP> negative,You can also deserve seats ahead of time making movie night a lot easier .   ,restaurant -> comfort,Arts & Entertainment
+comment_1_62,different rooms <SEP> positive,The rooms were all different and had lots of interesting things about them .,restaurant -> comfort,Arts & Entertainment
+comment_1_63,different seating options <SEP> positive,Love the different seating options available while waiting for the movie .  ,restaurant -> comfort,Arts & Entertainment
+comment_1_64,dirty table <SEP> negative,The table we wanted to sit at ( no one else was in the restaurant ) was dirty .,restaurant -> comfort,Restaurants
+comment_1_65,dirty tables <SEP> negative,but all the tables were dirty .,restaurant -> comfort,Restaurants
+comment_1_66,disaster seating <SEP> negative,They have assigned seating which is a disaster .,restaurant -> comfort,Arts & Entertainment
+comment_1_67,dusty napkin holders <SEP> negative,The napkin holders were so dusty that I just could n't pass up not taking a picture and sharing it here .,restaurant -> comfort,Restaurants
+comment_1_68,dusty tables <SEP> negative,Dusty on all tables mirrors .,restaurant -> comfort,Hotels
+comment_1_69,empty hotel <SEP> negative,The hotel was pretty much empty when we came .,restaurant -> comfort,Hotels
+comment_1_70,empty tables <SEP> negative,We waited 30 minutes to be seated when there was numerous tables that were empty .,restaurant -> comfort,Hotels
+comment_1_70,empty tables <SEP> negative,Empty tables not cleaned up .,restaurant -> comfort,Restaurants
+comment_1_71,enjoyed lounge chairs <SEP> positive,"We did n't dance on the dance floor but I enjoyed just relaxing on the lounge chairs , sipping on drinks and having a good time : )",restaurant -> comfort,Hotels
+comment_1_72,extremely comfortable bed <SEP> positive,Extremely comfortable bed too .  ,restaurant -> comfort,Hotels
+comment_1_73,extremely comfortable beds <SEP> positive,The beds are extremely comfortable and lush .,restaurant -> comfort,Hotels
+comment_1_74,fairly clean restaurant <SEP> positive,Fairly clean restaurant .,restaurant -> comfort,Restaurants
+comment_1_75,fairly clean seat <SEP> positive,I 've never sat in a bad seat and it always seems to be fairly clean for a baseball stadium .  ,restaurant -> comfort,Arts & Entertainment
+comment_1_76,far seats <SEP> negative,The seats recline so far back you could sleep in them .,restaurant -> comfort,Arts & Entertainment
+comment_1_77,fine tables <SEP> positive,no food or tables which is fine if you 're going for the show .,restaurant -> comfort,Arts & Entertainment
+comment_1_78,fresh pillows <SEP> positive,I appreciate honesty and fresh new pillows .,restaurant -> comfort,Hotels
+comment_1_79,friendly and front desk <SEP> positive,Front desk were friendly and helpful .,restaurant -> comfort,Hotels
+comment_1_80,friendly front desk <SEP> positive,the front desk is friendly .,restaurant -> comfort,Hotels
+comment_1_81,full bar <SEP> positive,but they do have a full bar .,restaurant -> comfort,Arts & Entertainment
+comment_1_81,full bar <SEP> positive,It 's a full bar and a good selection of both bottled and draft beers .,restaurant -> comfort,Restaurants
+comment_1_82,full korean bar <SEP> positive,"Make sure you try the bar , they have a full Korean bar nothing seen in AZ !",restaurant -> comfort,Restaurants
+comment_1_83,full reclining seats <SEP> positive,The full reclining seats are the major draw to this place .,restaurant -> comfort,Arts & Entertainment
+comment_1_84,full room <SEP> negative,The room was full and loud !,restaurant -> comfort,Arts & Entertainment
+comment_1_85,giant full bar <SEP> positive,Giant full bar .,restaurant -> comfort,Hotels
+comment_1_86,good seat <SEP> positive,"so every seat is a good seat , so do nt feel like u need to pay alot for a ticket .",restaurant -> comfort,Arts & Entertainment
+comment_1_87,good seat in <SEP> positive,Every seat in the house is good .  ,restaurant -> comfort,Arts & Entertainment
+comment_1_88,great 2 bedroom suite <SEP> positive,The 2 bedroom Suite is great and can accommodate 6 people comfortably,restaurant -> comfort,Hotels
+comment_1_89,great front desk <SEP> positive,The front desk is great .,restaurant -> comfort,Hotels
+comment_1_90,great front row seats <SEP> positive,We had front row seats which were great,restaurant -> comfort,Arts & Entertainment
+comment_1_91,great reclining chairs <SEP> positive,5 stars for the reserved seating and great reclining chairs !,restaurant -> comfort,Arts & Entertainment
+comment_1_92,great seat <SEP> positive,Do nt worry if you ca n't afford top tier seats because every seat in the house is great .,restaurant -> comfort,Arts & Entertainment
+comment_1_93,great seat in <SEP> positive,Every seat in the house is great .,restaurant -> comfort,Arts & Entertainment
+comment_1_94,great table service <SEP> positive,We had great table service and I think they are referring to the waitresses when they mention eye candy .,restaurant -> comfort,Hotels
+comment_1_95,half empty restaurant <SEP> negative,"I went there with a friend and when I got there , the restaurant was half empty , but it still took them at least 10min to sit us down .",restaurant -> comfort,Restaurants
+comment_1_96,hard to find a seat <SEP> negative,Hard to find a seat during prime times .  ,restaurant -> comfort,Restaurants
+comment_1_97,hard to stay seated <SEP> negative,It 's hard to stay seated because the music and vocals are so infectious .,restaurant -> comfort,Arts & Entertainment
+comment_1_98,high beds <SEP> negative,Everything was in the working order but the beds did n't seem like the high - grade Hyatt Sweet Sleeper beds I 've slept in before .  ,restaurant -> comfort,Hotels
+comment_1_99,huge bed <SEP> positive,Loved the huge ( fits six ) bed .,restaurant -> comfort,Hotels
+comment_1_100,huge comfortable seating <SEP> positive,Huge comfortable seating !,restaurant -> comfort,Arts & Entertainment
+comment_1_101,huge couch <SEP> positive,Living room had a huge couch that could fit at least 3 people !,restaurant -> comfort,Hotels
+comment_1_102,huge place <SEP> positive,Place is huge .,restaurant -> comfort,Hotels
+comment_1_103,huge suite <SEP> positive,The two bedroom suite with the living room between is huge .,restaurant -> comfort,Hotels
+comment_1_104,improved seating <SEP> negative,"The seating could be improved several ways , needed more space between chairs and the angle was n't ideal most the time so I had my head cranked to the left for most the show .   ",restaurant -> comfort,Arts & Entertainment
+comment_1_105,incredibly friendly front desk <SEP> positive,The front desk was incredibly friendly greeting us with bottled water and a smile .,restaurant -> comfort,Hotels
+comment_1_106,informal cocktail table set up <SEP> positive,"It was the perfect set up for a informal cocktail table set up , I am not sure how the room would work for a larger party",restaurant -> comfort,Hotels
+comment_1_107,inviting seating area outside <SEP> positive,Seating area outside was inviting and comfortable .,restaurant -> comfort,Restaurants
+comment_1_108,king size bed <SEP> positive,HDTV and king size bed .,restaurant -> comfort,Hotels
+comment_1_109,king sized bed <SEP> positive,The king sized bed and the jacuzzi bathtub made the room .,restaurant -> comfort,Hotels
+comment_1_110,king sized beds <SEP> negative,"Jacuzzi , 2 king sized beds , 2 pull out beds , and a lot of living room space .   ",restaurant -> comfort,Hotels
+comment_1_111,large chairs <SEP> positive,The chairs recline and are large and comfy !,restaurant -> comfort,Arts & Entertainment
+comment_1_112,large seats <SEP> negative,"The premium seats are right near the large above the street windows where you can observe occasional passers - by , a weirdo parking their car right in middle of street or a couple stopping having decided to kiss  ",restaurant -> comfort,Restaurants
+comment_1_113,large suites <SEP> positive,"The suites are large and decorated with a modern , rock feel .",restaurant -> comfort,Hotels
+comment_1_114,large table <SEP> positive,There was also a bar and large table with three chairs in the front room .  ,restaurant -> comfort,Hotels
+comment_1_115,leather reclining seats <SEP> positive,they have leather reclining seats so you can get comfortable while watching a movie .,restaurant -> comfort,Arts & Entertainment
+comment_1_116,leather seats <SEP> negative,Seats recline and are leather .,restaurant -> comfort,Arts & Entertainment
+comment_1_117,less seats <SEP> positive,Less seats & no problem if you get front row as they recline flat .,restaurant -> comfort,Arts & Entertainment
+comment_1_118,like reserved seats <SEP> positive,The reserved seats is something that I like about Regal Cinemas .,restaurant -> comfort,Arts & Entertainment
+comment_1_119,liked seating <SEP> positive,Overall I liked the seating and the food selection .,restaurant -> comfort,Restaurants
+comment_1_120,little benches <SEP> positive,":) the area in front has little benches that are cozy , and it is surrounded by a variety of stores :)",restaurant -> comfort,Arts & Entertainment
+comment_1_121,little gaming tables <SEP> positive,"There are little gaming tables here , too , manned by the bunnies , so that is fun .",restaurant -> comfort,Arts & Entertainment
+comment_1_122,little low seats <SEP> negative,My only complaint is the seats are a little low,restaurant -> comfort,Arts & Entertainment
+comment_1_123,little mini bar door <SEP> negative,"Just a little problem with the mini bar door in the room ,   ca nt open ,",restaurant -> comfort,Hotels
+comment_1_124,little restaurant <SEP> negative,"Only thing , Club 36 should open little restaurant that is in pool area .",restaurant -> comfort,Hotels
+comment_1_125,little store <SEP> positive,and there 's a little Store to buy small things .,restaurant -> comfort,Hotels
+comment_1_126,little tables <SEP> positive,You get to sit at the bar or they have little tables and chairs for you to hang out .,restaurant -> comfort,Hotels
+comment_1_127,long black hairs sofa <SEP> negative,"Long black hairs on the sofa , floors , kitchenette counter .",restaurant -> comfort,Hotels
+comment_1_128,long chair mattresses <SEP> negative,My boyfriend and I brought long chair mattresses to put in the back of the car with pillows +,restaurant -> comfort,Arts & Entertainment
+comment_1_129,long standing restaurant in <SEP> negative,This has been a long standing restaurant in am area that has seen a lot of changes over the years .,restaurant -> comfort,Restaurants
+comment_1_130,long table <SEP> negative,"Two queen beds , a day bed , a desk , a long table , all graciously spaced out .  ",restaurant -> comfort,Hotels
+comment_1_130,long table <SEP> negative,They set a long table up for us that allowed us to move around and talk with each other .  ,restaurant -> comfort,Restaurants
+comment_1_131,lots of seating <SEP> negative,Lots of seating .,restaurant -> comfort,Arts & Entertainment
+comment_1_131,lots of seating <SEP> negative,Lots of seating .,restaurant -> comfort,Restaurants
+comment_1_132,lots of seating choices <SEP> positive,Lots of seating choices .,restaurant -> comfort,Arts & Entertainment
+comment_1_133,love floor seating <SEP> positive,"I love how they have floor seating in one area of the restaurant , it 's very beautiful .",restaurant -> comfort,Restaurants
+comment_1_134,love seating <SEP> positive,I love theaters with seating like this location has !  ,restaurant -> comfort,Arts & Entertainment
+comment_1_135,low seating <SEP> negative,A warning to those that do n't like low seating or sitting cross - legged while eating - you may want to opt to sit in the regular section of the restaurant .  ,restaurant -> comfort,Restaurants
+comment_1_136,luxurious chair <SEP> positive,The luxurious chair is too far too comfortable for a low price .,restaurant -> comfort,Arts & Entertainment
+comment_1_137,missing bottle service tables <SEP> positive,"This is Vegas put into a single room-- blingin bars , blackjack / poker tables , vip bottle service tables , playboy decor , $ pending $ $ $ , view of the strip at the windows .. just missing the rockstar dancin kinda attitude .  ",restaurant -> comfort,Arts & Entertainment
+comment_1_138,more open tables <SEP> negative,That would have been fine if they were busy but there were more open tables than filled tables .   ,restaurant -> comfort,Restaurants
+comment_1_139,most comfortable hotel beds <SEP> positive,I am writing this review because the Omni here had the most comfortable hotel beds I have slept on ever .  ,restaurant -> comfort,Hotels
+comment_1_140,never seat <SEP> negative,The only issue that I have with kneaders is that it 's always so packed and there is never an open seat .,restaurant -> comfort,Restaurants
+comment_1_141,never too packed place <SEP> positive,This place is never too packed but do n't let that discourage you .,restaurant -> comfort,Restaurants
+comment_1_142,nice big train /booth   <SEP> positive,They have a nice big train /booth   seating ; which was cool .,restaurant -> comfort,Restaurants
+comment_1_143,nice comfortable seats <SEP> positive,Nice comfortable seats where you do n't feel crowded .,restaurant -> comfort,Arts & Entertainment
+comment_1_144,nice comfy seating <SEP> positive,Nice comfy seating .,restaurant -> comfort,Arts & Entertainment
+comment_1_145,nice comfy seats <SEP> positive,"and when I say they have nice comfy seats , I mean it .",restaurant -> comfort,Arts & Entertainment
+comment_1_146,nice front desk <SEP> positive,Jimmy at front desk was nice .,restaurant -> comfort,Hotels
+comment_1_147,nice outside seating area <SEP> positive,They offer a nice outside seating area .,restaurant -> comfort,Restaurants
+comment_1_148,nice reclining chairs <SEP> positive,"Yes , the reclining chairs are nice ... but almost nothing else is .",restaurant -> comfort,Arts & Entertainment
+comment_1_149,nice seating areas <SEP> positive,Nice seating areas with one large TV .,restaurant -> comfort,Restaurants
+comment_1_150,nice table <SEP> positive,They had a nice table for us set up in the corner .,restaurant -> comfort,Restaurants
+comment_1_151,nonexistent table service <SEP> negative,Table service is nonexistent .  ,restaurant -> comfort,Restaurants
+comment_1_152,not a lot of seating <SEP> negative,There were very few slides and not a lot of seating .  ,restaurant -> comfort,Hotels
+comment_1_153,not a very big place <SEP> negative,Not a very big place .  ,restaurant -> comfort,Arts & Entertainment
+comment_1_154,not the most comfortable recliners <SEP> positive,"The recliners are not the most comfortable , but I 'll take it .",restaurant -> comfort,Arts & Entertainment
+comment_1_155,not the most comfortable seats <SEP> positive,The seats are not the most comfortable in a couple of the theaters,restaurant -> comfort,Arts & Entertainment
+comment_1_156,occupied table <SEP> negative,It seemed there was only one server on duty at the time & just about every table was occupied !,restaurant -> comfort,Restaurants
+comment_1_157,old blankets <SEP> negative,"The carpets , couches and blankets seemed old .",restaurant -> comfort,Hotels
+comment_1_158,old style seats <SEP> negative,"The seats are "" old style "" and do n't recline ( how spoiled have we become ! )",restaurant -> comfort,Arts & Entertainment
+comment_1_159,older hotel <SEP> positive,"An older "" luxury "" hotel in downtown charlotte .",restaurant -> comfort,Hotels
+comment_1_160,one bedroom suite <SEP> positive,We had the one bedroom suite on the 8 floor with the Bellagio view .,restaurant -> comfort,Hotels
+comment_1_161,open tables <SEP> negative,There seemed to be many open tables but we instead went outside where there was one bartender / server in charge of the entire ( very large ) area .  ,restaurant -> comfort,Restaurants
+comment_1_162,outdoor 2nd floor seating <SEP> positive,"The lobby bar has outdoor 2nd floor seating , which also has a view of the lake .",restaurant -> comfort,Hotels
+comment_1_163,outstanding seating <SEP> positive,Seating was outstanding .,restaurant -> comfort,Arts & Entertainment
+comment_1_164,oversized chair <SEP> positive,so I enjoyed time relaxing on the oversized chair .  ,restaurant -> comfort,Hotels
+comment_1_165,packed in seats <SEP> negative,"The seats are packed in there , so if you are n't a small person , you will probably be a bit crammed into the seats .",restaurant -> comfort,Arts & Entertainment
+comment_1_166,packed table <SEP> negative,We were a larger party of five adults and two toddlers so our table was just packed with what we ordered .,restaurant -> comfort,Restaurants
+comment_1_167,perfect lower level center seats <SEP> positive,Our seats were perfect lower level center .,restaurant -> comfort,Arts & Entertainment
+comment_1_168,ping pong pool tables <SEP> positive,Pool tables ping pong .,restaurant -> comfort,Hotels
+comment_1_169,plenty of lounge seating <SEP> positive,There is plenty of lounge seating but the majority of it is reserved .   ,restaurant -> comfort,Hotels
+comment_1_170,plenty of reserved seating <SEP> positive,"They have online reserved seating , plenty of theatres for movie times , and the seats recline .",restaurant -> comfort,Arts & Entertainment
+comment_1_171,plenty of seating <SEP> positive,Clean and big with plenty of seating .,restaurant -> comfort,Restaurants
+comment_1_172,plenty of seats <SEP> positive,Sozo has always had plenty of seats ( do n't read no one comes here ) and I 've had a few meetings here where I did n't want a group on top of me during our conversation .,restaurant -> comfort,Arts & Entertainment
+comment_1_173,preselected seats <SEP> negative,The seats are preselected and they fully recline electronically .,restaurant -> comfort,Arts & Entertainment
+comment_1_174,pretty comfortable seats <SEP> positive,The seats are pretty comfortable .,restaurant -> comfort,Arts & Entertainment
+comment_1_175,pretty small parking lot <SEP> negative,"Additionally , the parking lot is pretty small .   ",restaurant -> comfort,Arts & Entertainment
+comment_1_176,quickly seated <SEP> positive,We were seated quickly .  ,restaurant -> comfort,Restaurants
+comment_1_177,really comfortable recliner seats <SEP> positive,It 's down the street from me and really comfortable recliner seats .,restaurant -> comfort,Arts & Entertainment
+comment_1_178,really comfy beds <SEP> positive,The beds are really comfy .,restaurant -> comfort,Hotels
+comment_1_179,really comfy pillows <SEP> positive,The beds and pillows are really comfy .,restaurant -> comfort,Hotels
+comment_1_180,really nice touch reclining chairs <SEP> positive,The reclining chairs are a really nice touch and being able to select your seats in advance has really come in,restaurant -> comfort,Arts & Entertainment
+comment_1_181,reclining seats <SEP> positive,Plus reclining seats .,restaurant -> comfort,Arts & Entertainment
+comment_1_182,reserved seating <SEP> negative,"PLUS , its reserved seating .",restaurant -> comfort,Arts & Entertainment
+comment_1_183,reserved seating policy <SEP> negative,"so I do n't mind the reserved seating policy as I can just go over , buy the ticket , then come back home in less than 5 min .",restaurant -> comfort,Arts & Entertainment
+comment_1_184,reserved seats <SEP> negative,Reclining / reserved seats .,restaurant -> comfort,Arts & Entertainment
+comment_1_185,ridiculous seating <SEP> negative,The assigned seating is ridiculous .,restaurant -> comfort,Arts & Entertainment
+comment_1_186,separated couches <SEP> negative,The couches are separated enough from the dance floor that you do n't feel like you have to dance if you do n't want to .,restaurant -> comfort,Hotels
+comment_1_187,setup beds <SEP> positive,Our furniture and beds were setup as they were at the old house .,restaurant -> comfort,Automotive
+comment_1_188,slanted outside table <SEP> negative,Slanted outside table made relaxing uncomfortable .,restaurant -> comfort,Restaurants
+comment_1_189,small apartment <SEP> negative,It felt more like a small apartment rather than a regular hotel room .,restaurant -> comfort,Hotels
+comment_1_190,small casino <SEP> positive,This small casino on the 50 ish floor of the new fantasy tower of the Palms is really amazing .,restaurant -> comfort,Arts & Entertainment
+comment_1_191,small closets <SEP> negative,Small closets .,restaurant -> comfort,Hotels
+comment_1_192,small exhibit <SEP> negative,"The exhibit itself was small , but kept the kids entertained .  ",restaurant -> comfort,Arts & Entertainment
+comment_1_193,small fridge <SEP> negative,The room had a small fridge that got very cold .  ,restaurant -> comfort,Hotels
+comment_1_194,small parking lots <SEP> negative,Has multiple screens but small parking lots .,restaurant -> comfort,Arts & Entertainment
+comment_1_195,small restaurant <SEP> negative,"They also have a gift shop , cafe and small restaurant .   ",restaurant -> comfort,Arts & Entertainment
+comment_1_195,small restaurant <SEP> negative,Dillon 's is a small restaurant just off of the west side 101 loop at Thunderbird road .  ,restaurant -> comfort,Restaurants
+comment_1_196,small seating area <SEP> negative,They also have a small seating area out front .,restaurant -> comfort,Arts & Entertainment
+comment_1_197,small store <SEP> negative,"They have a cafe and a small store , as well as pool and hot rub .",restaurant -> comfort,Hotels
+comment_1_198,small venue <SEP> negative,Show is at a small venue right now .  ,restaurant -> comfort,Arts & Entertainment
+comment_1_199,snug seating <SEP> negative,"Be warm , seating can be snug at times",restaurant -> comfort,Restaurants
+comment_1_200,so darn comfortable seats <SEP> negative,"But overall , I have to give it three stars because the seats are just so darn comfortable .",restaurant -> comfort,Arts & Entertainment
+comment_1_201,sold out seats <SEP> negative,We had standing room - only seats ( the whole stadium was sold out ),restaurant -> comfort,Arts & Entertainment
+comment_1_202,soo comfy beds <SEP> positive,The beds were soo comfy !,restaurant -> comfort,Hotels
+comment_1_203,spacious 2 bedroom unit <SEP> positive,"We had a 2 bedroom unit , found it very spacious and comfortable .  ",restaurant -> comfort,Hotels
+comment_1_204,spacious establishment <SEP> positive,The establishment itself is spacious and well - designed .,restaurant -> comfort,Arts & Entertainment
+comment_1_205,spacious place for <SEP> positive,"Also , it 's a spacious place for birthday parties for kids .",restaurant -> comfort,Arts & Entertainment
+comment_1_206,spacious rows <SEP> positive,The reclining seats and spacious rows are such a treat ...,restaurant -> comfort,Arts & Entertainment
+comment_1_207,spacious seats <SEP> positive,"I liked the comfy , spacious redoing seats !",restaurant -> comfort,Arts & Entertainment
+comment_1_208,strictly theater seating <SEP> positive,Strictly theater seating .    ,restaurant -> comfort,Arts & Entertainment
+comment_1_209,super comfortable bed <SEP> positive,The bed was super comfortable .  ,restaurant -> comfort,Hotels
+comment_1_210,super comfortable place <SEP> positive,The place is super comfortable .,restaurant -> comfort,Restaurants
+comment_1_211,super comfortable seats <SEP> positive,Since they upgraded all their seats it is now super comfortable here .,restaurant -> comfort,Arts & Entertainment
+comment_1_212,super comfy bed <SEP> positive,Super comfy bed .,restaurant -> comfort,Hotels
+comment_1_213,super comfy beds <SEP> positive,"And of course , the beds were super comfy !",restaurant -> comfort,Hotels
+comment_1_214,super comfy couches <SEP> positive,Lots of room to sit and the couches are super comfy !,restaurant -> comfort,Arts & Entertainment
+comment_1_215,super comfy seats <SEP> positive,"Bottom line , the super comfy seats   will bring me back every once in a while , but it will no longer be my go to theater , as it is just too expensive .",restaurant -> comfort,Arts & Entertainment
+comment_1_216,super nice front desk <SEP> positive,Super nice at the front desk .,restaurant -> comfort,Hotels
+comment_1_217,surprisingly comfortable bed <SEP> positive,The pull out bed was surprisingly comfortable .,restaurant -> comfort,Hotels
+comment_1_218,three bedroom penthouse suite <SEP> positive,We loved the three bedroom penthouse suite .,restaurant -> comfort,Hotels
+comment_1_219,ticket- assigned seats <SEP> positive,Able to view and select available seats when buying ticket- assigned seating .,restaurant -> comfort,Arts & Entertainment
+comment_1_220,tiny bathrooms <SEP> negative,Tiny bathrooms - could barely close the door with the rug .  ,restaurant -> comfort,Hotels
+comment_1_221,tiny place <SEP> negative,"The place is tiny and crowded , but it 's places like this where stuff of legend comes from .  ",restaurant -> comfort,Restaurants
+comment_1_222,tiny theater <SEP> negative,It was not a big production and when we walked into the tiny theater I was honestly a little worried .,restaurant -> comfort,Arts & Entertainment
+comment_1_223,tiny venue <SEP> negative,The venue is tiny and is worn out .,restaurant -> comfort,Arts & Entertainment
+comment_1_224,too seating <SEP> negative,"seating is too crammed , like you are literally sitting shoulder to shoulder with strangers .",restaurant -> comfort,Restaurants
+comment_1_225,traditional seating area <SEP> positive,They have a traditional seating area with no chairs .   ,restaurant -> comfort,Restaurants
+comment_1_226,uncomfortable chair <SEP> negative,Gone are the days of freezing in an uncomfortable chair while drinking soda and eating popcorn .,restaurant -> comfort,Arts & Entertainment
+comment_1_227,"uncomfortable conference room "" type <SEP> negative","Main floor seats were conference room "" type "" and uncomfortable .    ",restaurant -> comfort,Arts & Entertainment
+comment_1_228,uncomfortable couch bed <SEP> negative,The couch bed was uncomfortable,restaurant -> comfort,Hotels
+comment_1_229,uncomfortable theatre seat <SEP> negative,I do n't want to sit in another uncomfortable theatre seat .,restaurant -> comfort,Arts & Entertainment
+comment_1_230,understaffed front desk <SEP> negative,Front desk is understaffed though .   ,restaurant -> comfort,Hotels
+comment_1_231,understaffed place <SEP> negative,"The only issue this place has is they are understaffed and when it gets busy , it gets VERY slow .",restaurant -> comfort,Restaurants
+comment_1_232,very clean lot <SEP> positive,Overall the lot is very clean .,restaurant -> comfort,Arts & Entertainment
+comment_1_233,very comfortable bed <SEP> positive,The bed was very comfortable .,restaurant -> comfort,Hotels
+comment_1_234,very comfortable king bed <SEP> positive,"Love this place , we have the king bed and it was very comfortable .",restaurant -> comfort,Hotels
+comment_1_235,very comfortable place <SEP> positive,Very comfortable place to hang .,restaurant -> comfort,Arts & Entertainment
+comment_1_235,very comfortable place <SEP> positive,It is a very comfortable place to wait while your car is getting washed .,restaurant -> comfort,Automotive
+comment_1_236,very comfortable seats <SEP> positive,The seats are very comfortable and recline back .,restaurant -> comfort,Arts & Entertainment
+comment_1_237,very comfy bed <SEP> positive,Bed was very comfy .  ,restaurant -> comfort,Hotels
+comment_1_238,very comfy seats <SEP> positive,i have to day the seats were very comfy .,restaurant -> comfort,Arts & Entertainment
+comment_1_239,very front desk <SEP> positive,"Front desk is very professional , courteous , and friendly .  ",restaurant -> comfort,Automotive
+comment_1_240,very nice and front desk <SEP> positive,The front desk was very nice and helpful and moved us out to avoid a repeat on our second night there .  ,restaurant -> comfort,Hotels
+comment_1_241,very nice pool table <SEP> positive,the game room had a pool table- very nice when you just want a night off from the strip .  ,restaurant -> comfort,Hotels
+comment_1_242,very small beds <SEP> negative,We are a married couple and asked for a room with just one bed but we got a room with two very small beds .,restaurant -> comfort,Hotels
+comment_1_243,very small parking lot <SEP> negative,Very small parking lot that fills quickly or park across the street in a lot .  ,restaurant -> comfort,Hotels
+comment_1_243,very small parking lot <SEP> negative,"Very small parking lot , can take out or eat in .",restaurant -> comfort,Restaurants
+comment_1_244,very tables <SEP> positive,he had several tables but was still Very attentive and quick !,restaurant -> comfort,Restaurants
+comment_1_245,weird table <SEP> negative,"Table was weird , dirty , and wobbly , like it was about to come off the pedestal .",restaurant -> comfort,Restaurants
+comment_1_246,wider seats <SEP> positive,The seats are wider and more padded .,restaurant -> comfort,Arts & Entertainment
+comment_1_247,wonderful seating <SEP> positive,"Seating is wonderful , prices ca n't be beat , and its surrounded by a few resturants and shops so you could catch dinner and do it all in one trip !",restaurant -> comfort,Arts & Entertainment
+comment_1_248,wonderful table <SEP> positive,We had a wonderful table right by the window .  ,restaurant -> comfort,Restaurants
+comment_1_249,worn bed <SEP> negative,The bed is worn and the couch bed smells like urine .,restaurant -> comfort,Hotels
+comment_1_250,wrong seat cover <SEP> negative,The seat cover was put in wrong and had a slice on the side that exposed the cushion .  ,restaurant -> comfort,Automotive
