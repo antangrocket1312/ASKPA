@@ -26,10 +26,6 @@ for reproducibility and evaluation.
 
 Model checkpoints can be downloaded from this [Google Drive link](https://drive.google.com/drive/folders/1kIEsac0e819rX63PmENPfTctWWww1mIC?usp=sharing).
 
-The `model/roberta-large-yelp-pretrained-contrastive-10-epochs-2023-02-15_23-31-51.rar` contains the checkpoint for the trained KP Matching model of ASKPA
-used for our evaluation. The checkpoint must be located under the [```code/model/siamese-models```](code/model/siamese-models). 
-Newly trained models should be found in the under the same folder.
-
 The `model/roberta-large-pretrained-yelp.rar` contains the checkpoint for the language model adapted to Yelp reviews,
 by pretraining using the Masked LM task. The checkpoint must be located under the [```code/model/```](/model) folder. 
 For reproducibility, it can be utilized to fine-tune new KP Matching models for review summarization
