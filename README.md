@@ -21,24 +21,30 @@ Files in each folder:
 * ```.jsonl```: data in .jsonl format (only for Yelp raw data).
 
 ## Model checkpoints
-Model checkpoints are saved and accessed under the [```code/model/```](/code/model) folder. We released two models 
+Model checkpoints are saved and accessed under the [```code/model/```](/code/model) folder. We released models trained under different settings (e.g. in-category/out-of-category)
 for reproducibility and evaluation.
 
 Model checkpoints can be downloaded from this [Google Drive link](https://drive.google.com/drive/folders/1kIEsac0e819rX63PmENPfTctWWww1mIC?usp=sharing).
-
-The `model/roberta-large-pretrained-yelp.rar` contains the checkpoint for the language model adapted to business reviews domain,
-by pretraining on the Yelp dataset using the Masked LM task. The checkpoint must be located under the [```code/model/```](/model) folder
 
 The `model/roberta-large-yelp-pretrained-contrastive-10-epochs-2023-02-15_23-31-51.rar` contains the checkpoint for the trained KP Matching model of ASKPA
 used for our evaluation. The checkpoint must be located under the [```code/model/siamese-models```](code/model/siamese-models). 
 Newly trained models should be found in the under the same folder.
 
+The `model/roberta-large-pretrained-yelp.rar` contains the checkpoint for the language model adapted to Yelp reviews,
+by pretraining using the Masked LM task. The checkpoint must be located under the [```code/model/```](/model) folder. 
+For reproducibility, it can be utilized to fine-tune new KP Matching models for review summarization
+
+The `model/ASKPA.zip`the checkpoints of ASKPA's contrastive KP Matching leaning model, trained under different settings, 
+and is used for our evaluation.
+Each model checkpoint is located in the respective ```{setting}/{category}/``` folder, while ```setting``` can either be **in-category** or **out-of-category**.
+Simply place ASKPA folder into [```code/model/```](/model) from the working directory to reproduce evaluation results in the paper.
+Any newly fine-tuned models can also be found in the under the same ```{setting}/{category}/``` folder.
 
 ## Code
 For reproducing the experiment, the following notebooks should be executed:
-- The [```contrastive_examples_construction_stage_1.ipynb```](/code/contrastive_examples_construction_stage_1.ipynb) notebook contains the code that extract and process raw data from the Yelp dataset 
+- The [```contrastive_examples_data_preparation.ipynb```](/code/contrastive_examples_data_preparation.ipynb) notebook contains the code that extract and process raw data from the Yelp dataset 
 to prepare for the construction of contrastive examples.
-- The [```contrastive_examples_construction_stage_2.ipynb```](/code/contrastive_examples_construction_stage_2.ipynb) notebook contains the code to construct contrastive examples to prepare for training.
-- The [```data_preparation.ipynb```](/code/data_preparation.ipynb) notebook contains the code that prepare and transform the data into desired input for training the siamese model
-- The [```training.ipynb```](/code/training.ipynb) notebook contains the code to train the KP Matching model of ASKPA
-- The [```evaluation.ipynb```](/code/evaluation.ipynb) notebook contains the code for model inference and evaluating the model
+- The [```contrastive_examples_data_construction.ipynb```](/code/contrastive_examples_data_construction.ipynb) notebook contains the code to construct contrastive examples to prepare for training.
+- The [```data_preparation.ipynb```](/code/data_preparation.ipynb) notebook contains the code that prepare and transform the data into desired input for training the siamese model in in-category/out-of-category settings
+- The [```ASKPA_training.ipynb```](/code/ASKPA_training.ipynb) notebook contains the code to train the KP Matching model of ASKPA in in-category/out-of-category settings
+- The [```ASKPA_evaluation.ipynb```](/code/ASKPA_evaluation.ipynb) notebook contains the code for model inference and evaluating the model in-category/out-of-category settings

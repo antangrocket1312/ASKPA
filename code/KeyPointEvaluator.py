@@ -97,10 +97,11 @@ def match_comment_with_keypoints(result, kp_dict, comment_dict):
 
 
 
-def perform_preds(model, comment_df, kp_df, isTopic=False):
+def perform_preds(model, comment_df, kp_df, in_category, isTopic=False):
     comment_keypoints = {}
 #     if 'isMultiAspect' in comment_df:
 #         isTopic = any(comment_df['isMultiAspect'] == False)
+    isTopic = any(comment_df['comment_id'].str.startswith('arg_3')) and in_category
     
     for topic in comment_df.topic.unique():
         topic_keypoints_ids = kp_df[(kp_df.topic==topic)]['key_point_id'].tolist()
