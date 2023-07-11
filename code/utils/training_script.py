@@ -18,8 +18,9 @@ import logging
 import os
 import sys
 
-import track_1_kp_matching
-from KeyPointEvaluator import KeyPointEvaluator
+# import track_1_kp_matching
+from .track_1_kp_matching import *
+from .KeyPointEvaluator import KeyPointEvaluator
 
 logging.basicConfig(format='%(asctime)s - %(message)s',
                     datefmt='%Y-%m-%d %H:%M:%S',
