@@ -1,10 +1,11 @@
 <div align="center">
 
-# ASKPA: Quantitative Summarization
+# ASKPA: Quantitative Review Summarization
 
 </div>
 
-This repository maintains the code, data, and model checkpoints for the paper *Aspect Sentiment-based Key Point Analysis for Quantitative Review Summarization*
+This repository maintains the code, data, and model checkpoints for the paper *Aspect-sentiment contrastive learning for 
+quantitative review summarization*
 
 ## Dataset
 We released the training and evaluation datasets of ASKPA. Datasets can be accessed under the ```data/``` folder, 
