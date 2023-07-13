@@ -39,7 +39,7 @@ Any newly fine-tuned models can also be found in the under the same ```{setting}
 
 ## Code
 For reproducing the experiment, the following notebooks should be executed:
-- The [```contrastive_examples_data_preparation.ipynb```](/code/contrastive_examples_data_preparation.ipynb) notebook contains the code that extract and process raw data from the Yelp dataset 
+- The [```contrastive_examples_data_preprocessing.ipynb```](/code/contrastive_examples_data_preprocessing.ipynb) notebook contains the code that extract and process raw data from the Yelp dataset 
 to prepare for the construction of contrastive examples.
 - The [```contrastive_examples_data_construction.ipynb```](/code/contrastive_examples_data_construction.ipynb) notebook contains the code to construct contrastive examples to prepare for training.
 - The [```data_preparation.ipynb```](/code/data_preparation.ipynb) notebook contains the code that prepare and transform the data into desired input for training the siamese model in in-category/out-of-category settings
