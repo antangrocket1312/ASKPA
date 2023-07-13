@@ -44,7 +44,7 @@ For reproducing the ASKPA training and evaluation, we provide the following note
 -  [```contrastive_examples_data_preprocessing.ipynb```](/code/contrastive_examples_data_preprocessing.ipynb) The notebook contains the code to pre-process, sample and select good data entries from 
 the Yelp dataset to later construct contrastive examples in ```contrastive_examples_data_construction.ipynb```
 -  [```contrastive_examples_data_construction.ipynb```](/code/contrastive_examples_data_construction.ipynb) The notebook contains the code to construct contrastive examples for training the ASKPA model.
--  [```ASKPA_training_prepatation.ipynb```](/code/ASKPA_training_preparation.ipynb) The notebook contains the code to prepare and transform the training data into desired input to ASKPA's siamese model in in-category/out-of-category settings
+-  [```ASKPA_training_preparation.ipynb```](/code/ASKPA_training_preparation.ipynb) The notebook contains the code to prepare and transform the training data into desired input to ASKPA's siamese model in in-category/out-of-category settings
 -  [```ASKPA_training.ipynb```](/code/ASKPA_training.ipynb) The notebook contains the code to train the KP Matching model of ASKPA in in-category/out-of-category settings
 -  [```ASKPA_evaluation.ipynb```](/code/ASKPA_evaluation.ipynb) The notebook contains the code for inference and evaluating the ASKPA model
 -  [```ASKPA¬c_evaluation.ipynb```](/code/ASKPA¬c_evaluation.ipynb) The notebook contains the code to conduct evaluation on ASKPA¬c (the ablation study of ASKPA without contrastive learning)
