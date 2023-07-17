@@ -7,6 +7,25 @@
 This repository maintains the code, data, and model checkpoints for the paper *Aspect-sentiment contrastive learning for 
 quantitative review summarization*
 
+## Installation
+### 1. Create new virtual environment by
+```bash
+conda env create -f environment.yml
+conda activate askpa
+```
+### 2. Install Pytorch
+For other versions, please visit: [https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/)
+### Linux
+##### Using GPUs
+```bash
+pip3 install torch torchvision torchaudio
+conda install -c anaconda cudatoolkit
+```
+#### Using CPU
+```bash
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+```
+
 ## Dataset
 We released the training and evaluation datasets of ASKPA. Datasets can be accessed under the ```data/``` folder, 
 following the [```training/```](/data/training) and [```evaluation/```](/data/evaluation) subdirectories for each dataset.
